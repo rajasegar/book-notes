@@ -11,9 +11,11 @@ Some things we want to do are simply beyond our capacity
 - We are not omniscient or all powerful
 - Much of the world and universe is-and-will remain outside our understanding and control
 
+
 We have just two reasons that we may nonetheless fail:
 - ignorance
 - ineptitude
+
 
 - The balance of ignorance and ineptitude has shifted greatly
 - Getting the steps right is proving brutally hard even if you known them
@@ -30,6 +32,8 @@ We have just two reasons that we may nonetheless fail:
 - There are degrees of complexity beyond the usual kind
 - Expertise is not enough.
 - Errors and oversights occur.
+
+
 -
 - Checklists not only offer the possibility of verification but also instill a kind of discipline of higher performance.
 - Checklists remind us of the minimum necessary steps and make them explicit.
@@ -40,10 +44,13 @@ We have just two reasons that we may nonetheless fail:
 - Preparation is the chief difficulty.
 - Checklists provide a kind of cognitive net to catch mental flaws inherent in all of us
 
+
+
 Mental flaws are flaws of 
 - memory
 - attention 
 - thoroughness
+
 
 - Expertise is valuable but most certainly not sufficient
 - The outcomes of complex problems remain highly uncertain
