@@ -1,2 +1,2 @@
-# The Sublte Art of Not Givng a F*ck
+# The Subtle Art of Not Givng a F*ck
 Mark Manson
