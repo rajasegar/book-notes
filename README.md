@@ -17,3 +17,4 @@ This is a collection of my book notes
 - [Tuesdays-with-Morrie](/tuesdays-with-morrie.md)
 - [The Logic of Failure](/logic-of-failure.md)
 - [The Last Lecture](/last-lecture.md)
+- [What are you doing with your life?](/what-are-you-doing-with-your-life.md)
