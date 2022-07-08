@@ -1,5 +1,5 @@
 # Attitude is Everything
-Author:
+Author: Jeff Keller
 
 - Attitude is your window to the world.
 > You can't always control circumstances. But you can control your own thoughts.
