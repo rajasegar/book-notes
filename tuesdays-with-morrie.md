@@ -67,3 +67,47 @@ Mitch Albom: An old man, young man and life's greatest lessons
 
 ## The Fourth Tuesday: We talk about Death
 - Everyone knows they are going to die, but nobody believes it. If we did, we would do things differently
+- The truth is once you learn how to die, you learn how to live.
+- in a moment of exuberance
+- **We really don't experience the world fully.**
+- The bird on your shoulder
+- Memento Mori - Remember death
+- If you accept that you can die at any time, then you might not be as ambitious as you are.
+- We are deficient in some way
+- We are too involved in materialistic things, and they don't satisfy us.
+
+
+## The Fifth Tuesday: We talk about Family
+- Love is so supremely important.
+- **Love each other or perish**.
+- Without love we are birds with broken wings.
+- spiritual security
+- Learn how to love and bond in the deepest way.
+
+## The Sixth Tuesday: We talk about Emotions
+- Don't cling to things, because everything is impermanent.
+- Learn to detach
+- Detachment doesn't mean you don't let the experience penetrate you. On the contrary you let it penetrate you fully.
+- When you learn how to die, you learn how to live.
+- in a state of fright
+- surge of love
+
+## The Professor, Part 2
+- Wealth don't buy you happiness or contentment
+- see right to the core of the problem
+- typically brave acceptance
+
+## The Seventh Tuesday: We talk about the fear of aging
+- unconditional love
+- unconditional attention
+- Young are not wise, they have little understanding about life.
+- Aging is not just decay, it's growth.
+- Aging is more than the negative that you're going to die.
+- Agins is also the positive that you understand that you are going to die, and that you live a better life because of it.
+- The fact is you are going to die eventually.
+- Accept who you are and revel in it.
+- Age is not a competitive issue.
+
+## The Eighth Tuesday: We talk about money
+- We put our values in the wrong things.
+-
