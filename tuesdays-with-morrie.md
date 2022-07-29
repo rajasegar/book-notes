@@ -110,4 +110,86 @@ Mitch Albom: An old man, young man and life's greatest lessons
 
 ## The Eighth Tuesday: We talk about money
 - We put our values in the wrong things.
--
+> Fate succumbs many a species, one alone jeopardizes itself. - W.H.Auden, Morrie's favourite poet
+- very disillusioned lives
+- fogged by all this 
+- no perspective
+- Money is not a substitute for tenderness.
+- Power is not a substitute for tenderness.
+- **Devote yourself to loving others.**
+- Devote yourself to your community around you.
+- Devote yourself to creating something that gives you purpose and meaning.
+- Status will get you nowhere.
+- inconsequential
+- smoke screen
+- Only an open heart will allow you to float equally between everyone.
+- Do the kinds of things that come from the heart. You'll be overwhelmed with what comes back.
+- If you are trying to show off for the people at the top. Forget it. They will look down at you anyhow.
+- If you are trying to show off for the people at the bottom, forget it. They will envy you.
+> Each night, when I go to sleep, I die . And the next morning, when I wakeup , I am reborn. - Mahatma Gandhi
+
+
+## The Ninth Tuesday: We talk about how Love goes on
+- **Love is how you stay alive, even after you are gone.**
+- So many people with far smaller problems are self-absorbed.
+- Everyone is in such a hurry.
+- People haven't found meaning in their lives, so they are running all the time looking for it.
+- Once you start running, it's hard to slow yourself down.
+- crinkle in delight
+- **What we take we must replenish**
+
+## The Tenth Tuesday: We talk about marriage
+- intuitive kindness
+- common set of values in life
+- **Love each other or perish**
+
+## The Eleventh Tuesday: We talk about our culture.
+- there is nothing  innately embarassing or shaming about them
+- the inherent good of people
+- People are only mean when they are threatened.
+- The big things - how we think, what we value those you must choose for yourself.
+- You can't let anyone or any society determine the big things for you.
+- Every society has its own problems. The way to do it, is not to run away.
+- You have to work at creating your own culture.
+- No matter where you live, the biggest defect we human beings have is our short-sightedness.
+- We don't see what we could be
+- We should be looking at our potential, stretching ourselves into everything we can become.
+
+## The Audiovisual  - Part 3
+- wanted to die with serenity
+- **Don't let go too soon, but don't hang on too long.**
+- Be compassionate and take responsibility for each other.
+
+## The Twelfth Tuesday: We talk about Forgiveness
+- Forgive yourself before you die, then forgive others.
+- There is not point in keeping vengeance or stubbornness.
+- whimsical look
+- You can't get stuck on the regrest of what should have happened.
+- **For all the things we didn't do. All the things we should have done.**
+- Forgive yourself, forgive others.
+- Make peace
+
+## The Thiteenth Tuesday: We talk about the perfect day
+- Body is a mere shell , container of the soul
+- Death is as natural as life. It is part of the deal we made.
+- We think because we are human, we are something above nature.
+- Death ends a life, not a relationship.
+- Love, responsibility, spirituality, awareness
+- Once you get your fingers on the important questions, you can't turn away from them.
+- Find perfection in an average day
+- There is no formula to relationships
+- Stop, renew, stop, renew
+- Love is when you are as concerned about someone else's situation as you are about your own.
+- fleeting moment of satisfaction
+
+## Conclusion
+- What to look out for
+- What mistakes to avoid
+- Be more open
+- Ignore the use of advertised values
+- Pay attention to when your loved ones are speaking
+- There is no such things as too late in life.
+- The subject was meaning of life. It was taught from experience.
+- The teaching goes on.
+
+
