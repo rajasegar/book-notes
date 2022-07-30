@@ -19,3 +19,4 @@ This is a collection of my book notes
 - [The Last Lecture](/last-lecture.md)
 - [What are you doing with your life?](/what-are-you-doing-with-your-life.md)
 - [Man's search for meaning](/mans-search-for-meaning.md)
+- [The Prophet](/the-prophet.org)
