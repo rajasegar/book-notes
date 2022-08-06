@@ -1,7 +1,7 @@
-# Book Notes
+* Book Notes
 This is a collection of my book notes
 
-## Table of Contents
+** Table of Contents
 - [Only the Paranoid Survive](/only-the-paranoid-survive.md)
 - [The Checklist Manifesto](/the-checklist-manifesto.md)
 - [Attitude is everything](/attitude-is-everything.md)
@@ -20,3 +20,4 @@ This is a collection of my book notes
 - [What are you doing with your life?](/what-are-you-doing-with-your-life.md)
 - [Man's search for meaning](/mans-search-for-meaning.md)
 - [The Prophet](/the-prophet.org)
+- [The Beginning of Infinity](/the-beginning-of-infinity.org)
