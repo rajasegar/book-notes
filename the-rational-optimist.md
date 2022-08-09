@@ -182,4 +182,142 @@ Author: Matt Ridley
 
 
 ## Escaping Malthus's trap: population after 1200
+- The return to subsistence happens often in human history
+- There is a cycle of rising and falling specilization in human populations
+- Population limitation does not really apply to human beings, because of their habit of exchange and specialization
+- Specialization and exchange fuelled population growth
+- Top-down coercion is counter-productive and unnecessary
+- Remarkably few people seem to know that the rate of increase in world population has been falling
+- Throughout the world birthrates are falling
+- Population growth is slowing even while death rates are falling
+- Children are consumer goods but rather time consuming and demanding ones
+- The more babies are likely to die, the more their parents bear.
+- If we save children from dying, people will have smaller families
+- **Probably by far the best policy for reducing population is to encourage female population**
+- Countries lower their birth rates as they grow healthier, wealthier, better educated , more urbanised and more emancipated
+- Consumption and commerce could be the friend of population control
 
+## The release of slaves: energy after 1700
+- **Capitalism exterminated slavery**
+- It was fossil fuels that eventually made slavery uneconomic
+- **Slaves were replaced by beasts, more out of practicality than compassion**
+- The secret of the industrial revolution was shifting from current solar power to stored solar power
+- Economic growth only became sustainable when it began to rely on non-renewable, non-green, non-clean power
+- Some things are finite but vast, some things are infinitely renewable but very limited
+- Every economic boom in history had ended in bust because renewable sources of energy ran out
+- Water power though renewable is very much finite
+- Fossil fules made modern living standards possible
+- The mechanisation of production in the industrial revolution raised incomes across all classes
+- The people who produce managed goods could also increasingly afford to consume them
+- the cause and consequence of mechanisation of the amplification of one person's labour by machinery and fuel
+- The industrial revolution caused a leap in the wealth generating capacity of the population
+- the enlargement of the consuming classes
+- Holy grail of marketing -> making it seeem to be both posh and affordable
+- **Protectionism would fail, even back fire**
+- a shift from low-grade self-sufficiency to slightly better production and consumption
+- Leisure has a real value even to very poor people
+- The harnessing of water power soon experienced diminishing returns
+ - the transition from an organic economy to a mineral economy
+- organic economy -> grew its own fuel
+- mineral economy -> mined its own fuel
+- **Industrialisation became contagious**
+- Electricity's contribution to human welfare can hardly be exaggerated
+- a smaller quantity of labour to produce a greater quantity of work
+- that fossil fuels will run out soon is an anxiety as old as fossil fuels themselves
+- Moreover, it is an undeniable if surprising fact, oftern overlooked, that Fossil fuels have spared much of the land from industrialisation
+- **The renewable alternatives are landscape eating**
+- To label the land-devouring monsters of renewable energy green, virtuous or clean strikes me bizarre.
+- **Renewables are not green**
+- Let's stop sanctifying false and minor gods
+- Then environmental benefits of bio fuels are not just illusory, they are negative
+- If you want to reduce CO2 in the atmosphere, replant a forest in the former farmland
+- The biofuel industry is not just bad for the economy, it is bad for the planet too
+- A sustainable future for 9 billion people on 1 planet is going to come from using as little land as possible
+- Ruining habitats and landscapes, and extinguishing species to fuel a civilization is a medieval mistake that surely need not to be repeated.
+- Civilizaiton like life itself has always been about capturing energy
+- **Human history is a tale of progressively discovering and diverting sources of energy to support human lifestyle.**
+- **Civilizaiton like life is a sisyphean flight from chaos**
+- **Energy is not the problem, energy is the solution**
+- We will need the watts from somewhere
+- The chaos will prevail in the end, but it is our mission to postpone that day as long as we can and to push things in the opposite direction with all the ingenuity and determination we can muster.
+
+## The invention of invention: increasing returns after 1800
+- The greatest impact of an increasing return wave comes when the technology is democratized
+- The death of distance may not be new, but it has been made affordable to all
+- **The more knowledge you can generate, the more you can generate**
+- The engine that is driving prosperity in the modern world is the accelerating generation of useful knowledge
+- The dissemination of useful knowledge causes that useful knowledge to breed more useful knowledge
+- Human race as a whole has experienced incessant change
+- The possibility of new knowledge makes the steady state impossible
+- Knowledge can never be gathered together in one place, it is collective not individual
+- The accelerated exchange of ideas and people made possible by technology fuelled the accelerating growth of wealth
+- Innovation is like a bush fire that burns brightly for a short time, then dies down before flaming up somewhere else
+- perpetual innovation machine
+- The generation of new useful knowledge is very far from routine, uniform , steady or continuous
+- Increasing returns to innovation are possible
+- No country remains for long the leader in knowledge creation
+- Prosperity and success led to the emergence of predators and parasites in various forms and guises
+- Again and again, the flame of innovation would splutter and die, only to flare up elsewhere
+- Increasing returns would indeed peter out if innovators did not have a new wave to catch every 30 years, it seems
+- 19th century - saw a rash of new ways to move people about
+- 20th century - saw a rash of new ways to move information about
+- speed was once a luxury
+- Paradox of the modern world: People embrace technological change and hate it at the same time
+- When a new invention is first propounded, in the beginning, every man objects, and the poor inventor runs the gauntloop of all petulant wits
+- **Discovery does not necessarily precede invention**
+- Science is much more like the daughter than the mother of technology
+- Throughout the industrial revolution, scientists were the beneficiaries of new technology, much more than they were the benefactors
+- Top down science played a little part in the early years of the industrial revolution
+- **The way to incentivise innovation is to bring capital and talent together.**
+- Most technological change comes from attempts to improve the existing technology
+- Most technological change happens only rarely as a result of the application and transfer of knowledge from the ivory towers of the intelligentsia
+- Splendid additions to the sum of human knowledge
+- Inventors will always go where the money can be found to back them
+- Private sector companies had gradually learnt to sew innovation into their culture and to set aside budgets for it.
+- **The great innovators are still usually outsiders**
+- The most dangerous moment in the life of a company was when it had succeeded, for then it stopped innovating.
+- One solution is for companies to try to set their employees free to have like entrepreneurs.
+- **Money is certainly important in driving innovation, but it is by no means paramount.**
+- Innovators will not invent unless they can keep at least some of the proceeds of their inventions
+- Intellectual property is very different from real property because it is useless if you keep it yourself.
+- People get rich by selling each other things(and services) not ideas
+- **The way to keep your customers is to keep making your own products obsolete.**
+- Some times and places are more innovative than the others
+- Government is also notorious for its ability to misread technical change
+- Innovation is not a predictable business and it responds poorly to dirigisme from civil servants
+- Ideas are having sex with other ideas from all over the planet with every increasing promiscuity
+- Although Government can pay people to stumble upon new techs, it is hardly the source of most innovation
+- Govt spending on R& D has no observable effect on economic growth
+- Spillover is not some accidental or tiresome drawback for the inventor
+- Innovators are therefore in the business of sharing
+- The secret of the modern world is its gigantic interconnectedness
+- Almost every technology is a hybrid
+- Spillover - the fact that others pinch your ideas
+- Technologies reproduce and they do so sexually
+- The history of the modern world is the history of ideas meeting, mixing, mating and mutating
+- Innovation is driven by free-revealing lead users
+- The world is turning bottom-up again, the top-down years are coming to an end.
+- Equilibrium and stagnation are not only avoidable in a free exchanging world; they are impossible
+- Discover - fast breeder chain reaction
+- Innovation - feedback loop
+- Invention - self fulfilling prophecy
+- The human race could quickly discover the limits to growth if knowledge stopped growing.
+- Knowledge is not the same thing as material wealth
+- We have accumulated fare more knowledge than we have lost.
+- Our species collectively adds more and more to the aggregate store of human knowledge as each year passes.
+- A world where perpetual innovation brings brief bursts of profit through temporary monopoly.
+- Innovation accounted for growth that could not be explained by an increase in labour, land or capital.
+- Innovation is an external force, a slice of luck that some economies had more of than others.
+- A piece of new knowledge lies behind every net advance in human economic welfare
+- A billion pages of knowledge make up the book of human prosperity
+- Things like climate, geography and political institutions determined the rate of innovation and not much could be done about them.
+- Innovation itself was an item of investment, that new applied knowledge was itself a product.
+- The wonderful thing about knowledge is that is genuinely limitless.
+- **There is not even a theoretical possibility of exhausting the supply of ideas, discoveries and inventions.**
+- Beautiful feature of info systems => far vaster than physical systems
+- The combinatorial vastness of the universe of possible ideas dwarfs the puny universe of physical things.
+- Innovation is limitless
+- Yet everybody is so pessimistic about the future?
+
+
+    
