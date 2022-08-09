@@ -319,5 +319,17 @@ Author: Matt Ridley
 - Innovation is limitless
 - Yet everybody is so pessimistic about the future?
 
+## Turning points: pessimism after 1900
+
+## The two great pessimisms of today: Africa and climate after 2010
+
+## The catallaxy: rational optimism about 2100
+
+## Postscript
+- The continuing imperfection of the world places a moral duty on humanity to allow economic evolution to continue
+- The path we have been treading is on the whole heading in a good direction
+- **Prosperity buys survival**
+- **Much less pain will come from nature the richer we become.**
+
 
     
