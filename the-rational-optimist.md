@@ -320,10 +320,79 @@ Author: Matt Ridley
 - Yet everybody is so pessimistic about the future?
 
 ## Turning points: pessimism after 1900
+- Implicit confidence in the beneficence of progress has come to be regarded as the sign of a shallow mind.
+- The human race has become a collective problem solving machine and it solves problems by changing its ways.
+- The world will not continue as it is.
+- **The pessimist's mistake is extrapolation: assuming that the future is just a bigger version of the past.**
+- It was a world in retrospect pregnant with possibility ready to explode into modernity.
+- How best we can encourage the necessary torrent of change?
+- **There is a tendency to believe that pessimism is new.**
+- Pessimists have always been ubiquitous and have always been feted.
+- Pessimism plays into the collective refusal to believe that life is getting better.
+- Individuals are personally optimistic yet socially pessimistic.
+- We all walk around with a non-burdensome form of cognitive dissonance 
+- About the future of society and the human race people are naturally gloomy
+- **There is immense vested interest in pessimism**
+- As the average age of a country's population rises, so people get more and more neophobic and gloomy.
+- Nonetheless notice that things have got better, not worse
+- Famine is largely history
+- The history of the world is replete with examples of the extinction or near exhaustion of resources.
+- Embracing dynamism means opening your mind to the possibility of posterity making a better world rather than preventing a worse one.
+- The technologies changed and so the resources changed
+- There was a great forest die-off due to acid rain
+- **The ultra-pessimists were simply wrong**
+- The human race was due a calling
+- Each one is a tragedy, but a threat to humanity it is not
+- the vestiges of hysteria remain
+- progressive economic recession
+
 
 ## The two great pessimisms of today: Africa and climate after 2010
+- ubiquitous pessimist vs rational optimist
+- **The top-down imposition of a bottom-up system is bound to fail**
+- The planner's role was to get out of the way of bottom-up evolutionary solutions
+- **Grandiose goals and centralized plans have a long and disastrous history**
+- Good institutions cannot usually be imposed from above
+- Good institutions must evolve from below
+- Good institutions imposed from above are oxymorons
+- Well crafted property rights are also the key to wild life and nature conservation
+- Free up the rules governing business
+- It is a special set of narcissm to believe that only the recent climate is perfect.
+- respectable scientific arguments / ripostes
+- The richer they get the less weather dependent their econonmies will be and the more affordable they will find adaptation to climate change
+- The extreme climate outcomes are so unlikely and depend on such wild assumptions.
+- The four horsemen of the human apocalypse which cause the man most premature and avoidable death in poor countries:
+  - dirty water
+  - hunger
+  - indoor smoke
+  - malaria
+- the threat to species are all too prosaic
+- local threats are far more immediate than climate change
+- Optimists are dismissed as fools, pessimists as sages
+- A warmer and richer world will be more likely to improve the well-being of both human beings and ecosystems than a cooler but poorer one.
+- It is the poor who are hit hardes by high energy costs
+- Cutting carbon will mean costly energy
+- There is just no sign of most renewable getting cheaper
+- Powering the world with such renewables now is the surest way to spoil the environment
+- Intermittent wind requires fossil fuel backup
+- Raising the cost of energy by definition, it destroys jobs by reducing investment in other sectors.
+- **Solar's big problem is its intermittent nature**
+- **The obvious way to go low carbon is nuclear**
+- Ingenuity is rampant as never before in this massively networked world.
+- The rate of innovation is accelerating through serendipitous searching not deliberate planning.
+- The future will feature ideas that are barely glints in the engineer's eys right now.
+- Give local people the power to own, exploit and proft from natural resources in a sustainable way and they will usually cherish and preserve those resources.
 
 ## The catallaxy: rational optimism about 2100
+- Catallaxy - spontaneuous order created by exchange and specialization
+- not only factually but morally wrong
+- **By far the most dangerous and indeed unsustainable thing the human race could do to itself would be turn off the innovation tap.**
+- **We consistently fail to grasp how many ideas remain to be discovered.**
+- Not inventing and not adopting new ideas can itself be both dangerous and immoral.
+- It will be hard to snuff out the flame of innovation, because it is such an evolutionary, bottom-up phenomenon in such a networked world.
+- Innovation is an evolutionary and bottom-up phenomenon
+- History repeats itself as a spiral not a circle
+- **Dare to be an optimist**
 
 ## Postscript
 - The continuing imperfection of the world places a moral duty on humanity to allow economic evolution to continue
