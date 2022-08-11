@@ -392,6 +392,13 @@ Author: Matt Ridley
 - It will be hard to snuff out the flame of innovation, because it is such an evolutionary, bottom-up phenomenon in such a networked world.
 - Innovation is an evolutionary and bottom-up phenomenon
 - History repeats itself as a spiral not a circle
+- Thanks to the internet, each is giving according to his ability to each according to his needs, to a degree that never happened in Marxism.
+- Fortunately, the flames of free thought and reason and catallaxy were kept burning
+- So long as human exchange and specialization are allowed to thrive somewhere, then culture evolves whether leaders help it or hinder it,
+  and the result is that prosperity spreads, technology progresses, poverty declines, disease retreats, fecundity falls, happiness increases,
+  violence atrophies, freedom grows, knowledge flourishes, then environment improves and wildernesss expands
+- Human nature will not change
+- The same old dramas of aggression and addiction, of infatuation and indoctrination, of charm and harm, will play out, but in an ever more prosperous world.
 - **Dare to be an optimist**
 
 ## Postscript
