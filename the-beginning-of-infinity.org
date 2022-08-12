@@ -51,7 +51,13 @@ Explanations that transform the world
 - Removing superfluous features and arbitrariness yields a good explanation.
 - Virtually all human attempts to explain experience in terms of a wider reality have indeed been fiction.
 - The maxim of testability promotes the growth of knowledge in science.
--
+- A good explanation makes it harder for you to fool yourself
+- The better an explanation is, the more rigidly its reach is determined.
+- Ideas were static for long periods
+- We need explanations to survive
+- Apperances are deceptive
+
+
 ** Closer to Reality
 
 
