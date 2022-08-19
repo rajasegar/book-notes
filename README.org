@@ -16,7 +16,7 @@ This is a collection of my book notes
 - [[/zero-to-one.md][Zero-to-One]]
 - [[/tuesdays-with-morrie.md][Tuesdays-with-Morrie]]
 - [[/logic-of-failure.md][The Logic of Failure]]
-- [[/last-lecture.md][The Last Lecture]]
+- [[/last-lecture.org][The Last Lecture]]
 - [[/what-are-you-doing-with-your-life.md][What are you doing with your life?]]
 - [[/mans-search-for-meaning.md][Man's search for meaning]]
 - [[/the-prophet.org][The Prophet]]
