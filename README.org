@@ -22,3 +22,4 @@ This is a collection of my book notes
 - [[/the-prophet.org][The Prophet]]
 - [[/the-beginning-of-infinity.org][The Beginning of Infinity]]
 - [[/the-rational-optimist.md][The Rational Optimist]]
+- [[/four-thousand-weeks.org][Four thousand weeks]]
