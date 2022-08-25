@@ -65,10 +65,55 @@ Author: Vicktor E Frankl
 - Suffering is an ineradicable part of life, even as fate and death.
 - **Without suffering and death, human life cannot be complete**.
 - Emotion which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it.
--
+- brave, dignified and unselfish
+- The chance for a man either to make use of or to forgo the opportunities of attaining the moral values that a difficult situation may afford him
+- Only a few people are capable of reaching such high moral standards
+- **Man's inner strength may rise him above his outward fate**
+- Fate has hit me so hard
+- With the end of the uncertainty there came the uncertainty of the end.
+- A man who let himself decline because he could not see any future goal, found himself occupied with retrospective thoughts.
+- In robbing the present of its reality there lay a certain danger
+- Often it's such an exceptionally difficult external situation which gives man the opportunity to grow spiritually beyond himself.
+- Naturally only a few people were capable of reaching great spiritual heights.
+- It is a peculiarity of man that he only lives by looking to the future
+- mental and spiritual decay
+- Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it.
+- **Life ultimately means taking the responsibility to find the right answer to its problems and fulfil the tasks which it constantly sets for each individual
+- **It did not really matter what we expect from life but rather what life expected from us.**
+- **What is really needed is a fundamental change in our attitude toward life**
+- We need to stop asking about the meaning of life and instead think of ourselves as those who were being questioned by life.
+- Every situation is distinguished by its uniqueness
+- There is always only one right answer to the problem posed by the situation at hand.
+- How much suffering there is to get through?
+- getting through suffering
+- **Life is not the attaining of some aim through the active creation of something value**
+- The meaning of life embraced the wider cycles of life and death, of suffering and dying.
+- Tears bore witness that a man had the greatest of courage, the courage to suffer.
+- The immediate influence of behavior is always more efective than that of words.
+- Encouragement was now more necessary than ever
+- That which does not kill me makes me stronger
+- Great chances sometimes open up quite suddenly at least for the individual
+- What you have experienced, no power on earth can take from you.
+- Human life under any circumstances never ceases to have a meaning and that this inifinite meaning of life includes suffering, dying, privation and death.
+- Mankind was apparently doomed to vacillate eternally between the two extremes of distress and boredom.
+- Life in a concentration camp tore open the human soul and exposed its depths.
+- **Human qualities in their very nature is a mixture of good and evil.**
+- It's reality did not penetrate into our consciousness
+- The boday has fewer inhibitions than the mind.
+- The commonplace truth: No one has the right to do wrong even if wrong has been done to them
+- bitterness and disillusionment
+- Suffering has no limits
+- the crowning experience of all
+- **The meaning of life always changes, but it never ceases to be.**
 -
 
 ## Logotherapy in a nutshell
+Discovering meaning of life in 3 different ways:
+  * by creating a work or doing a deed
+  * by experiencing something or encountering someone
+  * by the attitude we take toward unavoidable suffering
+  
+- Logotherapy is a method less retrospective and less introspective
 
 ## The tragic case of optimism
 
