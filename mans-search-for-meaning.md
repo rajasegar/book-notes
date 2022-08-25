@@ -114,6 +114,35 @@ Discovering meaning of life in 3 different ways:
   * by the attitude we take toward unavoidable suffering
   
 - Logotherapy is a method less retrospective and less introspective
+- Logotherapy focuses on the future, on the meanings to be fulfilled by the future
+- Logotherapy is a meaning-centered psychotherapy
+- Logotherapy defocuses all the vicious circle formations and feedback mechanisms
+- Primary motivational force in man => striving to find a meaning in one's life
+- Freudian Psychoanalysis => will to pleasure
+- Adrelian psychology => will to power ( striving for superiority)
+- Logotheraphy => will to meaning
+- **What man needs is not homeostasis by noo-dynamics**
+- Noo-dynamics => the existential dynamics in a polar field of tension between meaning and man
+- **What man actually needs is not a tensionless state, but rather the striving and struggling for a worthwhile goal, a freely chosen task.**
+- finding a purpose and meaning to life
+- Man's search for meaning is the primary motivation in his life and not a secondary rationalization of his instinctual drives.
+- Man is able to live and even to die for the sake of his ideals and values
+- Man's desire for a life that is as meaningful as possible
+- There is nothing in the world that would so effective help one to survive even the worst conditions as the knowledge that there is a meaning in one's life.
+- unable to see the forest of reality for the trees of symbols and images
+- **Some amount of conflict is normal and healthy**
+- A man's concern, even his despair, over the worthwhileness of life is an existential distress but by no means a mental disease
+- Suffering is not always a pathological phenomenon
+- Suffering may well be a human achievement
+- Inner tension is an indispensable prerequisite for mental health
+- Man is a being whose main concern consists in fulfilling a meaning
+- Mental health is based on a certain degree of tension
+- homeostasis => tensionless state
+- ** It is a dangerous misconception of mental hygiene to assume that what man needs in the first place is equilibrium.**
+- the beneficial impact of meaning orientation
+- Conformism => doing what others do
+- Totalianarism => doing what others wish you to do
+- Each man is questioned by life and he can only answer to life by answering for his own life.
 
 ## The tragic case of optimism
 
