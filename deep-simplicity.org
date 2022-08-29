@@ -12,9 +12,9 @@ Author: John Gribbin
    - The most interesting question of all remain unanswered.
    - Science made enormous progress largely by ignoring the complexities and focusing on the simple questions
    - Gravity crushes any structure out of existence
-   - **It is the simplicity that underpins complexity**
-   - **Chaos and complexity obey simple laws**
-   - **The complicated behavior of the world we see around us is merely surface complexity arising out of deep simplicity**
+   - *It is the simplicity that underpins complexity*
+   - *Chaos and complexity obey simple laws*
+   - *The complicated behavior of the world we see around us is merely surface complexity arising out of deep simplicity*
    - All business of chaos and complexity is based on two simple ideas:
      - the sensitivity of a system to its starting conditions
      - feedback
