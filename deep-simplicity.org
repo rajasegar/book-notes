@@ -38,6 +38,25 @@ Author: John Gribbin
    - chaotic and unpredictable fashion
 
 ** The Return of Chaos
+   - Many systems in the real world are sensitive to their initial conditions and that they move away from those starting conditions in a non-linear fashtion.
+   - There is no way at all to predict or know the future except by watching the Universe evolve
+   - In our everyday lives, most changes occur in a linear fashion
+   - You should take nothing for granted.
+   - The only system that can replicate the behaviour of the Universe in every detail, is the Universe itself.
+   - Instability is the normal
+   - Permanently stable orbits are the exception
+   - The Universe is ignorant of its own future and is its own fastest simulator
+   - A non-linear system may be either much more or much less than the sum of its parts.
+   - A linear system is more or less equal to the sum of its parts
+   - Non-linear things move very swiftly away from their starting points
+   - In some circumstances we cannot calculate just how a system will change as time passes because the information we have
+     about it's starting conditions is not accurate enough
+   - Small differences in the initial conditions produce very great ones in the final phenomena
+   - *Deterministic universe could never be predicted in practice, either forwards or backwards*
+   - The observations were neither sufficiently comprehensive nor sufficiently precise
+   - Linear forecasting techniques were far from perfect.
+   - Linear equations are easier to work with than non-linear equations.
+   - 
 
 ** Chaos out of order
 
