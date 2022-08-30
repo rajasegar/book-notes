@@ -1,6 +1,24 @@
 * Good Strategy Bad Strategy
 Author: Richard Rumelt
 
+** Introduction - Overwhelming Obstacles
+- Good strategy is almost looks this simple and obvious
+- Strategy is not:
+	- ambition
+	- determination
+	- inspirational leadership
+	- innovation
+- Ambition is drive and zeal to excel
+- Determination is commitment and grit
+- Innovation is the discovery and engineering new ways to do things
+- Pivot points => multiply the effectiveness of efforts
+- Core of strategy work:
+	- discovering the critical factors in a situation
+	- designing a way of coordinating and focusing actions to deal with those factors
+- *A good strategy recognizes the nature of the challenge and offers a way of surmounting it*
+- *Simply being ambitious is not a strategy*
+- 
+
 ** Good Strategy Bad Strategy
 *** Good Strategy is unexpected
 *** Discovering Power
