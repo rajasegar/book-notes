@@ -56,11 +56,59 @@ Author: John Gribbin
    - The observations were neither sufficiently comprehensive nor sufficiently precise
    - Linear forecasting techniques were far from perfect.
    - Linear equations are easier to work with than non-linear equations.
-   - 
+   - toy models = simplifications
+   - Butterfly effect => the sensitivity of the weather (and other complex systems) to initial conditions
+   - The errors and uncertainties inherent in the observations matter significantly
+   - The underlying simplicity from which chaos and complexity emerge:
+     - simple laws
+     - non-linearity
+     - sensitivity to initial conditions
+     - feedback
+   - *Simple laws, non-linearity, sensitivity to initial conditions and feedback are what make the world tick*
+   - Resonance - way of getting a large return for a relatively small effort, by making the effort at just the right time and pushing a system the way it wants to go
+   - *We owe our existence directly to the effects of chaos at work in the asteroid belt*
+   - The orbits of the planets are technically chaotic
+   - obliquity - angle of tilt of a planet
+   - pi - irrational number
+   - *Time cannot, in principle, be reversed*
+   - *The Universe cannot, in principle, be predicted in all its details*
+   - *Chaos is inevitable*
+   - No computer can be bigger than the entire universe
+   - *The complexity of the universe is based on the deep simplicity*
+   - *The complexity of the universe has emerged from the chaos*
+   - *Life itself has emerged from the chaos*
 
 ** Chaos out of order
+ - *Understanding the emergence of life is the utimate aim*
+ - an unbroken chain of cause and effect
+ - The road to chaos involves an infinite no of choices operating on an infinitely small scale
+ - logistic equation = describes how the population of a species changes from one generation to the next
+ - *In the midst of order there is chaos; in the midst of chaos there is order*
+ - It is overwhelmingly more likely that a system will fall in to the chaotic regime
+ - A completely random iterative process obeying a very simple rule has built up a fractal pattern
+ - *It is randomness plus a simple iterative rule (or rules) that makes the complexity of the world*
+ - complex numbers => 2D, everyday numbers => 1D
+ - *Complexity arises from simplicity*
+ - *The way to make complex structures out of simple rules is repetition*
+ - *The underlying simplicity of the world can produce complex structures*
+ - Near fractal self-similarity is a pervasive feature of the bodies of living organisms
+ - *Complexity lives at the edge of chaos*
+ - The most complex and interesting things in the universe are happening right at the end of chaos, just before order is destroyed.
 
 ** The Edge of Chaos
+
+ - *The nearest a living thing ever gets to equilibrium is when it dies*
+ - The gravitational force between two objects diminishes as they get further apart
+ - Energy flowing through an open system and being dissipated
+ - The gravitational energy of any object that has mass is negative
+ - More compact object -> more negative its gravitational energy
+ - The amount of gravitational energy stored in a collection of objects depends on the force between them.
+ - *Universe could have appeared out of nothing at all*
+ - A star might be created out of nothing at all
+ - The Universe started out from the big bang in a very uniform state
+ - Light takes a finite time to travel through space
+ - Time elapsed since the Big Bang - 14 billion years
+ - *The Universe is not in thermodynamic equilibrium*
 
 ** Earthquakes, extinctions and emergence
 
