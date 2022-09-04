@@ -111,7 +111,31 @@ Author: John Gribbin
  - *The Universe is not in thermodynamic equilibrium*
 
 ** Earthquakes, extinctions and emergence
+ - We are the natural expression of the deeper order
 
 ** The Facts of Life
+ - Evolution is a fact of life
+ - *The stable scenario is not necessarily the best scenario*
+ - widening ripple of interactions
+ - Evolution by natural selection will ensure that a change which is detrimental to the species involved will be washed away over the generations
+ - A change that is beneficial  will spread and by spreading it will open up more networks pushing the system towards the edge of chaos
+ - *Complex systems naturally evolve towards the phase transition at the edge of chaos*
+ - In the static regime, nothing changes
+ - In the chaotic regime, the changes are so rapid that nothing interesting can ever get time to happen
+ - All species must evolve as fast as they can just to keep up with other species
+ - The cut and try of evolution is not just to build a good animal, but to find good building blocks that can be put together to make many good animals
+ - Species get neither better at surviving nor worse as time passes; they die off at random
+ - *The struggle for survival is just as hard as it used to be*
+ - *Successful species actually get better at evolving as time passes*
+ - Evolution operates at the level of the individual
+ - Change happens only slowly from one generation to the next
+ - Sparsely connected networks naturally evolve to such a state with intervals of equilibrium punctuated by intervals of change
+ - Earthquakes always begin at the point where the strain that has built up first exceeds some critical threshold
+ - Simple models do give a good description of the real world
+ - *The test of a good model is not how simple it is, but how well it provides insight into real systems*
+ - the underlying simplicity of the worlk
+ - All of the different effects produce the same pattern.
+ - When the physical environment changes, the fitness landscape changes
+ - The physical environment and the biological environment are interconnected much more subtly than it seems at first sight
 
 ** Life Beyond
