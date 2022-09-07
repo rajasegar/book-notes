@@ -4,8 +4,23 @@ Author: Geno Segre
 What temperature reveals about the past and future of our species, planet and universe
 
 ** Introduction: The Ruler, The Clock and the Thermometer
+- New ideas expand our horizons
+- Metrology - study of measurement
+- Temperature was necessarily part of the narrative, not a peripheral marker
 
 ** 98.6
+- Hypothermia < Normal Temperature < Pyrexia
+- We can only marvel at the efficient workings of a system that has evolved over millions of years
+- Having a constant body temperature is simply the best evolutionary choice for animals as complex as we are
+- Constant temperature is best for us
+- We function most efficiently in the vicinity of 100 degrees Fahrenheit
+- A higher body internal thermostat settings affords greater activity
+- Most machines are quite inefficient
+- > 70% of energy input into the body is converted into heat
+- Heat always flow from hotter to colder objects
+- 98.6 degrees => the point where heat in equals heat out
+- Form follow function and decoration follows form
+- 
 
 *** Constant Temperature
 
