@@ -26,3 +26,4 @@ This is a collection of my book notes
 - [[/deep-simplicity.org][Deep Simplicity]]
 - [[/genome.org][Genome]]
 - [[/good-strategy-bad-strategy.org][Good Strategy Bad Strategy]]
+- [[/a-matter-of-degrees.org][A Matter of Degrees]]
