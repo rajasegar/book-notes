@@ -12,9 +12,9 @@ Some things we want to do are simply beyond our capacity
 - Much of the world and universe is-and-will remain outside our understanding and control
 
 
-We have just two reasons that we may nonetheless fail:
-- ignorance
-- ineptitude
+- We have just two reasons that we may nonetheless fail:
+	- ignorance
+	- ineptitude
 
 
 - The balance of ignorance and ineptitude has shifted greatly
@@ -46,10 +46,10 @@ We have just two reasons that we may nonetheless fail:
 
 
 
-Mental flaws are flaws of 
-- memory
-- attention 
-- thoroughness
+- Mental flaws are flaws of 
+	- memory
+	- attention 
+	- thoroughness
 
 
 - Expertise is valuable but most certainly not sufficient

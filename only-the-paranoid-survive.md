@@ -5,12 +5,12 @@ Author: Andrew S Grove
 ### Strategic Inflection Point
 A time in the life of a business when its fundamentals are about to change.
 
-- Business success contains the seeds of it's own destruction.
+- **Business success contains the seeds of it's own destruction.**
 -
 - A strategic inflection point can be deadly when unattended to.
 - Strategic inflection points are not restricted to technology industries
-- We must focus on getting ready for changes
-- Nobody owes you a career, your career is literally your business.
+- **We must focus on getting ready for changes**
+- **Nobody owes you a career, your career is literally your business.**
 - the impact of changing rules
 - It's about finding your way through uncharted territories.
 -
