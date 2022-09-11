@@ -109,9 +109,63 @@ Author: John Gribbin
  - Light takes a finite time to travel through space
  - Time elapsed since the Big Bang - 14 billion years
  - *The Universe is not in thermodynamic equilibrium*
+ - It is gravity that tells the arrow of time which way to point
+ - There are systems which cannot be compressed algorithmically and whose most compact representation are themselves
+ - *The shortest description of the Universe is the universe itself*
+ - The impetus to computer development was provided by the code-breaking work
+ - Neural networks - any sufficiently complex mechanical system could learn from experience without actually being programmed by an outside intelligence
+ - Life molecule - the double helix structure of DNA
+ - Catalyst !== Inhibitor
+ - Catalysis - The presence of a particular chemical substance (the catalyst) encourages a particular chemical reaction to take place
+ - autocatalysis - positive feedback at work in a non-linear process
+ - Enzymes = protein molecules
+ - the reactions involve feedback and non-linearity
+ - What seems to be a complicated pattern of self-organization can be explained in terms of a few simple interactions
+ - *It is certainly always advisable to choose the simplest solution unless there are overwhelming reasons not to*
+ - It is not quite always true in science that the simplest solution to a problem is certain to be the right one
+ - Ockham's Razor - entities ought not to be multiplied except of necessity
+ - Ockham's Razor - extremely reliable rule of thumb in most circumstances
+ - *Not every feature of anatomy has to be adaptive*
+ - External form seems to be under the control of simple chemical process
+ - genetics = nature, environment = nurture
+ - Evolution is a fact, a process seen  at work both in living organisms today and in the fossil record
+ - Darwin's theory -> Evolution, Newton's theory -> Gravity
+ - We do not yet have an evolutionary equivalent of Einstein's theory of gravity
+ - *Variety is not just the spice of life; it is at the very heart of how life works*
+ - The Turing mechanism occur in dissipative systems at the edge of chaos
+ - Sometimes, small changes in the environment or small mutations can have big effects on the body form that develops
+ - Small random changes can also have either big or small effects in the world at large
+ - To understand how evolution takes place we must understand the morphogenetic processes involved
 
 ** Earthquakes, extinctions and emergence
  - We are the natural expression of the deeper order
+ - 1/f noise contains information
+ - The noise in the weather system is 1/f noise
+ - It is so important to look at long term trends not just one-off events
+ - Earthquakes obeying a power law
+ - We are on the trail of a deep truth
+ - We can begin to understand what is going on by looking at simpler systems, starting with one that also involves people
+ - Good models are sufficient to give an insight into what's going on
+ - Large events can happen out of the blue as a consequence of small triggers
+ - Stock market fluctuations behave as 1/f noise
+ - Economies are actually self-organizing systems on the edge of chaos
+ - Any single event might be a special case and doesn't on its own tell you anything much about the underlying cause of similar events
+ - We are dealing with a complex system - life on Earth - which is self-organizing, feeding off a flow of energy and exists at the edge of chaos
+ - You do not need a larger trigger in order to set off a large event.
+ - It is all built on networks, interconnections between the simple parts that make up a complex system
+ - chaos, complexity and self-organized criticality
+ - The way life arose is a phase transition in a chemical system involving a sufficient number of connections between the nodes of the network
+ - The complexity of living things may very well be based on deep simplicity
+ - Genes acto to control the machinery of the cell
+ - Different kinds of cells are specialized for different tasks
+ - There have only been about 4 x 10^17 seconds since the Big Bang in which the Universe was born
+ - *Interesting things happen at the edge of chaos*
+ - Feedback is an essential ingredient, in what makes them interesting
+ - No of genes is directly proportional to the amount of DNA
+ - Creatures like us are the most complicated systems in the universe
+ - provocative and persuasive ideas of cell differentiation and development
+ - *The most complicated systems in the Universe are built upon very simple rules*
+ - the deep simplicity of the world
 
 ** The Facts of Life
  - Evolution is a fact of life
@@ -139,3 +193,32 @@ Author: John Gribbin
  - The physical environment and the biological environment are interconnected much more subtly than it seems at first sight
 
 ** Life Beyond
+ - Previously we were looking at life from the inside out
+ - Now we are going to look at life from the outside in
+ - Best way to look for entropy reduction -> measure the chemical composition of the atmosphere
+ - independently minded and non-conformist
+ - No life - gases in the atmosphere would be in a state of thermodynamic or chemical equilibrium
+ - Life - waste products would be dumped and lower the entropy
+ - An experiment that look for the general attributes of life, rather than specific kinds of life
+ - Living systems characteristically bring local order  to systems, making entropy run backwards as long as they have
+	 an external source of energy to feed on
+ - A simple analysis of sound patterns could reveal the presence of life
+ - Negative entropy = Information
+ - *Nothing interesting happens in thermodynamic equilibrium*
+ - Without the intervention of life all the oxygen in the atmosphere would get locked away in less than 10 million years
+ - *The behavior of life on Earth alters the physical landscape*
+ - Liquid water and life existed on the surface of our planet by 4 billion years ago
+ - *An hypothesis is an idea about how things might work, it has not been tested by experiment and observation*
+ - *Surface complexity is built upon foundations of deep simplicity*
+ - The story of life in the Universe is another example of surface complexity built upon foundations of deep simplicity
+ - 4 most common reactive elements - Carbon, Hydrogen, Oxygen and Nitrogen (CHON)
+ - Proteins of all living things on earth are composed of various combinations of just 20 amino acids
+ - *The boundary between life and non-life is blurred*
+ - There is nothing unusual about life in the context of the way the Universe works
+ - It is natural for simple systems to organize themselves into networks at the edge of chaos
+ - Interferometry - data from several small telescopes are combined to mimic the observing power of one much larger telescope
+ - Earth is the brightest planet in the solar system
+ - *Life is entropy-reduction process*
+ - Simple underlying causes can produce surface complexity
+ - Chaos and complexity combine to make the universe a very orderly place, just right for life-forms like us.
+ - *We are made in the image of the Universe itself*
