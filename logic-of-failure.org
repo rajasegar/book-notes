@@ -1,0 +1,74 @@
+* The Logic of Failure
+How to detect and avoid error in complex situations
+Author: Dietrich Dorner
+
+** Introduction
+ - We are distressed, however, if we overlook the obvious
+ - The global interrelations of today make such dissension important everywhere
+ - *The modern world is made up of innumerable interrelated subsystems, and we need to think in terms of these interrelationships*
+
+** Some Examples
+
+*** The Lamentable fate of Tanaland
+
+*** The Not-Quite-So-Lamentable Fate of Greenvale
+
+*** Chernobyl in Tanaland
+
+** The Demands
+
+*** Complexity
+
+*** Dynamics
+
+*** Intransparence
+
+*** Ignorance and Mistaken Hypotheses
+
+*** Steps in Planning and Action
+
+** Setting Goals
+
+*** Requirements of Goal setting
+
+*** General Goals and "Repair Service" behavior
+
+*** Liberty, Equality and "Voluntary Conscription"
+
+** Information and Models
+
+*** Reality, Models and Information
+
+*** Solving problems one at a time
+
+*** "It's the Environment" 
+
+*** Prime Numbers and Tourist Traffic or Moltke and Forest Fires
+
+*** The Pale Cast of Thought
+
+** Time Sequences
+
+*** Time and Space
+
+*** Lilypads, Grains of Rice and AIDS
+
+*** A Premature All Clear
+
+*** Laymen and Experts
+
+*** "Twenty-eight is a good number"
+
+*** Predators and Prey
+
+*** The Moths of Kuera
+
+** Planning
+
+*** Go Make Yourself a Plan
+
+*** Rumpelstilskin
+
+*** Learn by Making Mistakes? Not Necessarily!
+
+** So Now what we do?
