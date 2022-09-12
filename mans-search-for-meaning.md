@@ -170,7 +170,105 @@ Discovering meaning of life in 3 different ways:
 - **The wish is the father of thought**
 - Logotherapy is activistic not pessimistic
 - The fear is the mother of the event
+- Pleasure is and must remain a side effect or byproduct and is destroyed and spoiled to the degree to which it is made a goal in itself
+- Fear brings about that which one is afraid of 
+- Hyper-intention makes impossible what one wishes
+- Hyper reflection => excessive attention
+- Paradoxical intention is the empirical validation and clinical application
+- Paradoxical intention is no panacea
+- Pressure precipitates counter pressure
+- Symptom -> Phobia -> Symptom
+- By applying paradoxical intention, the vicious cycle is cut
+- Anticipatory anxiety has to be counteracted by paradoxical intention
+- The cue to cure is self-transcendence
+- Hyper intention as well as Hyper reflection have to be counteracted by dereflection
+- Nihilism can be defined as the contention that being has no meaning
+- erroneous and dangerous assumption
+- Pan-determinism - The view of a man which disregards his capacity to take a stand toward any conditions whatsoever
+- **Every human being  has the freedom to change at any instant**
+- highest conceivable moral standard
+- One of the main features of human existence is the capacity to rise above such conditions and to grow beyond them
+- Man is capable for changing the world for better if possible and of changing himself for the better if necessary
+- We can predict man's future only within the large framework  of a statistical survey referring to a whole group
+- **Man is more than psyche**
+- Our generation is realistic, for we have come to know man as he really is
+- Instead of possibilities, I have realities in my past not only the reality of work done or love loved
+  but of sufferings bravely suffered
+- Nothingbutness => The theory that man is nothing but the result of biological, psychological and socialogical conditions
+  or the product of heredity and env
+- A human being is a finite thing and his freedom is restricted. It is not freedom from conditions, but it is freedom to take 
+  a stand toward the condtions
+- Man is not fully conditioned and determined but rather determines himself whether he gives in to conditions or stands up to them
+- **Man is ultimately self-determining**
+- Man does not simply exist but always determines what his existence will be, what eh will become in the next moment
+- **The individual personality remains essentially impredictable** 
 
-## The tragic case of optimism
+## The case for a tragic optimism
+- Freedom => negative aspect, Responsibility => positive aspect , of the whole phenomenon
+- Freedom is in danger of degenerating into mere arbitrariness unless it is lived in terms of responsibleness
+- The statue of Liberty on the east coast should supplanted by a statue of responsibleness on the west coast.
+- **A human being is not one thing among others**
+- **Man is ultimately self-determining**
+- Man has both potentialities (swine and saint) within himself; which one is actualized depends on decisions but not on conditions
+- Tragic optimism -> one is and remains optimistic in spite of the tragic triad
+- Tragic triad => a triad which constitutes of those aspects of human existence which may be circumscribed by:
+  - pain
+  - guilt
+  - death
+- Life is potentially meaningful under any conditions even those which are most miserable
+- The human capacity to creatively turn life's negative aspects into something positive or constructive
+- **What matters is to make the best of any given situation**
+- Tragic optimism is an optimism in the face of a tragedy
+- Tragic optimism allows for:
+  - turning suffering into a human achievement and accomplishment
+  - deriving from guilt an opportunity to change oneself for the better
+  - deriving from life's transitoriness an incentive to take responsible action
+- **Optimism is not anything to be commanded or ordered**
+- One can't even force oneself to be optimistic indiscriminately, against all odds, against all hope
+- **Happiness cannot be pursued, it must ensue**
+- One must have a reason to be happy
+- The feeling of meaninglessness resulting from a frustration of our existential needs
+- **People have enough to live by, but nothing to live for**
+- **People have the means, but no meaning**
+- Man does not live by welfare alone
+- existential vacuum:
+  - depression
+  - aggression
+  - addiction
+- existential vacuum = a feeling of emptiness and meaninglessness
+- A strong meaning orientation plays a decisive role in the prevention of suicide
+- **The final meaning of life reveal itself on the verge of death**
+- an abysmal feeling of meaninglessness
+- things seemed meaninglessness
+- the potential meaning inherent and dormant
+- The perception of meaning more specifically boils down to becoming aware of what can be done about a given situation
+- biographical approach, biological approach
+- **Meaning can be found not only in work, but also in love**
+- turn a personal tragedy into a triump
+- He is not only unhappy but also being ashamed of being unhappy
+- the defiant power of the human spirit
+- **One may find meaning in suffering**
+- **Suffering is unavoidable**
+- View your life as being abundant with meaning and purpose
+- If one cannot change a situation that causes his suffering, he can still choose his attitude
+- **Without suffering, the growth you achieve would be impossible**
+- Unnecessary suffering is masochistic rather than heroic
+- Life remains potentially meaningful under any conditions, even those which are most miserable
+- For at any time each of the moments of which life consists is dying and that moment will never recur
+- Make the best possible use of each moment of our lives
+- Live as if you were living for the second time and had acted as wrongly the first time as you are about to act now
+- Life's meaning is an unconditional one
+- Today's society is characterised by achievement orientation
+- Nihilism states that everything is meaningless
+- Confounding the dignity of man with mere usefulness arises from a conceptual confusion
+- Passing the torch to independent and inventive, innovative and creative spirits
+- For the world is in a bad state, but everything will become still worse unless each of us does his best
+- Let us be alert in a two-fold sense
+- A man who becomes conscious of the responsibility he bear toward a human being who affectionately waits for him, or to an
+  unfinished work, will never be able to throw away his life
+- The incurable sufferer is given very little opportunity to be proud of his suffering and to consider it ennobling rather than degrading
+- Today's society blurs the decisive difference between being valuable in the sense of dignity and being valuable in the sense of usefulness
+- Everything great is just as difficult to realize as it is rare to find
+- Freedom becomes possible once we confront our suffering.
 
 
