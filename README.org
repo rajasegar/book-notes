@@ -15,7 +15,7 @@ This is a collection of my book notes
 - [[/richer-wiser-happier.md][Richer Wiser Happier]]
 - [[/zero-to-one.md][Zero-to-One]]
 - [[/tuesdays-with-morrie.md][Tuesdays-with-Morrie]]
-- [[/logic-of-failure.md][The Logic of Failure]]
+- [[/logic-of-failure.org][The Logic of Failure]]
 - [[/last-lecture.org][The Last Lecture]]
 - [[/what-are-you-doing-with-your-life.md][What are you doing with your life?]]
 - [[/mans-search-for-meaning.md][Man's search for meaning]]

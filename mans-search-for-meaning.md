@@ -120,7 +120,7 @@ Discovering meaning of life in 3 different ways:
 - Primary motivational force in man => striving to find a meaning in one's life
 - Freudian Psychoanalysis => will to pleasure
 - Adrelian psychology => will to power ( striving for superiority)
-- Logotheraphy => will to meaning
+- Logotherapy => will to meaning
 - **What man needs is not homeostasis by noo-dynamics**
 - Noo-dynamics => the existential dynamics in a polar field of tension between meaning and man
 - **What man actually needs is not a tensionless state, but rather the striving and struggling for a worthwhile goal, a freely chosen task.**
@@ -143,6 +143,33 @@ Discovering meaning of life in 3 different ways:
 - Conformism => doing what others do
 - Totalianarism => doing what others wish you to do
 - Each man is questioned by life and he can only answer to life by answering for his own life.
+- One should not search for an abstract meaning of life
+- The specific meaning  of a person's life at a given moment
+- Everyone's task is as unique as his specific opportunity to implement it
+- **Responsibleness is the very essence of human existence**
+- The present is past and the pas may yet be changed and amended
+- the self-transendence of human existence
+- **Self-actualization is possible only as a side effect of self-transendence**
+- Man's main concern is not to gain pleasure or to avoid pain but rather to see a meaning in life
+- When we are no longer able to change a situation we are challenged to change ourselves
+- Suffering ceases to be suffering at the moment it finds a meaning
+- In no way is suffering necessary to find meaning
+- To suffer unnecessarily is masochistic rather than heroic
+- What never can be ruled out is the unavoidability of suffering
+- **Life's meaning is an unconditional one, for it even includes the potential meaning of unavoidable suffering**
+- Logos is deeper than logic
+- What is demanded of man is not to endure the meaninglessness of life, but rather to bear his incapacity to grasp its
+  unconditional meaningfulness in rational terms
+- Procreation is not the only meaning of life
+- Something which in itself is meaningless cannot be rendered meaningful merely by its perpetuation
+- The only really transitory aspects of life are the potentialities
+- In the past, nothing is irretrievably lost, but everything is irrevocably stored
+- Nothing can be undone and nothing can be done away with
+- Having been is the surest kind of being
+- The pessimist is a man who observes with fear and sadness
+- **The wish is the father of thought**
+- Logotherapy is activistic not pessimistic
+- The fear is the mother of the event
 
 ## The tragic case of optimism
 
