@@ -6,26 +6,86 @@ Author: Dietrich Dorner
  - We are distressed, however, if we overlook the obvious
  - The global interrelations of today make such dissension important everywhere
  - *The modern world is made up of innumerable interrelated subsystems, and we need to think in terms of these interrelationships*
+ - It appears that very early on human beings developed a tendency to deal with problems on an ad hoc basis
+ - *The need to see a problem embedded in the context of other problems rarely arose*
+ - We have been turned loose in the industrial age equipped with the brain of pre-historic times
+ - Our tendency to think in simple chains of cause and effect is genetically pre-programmed.
+ - We have a strong tendency to visualize when we form hypotheses about the world and the events that take place within it
+ - We have great difficulty grasping problems that cannot be visualized
+ - *Our brains are not fundamentally flawed; we have simply developed bad habits*
+ - Real improvement can be achieved, however, if we understand the demands that problem solving places on us and the errors
+	 we are prone to make when we attempt to meet them
+ - Thinking is always rooted in the total process of psychic activity
+ - Thought is always rooted in values and motivations
+ - We ordinarily think not for the sake of thinking but to achieve certain goals based on our system of values
+ - *The conviction that our intentions are unquestionably good may sanctify the most questionable means*
+ - Motivations provide equally ambiguous guidelines
+ - *Failure does not strike like a bolt from the blue; it develops gradually according to its own logic*
 
 ** Some Examples
-
 *** The Lamentable fate of Tanaland
+ - The explanations for success and failure lie instead in certain patterns of thought
+ - We cannot do just one thing
+ - Whether we like it or not, whatever we do has multiple effects
+ - *Failure to anticipate side effects and long-term repercussions was one reason for the failures*
+ - Helplessness generates cynicism
 
 *** The Not-Quite-So-Lamentable Fate of Greenvale
+ - To propose a hypotheses is to understand reality
+ - the capacity to tolerate uncertainty
+ - It's hard not to see in behavior a refusal to recognise one's impotence and helplessness
+ - A tendency to seek refuge in certainty and security
 
 *** Chernobyl in Tanaland
+ - Theoretical knowledge is not the same thing as hands-on knowledge
+ - *We find an inability to think in terms of non-linear networks of causation rather than of chains of causation*
+ - *We find an inability to properly assess the side effects and repercussions of one's behavior*
+ - *We find a tendency under time pressure to apply overdoses of established measures*
+ - no longer operating analytically but rather intuitively
+ - difficulty in:
+	 - managing time
+	 - evaluating exponentially developing processes
+	 - assessing side effects and long-term repercussions
+ - a tendency to think in terms of isolated cause-and-effect relationships
+
+
+
 
 ** The Demands
+ - complexity, intransparence, internal dynamics, incomplete or incorrect understanding of the system
+ - More variables -> greater interdependence -> greater system complexity
 
 *** Complexity
+  - Complexity is the label we will give to the existence of many interdependent variables in a given system
+	- Complex is not an objective factor but a subjective one
+	- Complexity must be understood in terms of a specific individual and his or her supply of supersignals
+	- It is misleading to postulate complexity as a single topic
+	- Supersignals reduce complexity collapsing a number of features into one
 
 *** Dynamics
+  - Reality is not passive but to some degree active
+	- We cannot wait forever before we act
+	- What we really want to see may not be visible
+	- we must often do with tentative solutions because time pressure forces us to act before we can gather complete information
+		or outline a comprehensive plan
 
 *** Intransparence
+	- Intransparence thus injects another element of uncertainty into planning and decision making
+	- Structural Knowledge => knowledge of how the variables in the system are related and how they influence one another
 
 *** Ignorance and Mistaken Hypotheses
+  - Reality model -> explicit and implicit
+	- Explicit reality model - always available to the individual in a conscious form
+	- Implicit reality model - with the individual himself unaware that he is operating on a certain set of assumptions
+	- Implicit knowledge - intuition
+	- Implicit knowledge can be very useful
+	- Explicit knowledge though it can be verbalized, cannot always be made useful
+	- *The ability to admit ignorance or mistaken assumptions is indeed a sign of wisdom*
+	- Most individuals in the thick of complex situations are not, or not yet, wise
+	- We must find a way to keep track of complicated interrelations and deduce development tendencies, sometimes armed with only sketchy information
 
 *** Steps in Planning and Action
+  - We need to have clear goals in mind before we start forming judgments and arriving at decisions
 
 ** Setting Goals
 
