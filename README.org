@@ -7,7 +7,7 @@ This is a collection of my book notes
 - [[/attitude-is-everything.md][Attitude is everything]]
 - [[/go-giver.md][The Go-Giver]]
 - [[/black-swan.md][The Black Swan]]
-- [[/rational-optimist.md][The Rational Optimist]]
+- [[/the-rational-optimist.md][The Rational Optimist]]
 - [[/theory-of-everything.md][The Theory of Everything]]
 - [[/subtle-art-of-not-giving-f*ck.md][The Subtle Art of not giving a F*ck]]
 - [[/range.md][Range]]
