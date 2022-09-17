@@ -86,8 +86,73 @@ Author: Dietrich Dorner
 
 *** Steps in Planning and Action
   - We need to have clear goals in mind before we start forming judgments and arriving at decisions
+	- We are constantly deciding how much information is enough
+	- When is a general grasp of salient points adequate?
+	- When do we need to bring in a microscope?
+	- Thinking in terms of developmental trends and understanding such trends will enable us to prepare for future events
+	- Methodism => tendency to act in accordance with preestablished patterns
+	- To be successful a planner must know when to follow established practice and went to strike out in a new direction
+	- Plans must be translated into reality
+	- Persistence often pace of
+	- Taking the middle path between clinging stubbornly to a doomed plan and giving up a fundamentally good one at the first sign of difficulty is not easy
+	- Are the premises for your actions correct?
+	- We must be prepared to to acknowledge that a solution is not working
+	- It is unwise however to abandon an established course of action too soon
+	- We need a cohesive picture that lets us determine what is important and what is unimportant, what belongs together and what does not
+	- Structural knowledge will allow us to find order in apparent chaos
+	- 
 
 ** Setting Goals
+ - To work toward a desirable state of affairs is a positive goal
+ - to correct or prevent a deficient state of affairs is a negative goal
+ - It is important to understand the link among goal criteria
+ - We should always try to make general goals specific
+ - Unless goals often contain multiple goals hidden within them
+ - If we want to dispel the unclarity inherent in these complex concepts we must be deconstruct them
+ - central and peripheral problems
+ - Goals conflict with one another not by their very nature, but because the variables relating to them in the system are negatively linked
+ - Ranking problems and delegating tasks are good strategies when we have more than one goal
+ - Individual partial goals may be incompatible
+ - Implicit goals are dangerous because they go unnoticed at the early stages of a planning process
+ - The lack of knowledge is secondary
+ - More important is that no one took the trouble to acquire the necessary knowledge
+ - When we are working on a given problem we focus on that problem alone and not on problems that don't exist
+ - The mistake is less not knowing then not wanting to know
+ - Complex concept comprising many different components and their relationships to one another
+ - Complex concept comprising many different components and their relationships to one another
+ - Giving far too much attention to relatively unimportant problems and either over looking the truly important ones or failing to assess them properly
+ - irrelevant criteria -
+	 - the obviousness of a problem 
+	 - our competence to solve it
+ - If we act on the basis of a more or less randomly generated list of complaints we necessarily remain captives of the present moment
+ - Human beings are constituted that they often find challenges attractive
+ - *Success cannot be too certain or too unlikely*
+ - Setting priorities by the Criterion of obviousness is not good
+ - Selecting problems on the basis of your competence is also not good
+ - A goal that remains unclear one that is not broken down into to concrete partial goals runs the risk of taking on a life of its own
+ - An interim goal may dislodge the primary goal
+ - We think we can find security in things that seem absolute and that protect us from all contradiction
+ - We are infatuated with neat means, methods and techniques
+ - Goals degenerate because of the Desire for safety and a lack of confidence in one's own capabilities
+ - Inadequate analysis leads first of all to uncertainty
+ - Realising we are attacking the wrong problems only makes us more on certain
+ - If we have no criteria based on the specification of our goals to help us set priorities
+	 - we will choose the most obvious problems or
+	 - the ones that we already know how to solve
+ - Repair service behaviour is surely preferable to correct obvious ills than to do nothing at all
+ - Pragmatic politics not driven by the lofty ideals but by the exigencies of the situation
+ - Pragmatic politics not driven by the lofty ideals but by the exigencies of the situation
+ - If we formulate goals in concrete terms we should; if we cannot then muddling through is better than inaction
+ - Something that doesn't cost much is rally of much benefit
+ - *If you want to derive great benefit we usually have to investe a lot*
+ - Contradictory goals are the rule not the exception in complex situations
+ - Unrecognised contradictory relations between partial goals lead to actions that inevitable replace one problem with another
+ - The verbal integrations of incompatibles can over time produce changes in the meanings of words
+ - Our understanding of prevailing conditions is inadequate
+ - It is difficult for us to admit to ourselves that despite the best of intentions we have failed
+ - When we must deal with problems in complex systems few things are as important as setting useful goals
+ - When we do not make overly General or unclear goals specific we are likely to spend time unwisely on ineffective repair service behaviour
+ - Ultimately to salve our self confidence we may find ourselves choosing projects for their obviousness or ease rather than for their importance
 
 *** Requirements of Goal setting
 
@@ -96,6 +161,24 @@ Author: Dietrich Dorner
 *** Liberty, Equality and "Voluntary Conscription"
 
 ** Information and Models
+ - We can't focus only on what is wrong and what we want to correct
+ - Most of the time the systemic nature of the situations was ignored
+ - All effort had gone toward treating a symptom and none toward solving the underlying problem
+ - A system is a network of many variables in causal relationships to one another
+ - Within a system a variable may have a causal relationship to itself
+ - It is usually wise when correcting a deficiency to consider it within the context of its system
+ - *We may also overlook the unpleasant side effects of our actions and do more harm than good in the long run*
+ - Positive feedback tends to undermine the stability of a system
+ - It is obviously greatly to our advantage to look at a deficiency not in isolation but embedded in its system
+ - We need to know more than just the causal relationships between individual variables in a system
+ - *Knowledge of the constituent elements of a system can also give us important insights into the structure of that system*
+ - Thinking by analogy => rather primitive and obvious step
+ - It is essential to understand the relationships between broad and narrow concepts, between the Abstract and the concrete
+ - *False hypotheses are better than no hypotheses at all because they can ultimately lead us to correct knowledge*
+ - There is No a Priori appropriate level of detail
+ - We should select the level of detail needed to let us understand the interrelationships among our goal variables
+ - Goal variable are the variables we want to influence
+ - *An important method to acquire knowledge about the structure of a system is analogy*
 
 *** Reality, Models and Information
 
