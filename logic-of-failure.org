@@ -183,6 +183,29 @@ Author: Dietrich Dorner
 *** Reality, Models and Information
 
 *** Solving problems one at a time
+  - A bundle of independent mini systems
+	- Take into account the side effects and repercussions of certain measures
+	- If we do not concern ourselves with the problems we do not have, we soon how them
+	- most of us lack an overall view of the system and of the reciprocal interactions with in it
+  - The reason we deal with partial problems in isolation is our preoccupation with the immediate goals
+	- It is obviously better if we know how the individual variables in the system relate to one another
+	- Reductive hypothesis - tying everything to one variable
+	- People use many dodges to defend their pet hypothesis  against logical argument or the evidence of experience
+	- Reductive hypothesis provide simplest explanations for what goes on in the world accounts not only for their popularity but also for their persistence
+	- Unsurveyability ->  uncertainty ->  fear
+	- In extreme cases we may devise elaborate and dogmatic defences to protect hypotheses that in no way reflect reality
+	- We are infatuated with the hypothesis we propose because we assume they give us power over things
+	- Every situation has to be considered afresh
+	- Context should determine strategy
+	- *The world of our ideas is usually not particularly colourful*
+	- Our ideas are pale outlines
+	- *A necessary generalization can easily evolve into overgeneralization*
+	- As a rule we have no opportunity to test in advance whether a concept we have developed has stuck just the right degree
+		of abstraction or is an overgeneralization
+	- deconditionalized concept - concept removed from the context of conditions bearing on it
+	- *The effectiveness of a measure almost always depends  on the context within which the measure is pursued.*
+	- |right degree of abstraction ------------ abstraction spectrum ---------------- overgeneralization|
+	- similarity matching - tendency to respond to similarities more than to differences
 
 *** "It's the Environment" 
 
