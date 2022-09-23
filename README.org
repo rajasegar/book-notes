@@ -27,3 +27,4 @@ This is a collection of my book notes
 - [[/genome.org][Genome]]
 - [[/good-strategy-bad-strategy.org][Good Strategy Bad Strategy]]
 - [[/a-matter-of-degrees.org][A Matter of Degrees]]
+- [[/why-we-do-what-we-do.org][Why We Do What We Do]]
