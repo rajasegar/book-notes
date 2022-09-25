@@ -37,9 +37,64 @@ Author: Richard Rumelt
 - *A good strategy creates strength through the coherence of its design*
 
 ** Good Strategy Bad Strategy
+ - Most basic idea of strategy => application of strength against weakness
+ - Strength applied to the most promising opportunity
+ - Pursuing multiple objectives that are unconnected or conflict with one another
+ - *The most powerful strategies arise from game changing insights*
+ - 
 *** Good Strategy is unexpected
+  - A good strategy has
+		- coherence
+		- coordinating actions
+		- policies
+		- resources
+	- substance and coherence of his insight
+	- Most organizations will not create focused strategies
+	- Good strategy requires leaders who are willing and able to say no to a wide variety of actions and interests
+	- Having conflicting goals, dedicating resources to unconnected targets, and accommodating incompatible interests
+	  are the luxuries of the rich and powerful, but they make for bad strategy
+	- 
 *** Discovering Power
+  - The second natural advantage of many good strategies comes from insight into new sources of strength and weakness
+	- *Our preconceived ideas about strength and weakness may be unsound*
+	- The creation or revelation of a decisive asymmetry
+	- a subtle shift in point of view
+	- The terrible simplicity of the discovery of hidden power in a situation
+	- to impose asymmetric costs on an opponent
+	- the discovery of hidden power
+	- Identify your strengths and weaknesses
+	- Assess the opportunities and risks (opponent's strength and weakness)
+	- Build on your strengths
+	- 
 *** Bad Strategy
+  - Bad strategy grows out of specific misconceptions and leadership dysfunctions
+	- Bad strategy => statements of desire
+	- Good Strategy => plans for overcoming obstacles
+	- Many bad strategies are statements of desire rather than plans for overcoming obstacles
+	- Four hallmarks of bad strategy:
+		- *Fluff* - Fluff is a form of gibberish masquerading as strategic concepts or arguments
+			It uses 'Sunday' words and apparently esoteric concepts to create the illusion of high-level thinking
+		- *Failure to face the challenge* - Bad strategy fails to recognize or define the challenge.
+			When you cannot define the challenge, you cannot evaluate a strategy or improve it
+		- *Mistaking goals for strategy* - Many bad strategies are just statements of desire rather than
+			plans for overcoming obstacles
+		- *Bad strategic objectives* - A strategic objective is set by a leader as a means to an end. Strategic
+			objectives are "bad" when they fail to address critical issues or when they are impracticable
+	- No challenge -> No strategy
+	- Sunday words => words that are inflated and unnecessaryily abstruse
+	- There had been a general decline in competence at understanding and formulating strategy
+	- The basic problem is confusion between strategy and strategic goals
+	- the lack of substance and coherence
+	- a plentitude of vague aspirations
+	- Bad strategy is not the same thing as no strategy or strategy that fails rather than succeeds
+	- *Fluff is a superficial restatement of the obvious combined with a generous sprinkling of buzzwords*
+	- Bad strategy puts forward strategic objectives that are incoherent and sometimes totally impracticable
+	- Fluff masquerades as expertise, thought and analysis
+	- Bad strategy is long on goals and short on policy and action
+	- Hallmark of true expertise and insight => making a complex subject understandable
+	- Hallmark of mediocrity and bad strategy => unnecessary complexity
+	- A strategy is a way through a difficulty, an approach to overcoming an obstacle and a response to a challenge.
+
 *** Why so much Bad Strategy?
 *** The Kernel of Good Strategy
 ** Sources of Power
