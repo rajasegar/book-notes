@@ -28,3 +28,4 @@ This is a collection of my book notes
 - [[/good-strategy-bad-strategy.org][Good Strategy Bad Strategy]]
 - [[/a-matter-of-degrees.org][A Matter of Degrees]]
 - [[/why-we-do-what-we-do.org][Why We Do What We Do]]
+- [[/freedom-from-the-known.org][Freedom from the Known]]
