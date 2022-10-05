@@ -150,12 +150,88 @@ Explanations that transform the world
 
 
 ** Creation
-
+ - Good adaptations are distinguished by being hard to vary while still fulfilling their functions.
+ - Knowledge is very unlikely to come into existence other than through the error correcting processes of evolution or thought.
+ - Knowledge:
+	 - Biological
+	 - Explanatory
+ - Some historic misconceptions about biological evolution have counterparts in misconceptions about human knowledge.
+ - Who designed the designer?
+ - *A good design is hard to vary*
+ - Knowledge must be first conjectured and then tested
+ - Evolution optimises neither the good of the species nor the individual.
+ - Not all evolution constitutes progress and no(genetic) evolution optimizes progress
+ - Organisms are the slaves, tools that genes use to achieve their purpose of spreading themselves throughout the population
+ - Nearly all long lasting ideas are memes
+ - Ideas can be replicators too
+ - Memes => ideas that are replicators
+ - No human knowledge is entirely non-explanatory
+ - People often try to improve explanations even when they have received them accurately
+ - People rarely express ideas in exactly the same words in which they heard them
+ - *Good explanations are hard to vary*
+ - The existence of an unsolved problem in physics is no more evidence for a supernatural explanation
+ - Prediction changes radically if there are several constants to explain
+ - There are infinitely many logically possible laws of physics
+ - Almost random states are by far the most numerous
+ - Specific explanation in terms of specific laws of nature is needed
+ - An idea so simple, that we will all say to each other, how could it have been otherwise
+ - Scientific discovery is profoundly unpredictable, despite the fact that it is determined by the laws of physics
+ - Genes and ideas are both replicators
+ - Knowledge and adaptations are both hard to vary
+ - *Human knowledge can be explanatory and can have great reach*
+ - The problem has been no that the world is so complex that we cannot understand why it looks as it does,
+	 but it is that it is so simple that we cannot yet understand it.
+ - Adaptations are never explanatory  and rarely have much reach beyond the situations in which they evolved.
 
 ** The Reality of Abstractions
+ - *Guiding Principle* - Always reject bad explanations in favor of good ones
+ - Emergent phenomena are essential to the explicability of the world
+ - All knowledge creation depends on and physically consists of emergent phenomena.
+ - *The explanation in one field affects our understanding of other fields*
+ - We can let our theories die in our place
+ - Abstractions are essential to a fuller explanation
+ - myopic to the point of silliness
+ - *Empiricism has multiple fatal flaws*
+ - Criticism is correspondingly effective
+ - The growth of knowledge does not consisting of finding ways to justify one's beliefs. It consists of finding good explanations
+ - *The truth has structural unity and logical consistency*
+ - Factual knowledge can be useful in criticising moral explanations
+ - *There is an objective difference between right and wrong*
+ - There is such a thing as objective beauty
+ - There is no avoiding what-to-do-next problems
+ - *Progress depends on explanation*
+ - Trying to conceive of the world as merely a sequence of events with unexplained regularities would entail giving up on progress
+ - Explanations do not form a hierarchy
+ - Our knowledge of abstractions comes from the fact that our best explanations invoke them
 
 
 ** The Jump to Universality
+ - Innovation is unpredictable
+ - The largest benefits of any universality come from its begin useful for further innovation
+ - *Progress is both desireable and attainable*
+ - Universality is both desireable and attainable
+ - Universality was being sought deliberately as a desireable feature in its own right
+ - because of the usual lack of interest in universality
+ - Physical objects are unlike each other and dominated by different laws of physics can exhibit the same mathematical relationships
+ - tragic might-have-beens of history
+ - The history of electronic technology since 2nd world war was dominated by miniaturization
+ - *Error-correction is the beginning of infinity*
+ - It is in the very nature of analogue computation that every value could be correct
+ - Analogue computation can never be universal
+ - All universal computers are digital and all use error-correction with the same basic logic
+ - In reality, information that cannot be reliably retrieved is not really being stored.
+ - The limitation that the information being processed must be digital does not detract from the universality of digital computers or of the laws of physics
+ - It is just a matter of approximating continuously variable quantities by a sufficiently fine grid of discrete ones
+ - The laws of physics are such that the behavior of any physical object can be simulated with any desired accuracy by a universal computer
+ - Reach always has an explanation
+ - People are universal explainers and universal constructors
+ - *All knowledge growth is by incremental improvement*
+ - Universal computers cannot really be universal unless there are people present to prove energy and maintenance indefinitely
+ - Even life on Earth will eventually be extinguished unless people decide otherwise
+ - Only people can rely on themselves into the unbounded future
+ - *The jump to universality*: The tendency of gradually improving systems to undergo a sudden large increase in functionality becoming universal in some domain
+ - Error-correction is essential in the process of potentially unlimited length
+ - *The jump to universality only ever happens in digital systems*
 
 
 ** Artificial Creativity
@@ -174,8 +250,6 @@ Explanations that transform the world
 
 
 ** A Physicist's History of Bad Philosophy
-
-
 
 
 ** Choices
