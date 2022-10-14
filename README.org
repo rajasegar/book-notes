@@ -30,3 +30,4 @@ This is a collection of my book notes
 - [[/why-we-do-what-we-do.org][Why We Do What We Do]]
 - [[/freedom-from-the-known.org][Freedom from the Known]]
 - [[/the-lessons-of-history.org][The Lessons of History]]
+- [[/seven-brief-lessons-on-physics.org][Seven Brief Lessons on Physics]]
