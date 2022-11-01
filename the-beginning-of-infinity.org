@@ -342,13 +342,127 @@ Explanations that transform the world
  - Blind pessimism - precautionary principle
  - A single catastrophic consequence of an otherwise beneficial innovation could put an end to human progress for ever
  - *The good can be unlimited*
- - The harm that can flow form any innovation that does not destory
+ - The harm that can flow form any innovation that does not destroy the growth of knowledge is always finite
+ - There is only one way of making progress: conjecture and criticism
+ - We cannot be sure that our present knowledge is not riddled with dangerous gaps and misconceptions
+ - Blind optimism and blind pessimism are very similar at the level of explanation
+ - We do not yet know what we have not yet discovered
+ - the deeper explanation is lack of knowledge
+ - Quite generally, the distinction between a natural disaster and one brought about by ignorance is parochial
+ - *Civilizations starved because of lack of knowledge*
+ - We live in an era of unprecedented safety
+ - All sources of knowledge are liable to lead us into error at times
+ - We have such a chance becausewe are able to solve problems
+ - We shall always be faced with the problem of how to plan for an unknowable future
+ - How can we hope to detect and eliminate error?
+ - No such ideal sources of knowledge exists
+ - We should choose between conjectures not on the basis of their origin, but according to how good they are as explanations: how hard to vary
+ - *Science is what we have learned about how to keep from fooling ourselves*
+ - Induction, instrumentalism and even Lamarckism all make the same mistake: they expect explanationless progress
+ - One should not expect knowledge to be created by fiat with few errors
+ - Knowledge should be created by a process of variation and selection that is making a continual stream of errors and correcting them.
+ - People are different and have unique ideas
+ - Problems are inevitable and progress consists of solving them.
+ - *Optimism is a way of explaining failure, not prophesizing success
+ - Whenever we try to improve things and fail, it is always becuase we did not know enough, in time.
+ - It is only a matter of knowing how.
+ - Progress cannot take place at all, unless someone is open to and prepares for, those inconceivable possibilities
+ - Optimization implies all the other necessary conditions for knowledge to grow
+ - We have a duty to be optimistic - in general and about civilization in particular
+ - We want to engage with projects that will involve creating new knowledge
+ - An optimist expects the creation of knowledge to constitute  progress - including its unforeseeable consequences
+ - Pessimism has been endemic in almost every society throughout history
+ - The end of pessimism is potentially a beginning of infinity
+ - Democracy promotes wise action
+ - Continual discussion is a necessary condition for discovering the right answer, which is in turn a necessary condition for progress
+ - *Optimism is the theory that all failures are due to insufficient knowledge*
+ - There are not fundamental limitations to the creation of knowledge
+ - Progress towards is made by seeking good explanations
+ - Problems are inevitable because our knowledge will always be infinitely far from complete
+ - It is a mistake to confuse hard problems with problems unlikely to be solved
+ - An optimistic civilization is open and not afraid to innovate and is based on traditions of criticism
+ - Problems are soluble and each particular evil is a problem that can be solved
+ - The institutions of optimistic civilization keep improving
+ - The most important knowledge, the institutions of optimistic civilizations embody is knowledge of how to detect and eliminate errors
 
 
 ** A Dream of Socrates
+ - openness to persuasion and defiance of bullies
+ - Epistemology - knowledge about knowledge
+ - It is not true that every just person knows the connection between reason, morality and the reluctance to defer to gods
+ - *Objective knowledge is hard to come by but attainable*
+ - Justified belief is sought by many people
+ - Beliefs cannot be justified, except in relation to other beliefs and even then only fallibly
+ - The quest for the justification of beliefs can lead only to an infinite regress, each step of which would itself be subject to error
+ - Knowledge is a chimera
+ - Justified belief is a chimera
+ - Knowledge - justified belief
+ - We often fail to see things that are there in reality
+ - It is easy to be mistaken
+ - We could be mistaken or misled in regard to what is right and wrong
+ - Outside tricks or illusions affect only our senses and not our reason
+ - In the course of time, through seeking, we may learn and know better
+ - It is so hard to be systematically deceived on moral issues
+ - Values:
+   - open to suggestions
+   - tolerant of dissent
+   - critical of botth dissent and received opinion
+ - *People who converge upon the truth converge upon each other*
+ - Moral truths follows logically from epistemology
+ - We seek improvement by constantly criticising and debating and trying to correct our ideas and behaviour
+ - It's all easy to attribute universal truth to mere local appearances
+ - Our very idea that improvement is possible implies that there must be errors and inadequacies in our current ideas
+ - The perfect way of life involves few accomplishments and being wrong about most things
+ - *We all are fallible and subject to misconceptions and errors in all our thinking*
+ - We are fallible in all our thinking
+ - There is literally no idea that we may safely hold immune from criticism
+ - *Knowledge held immune from criticism can never be improved.*
+ - Salvation would come about through persuasion, thought and explanation
+ - *Always bear human fallibility in mind*
+ - Some moral truths follow logically from epistemological considerations
+ - All knowlege comes from persuasion
+ - *The moral imperative not to destroy the means of correcting mistakes is the only moral imperative*
+ - The quest for knowledge is striving to see beyond what is easy to see, to understand beyond what is easy to understand
+ - Nothing is easy to see without prior knowledge
+ - All knowledge of the world is hard to come by
+ - Knowledge follows that we do not come by it through seeing
+ - It does not flow into us through our senses
+ - No need to trust the source if the argument itself is persuasive
+ - All knowledge originates from the same source as dreams which is within ourselves
+ - For all is but a woven web of guesses
+ - *Guesswork is the origin of all knowledge*
+ - What happens to an idea after it has been guessed is crucial
+ - People do not always do what can work
+ - We first guess what is there and then we our guesses against the input from our senses
+ - all encompassing conjuring trick
+ - Man is the paragon of animals
+ - We weave stories of an outside world
+ - We are not satisfied with merely weaving, nor with mere stories
+ - We want true explanations
+ - There is no upper bound to how much we can eventually understand and control and achieve
+ - Once the experience is over, all that matters is what you learned from it.
+ - improvement vs stasis
+ - Genuine knowledge is impossible
+ - Justified belief is impossible
+ - We can come to know the true world beyond the illusory world of experience
+ - The only true knowledge is that which comes from within
+ - We can never know the reality outside because we see only fleeting, distorted shadows of it.
+ - Epistemology seems a tremendously for-reaching and important subject
+ - Things are going to be endlessly tinkered with and improved
+ - We habitually underestimate the difficulty of communication
+ - Misunderstandings are ubiquitous
+ - Neither intelligence nor the intention to be accurate is any guarantee against them
+ - *Objective knowledge though attainable, is hard to obtain*
+ - Improvements are cumulative
+ - The way to converge with each other is to converge upon the truth
 
 
 ** The Multiverse
+ - The world is the whole of physical reality
+ - Imagining inexplicable worlds can help us to understand the nature of explicability
+ - According to quantum physics, the world is a much larger and more complicated object, a multiverse
+ - The concept of fungibility is everywhere just beneath the conceptual surface
+ - In quantum physics, elementary particles are configurational entities
 
 
 ** A Physicist's History of Bad Philosophy
