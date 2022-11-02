@@ -31,3 +31,4 @@ This is a collection of my book notes
 - [[/freedom-from-the-known.org][Freedom from the Known]]
 - [[/the-lessons-of-history.org][The Lessons of History]]
 - [[/seven-brief-lessons-on-physics.org][Seven Brief Lessons on Physics]]
+- [[/metaphors-we-live-by.org][Metaphors We Live By]]
