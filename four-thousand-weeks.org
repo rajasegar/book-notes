@@ -3,6 +3,63 @@ Time and How to use it
 
 Author: Oliver Burkeman
 
+#+_begin_quote
+It's the very last thing, isn't it, we feel grateful for: having happened. You know, 
+you needn't have happened. You needn't have happened. But you did happen.
+-- Douglas Harding
+#+end_quote
+
+#+begin_quote
+What makes it unbearable is your mistaken belief that it can be cured. -- Charlotte Joko Beck
+#+end_quote
+
+
+
+** Part I: Choosing to choose
+
+*** The Limit-Embracing life
+
+*** The Efficiency Trap
+
+*** Facing Finitude
+
+*** Becoming a Better Procrastinator
+
+*** The Watermelon Problem
+
+*** The Intimate Interrupter
+
+** Part II: Beyond Control
+
+*** We Never Really have time
+
+*** You are Here
+
+*** Rediscovering Rest
+
+*** The Impatience spiral
+
+*** Staying on the Bus
+
+*** The Loneliness of the Digital Nomad
+
+*** Cosmic Insignificance Therapy
+
+*** The Human Disease
+
+** 10 tools for Embracing your finitude
+ - Adopt a fixed volume approach to productivity
+ - Serialize, serialize, serialize
+ - Decide in advance what to fail at
+ - Focus on what you have already completed, not just what is left to complete
+ - Consolidate your caring
+ - Embrace boring and single purpose technology
+ - Seek out novelty in the mundane
+ - Be a researcher in relationships
+ - Cultivate instantaneous generosity
+ - Practice doing nothing
+
+
 - Life is a succession of transient experiences, valuable in themselves, which you will miss if you are completely focusing on the
 	destination to which you hope they might be leading.
 - Hard choices are unavoidable
