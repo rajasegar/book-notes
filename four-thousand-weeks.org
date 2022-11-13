@@ -3,7 +3,7 @@ Time and How to use it
 
 Author: Oliver Burkeman
 
-#+_begin_quote
+#+begin_quote
 It's the very last thing, isn't it, we feel grateful for: having happened. You know, 
 you needn't have happened. You needn't have happened. But you did happen.
 -- Douglas Harding
@@ -13,11 +13,63 @@ you needn't have happened. You needn't have happened. But you did happen.
 What makes it unbearable is your mistaken belief that it can be cured. -- Charlotte Joko Beck
 #+end_quote
 
+** Introduction: In the Long Run, We're all dead
+ - The average human lifespan is absurdly, terrifyingly and insultingly short.
+ - The brevity of life to be the defining problem of human existence.
+ - We have been granted the mental capacities to make almost infinitely ambitious plans, yet practically
+   no time at all to put them into action.
+ - We will all be dead by any minute - Thomas Nagel
+ - Time management is all life is.
+ - The pressure to fit ever-increasing quantities of activity into a stubbornly non-increasing quantity of daily time.
+ - A failure to make the best use of a small supply of time.
+ - *Time seems to speed up as you age*
+ - Our time and attention are so limited and therefore valuable
+ - Our relationship to our limited time has always been a difficult one.
+ - Time divided us, even more than it had before
+ - So many of us ar so bad at managing our limited time.
+ - Our efforts to make the most of our limited time don't simply fail but regularly seem to make things worse.
+ - For years now, we have been deluged with advice on living the fully optimised life.
+ - Time feels like an *unstoppable conveyor belt*, bringing us new tasks as fast as we can dispatch the one ones.
+ - Time is like an obstreperous toddler, the more you struggle to control it, to make it conform to your agenda,
+   the further it slips from you control.
+ - Even the relatively previliged among us rarely get round to doing the right things.
+ - busyness becomes an emblem of prestige
+ - the busyness of the better-off is contagious
+ - yearning for more meaning
+ - Our struggle to stay on top of everything may serve someone's interests
+ - The day will never arrive when you finally have everything under control
+ - *Productivity is a trap*
+ - Nobody in the history of humanity has ever achieved work-life balance, whatever that might be.
+ - Let's start by admitting defeat.
+ - Becoming more efficient just makes you more rushed.
 
 
 ** Part I: Choosing to choose
 
 *** The Limit-Embracing life
+  - the real problem is not our limited time
+  - the real problem is that we have unwittingly inherited and feel pressured to live by, a troublesome set of ideas
+    about how to use our limited time, all of which are pretty much guaranteed to make things worse.
+  - a troublesome sort of ideas
+  - Our modern way of thinking about time is so deeply entrenched that we forget it even is a way of thinking
+  - *There is no sense in raching towards some hypothetical moment of completion*
+  - Task orientation => The rhythms of life emerge organically from the tasks themselves, rather than from being lived
+    up against an abstract timeline.
+  - We still occasionally encounter islands of deep time today
+  - living in deep time
+  - A threshold has been crossed.
+  - Before, time was just the medium in which life unfolded
+  - hypercompetitive economic climate
+  - most judicious use of your time
+  - *The manner most of us were brought up: to prioritise future benefits over current enjoyments*
+  - the dictatorship of the clock
+  - The trouble with attempting to master your time, is that time ends up mastering you
+  - Experience 'deep time' - that sense of timeless time which depends on forgetting abstract yard stick and plunging back 
+    into the vividness of reality instead
+  - Rather than face our limitations, we engage in avoidance strategies, in an effort to carry on feeling limitless
+  - Once you become convinced that something you have been attempting is impossible, it's a lot harder to keep on beating yourself for failing.
+  - Most of us invest a lot of energy, one way or another in trying to avoid fully experiencing the reality in which we find ourselves.
+  - 
 
 *** The Efficiency Trap
 
