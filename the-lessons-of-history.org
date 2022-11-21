@@ -2,7 +2,7 @@
 Author: Will Durant
 
 ** Hesitations
- - History has no sense
+ - *History has no sense*
  - Our knowledge of any past event is always incomplete, probably inaccurate, beclouded by ambivalent
 	 evidence and biased historians and perhaps distored by our own patriotic or religious partisanships
  - A multitude of doubts assail our enterprise
@@ -41,7 +41,7 @@ Author: Will Durant
  - Ideally parentage should be a privilege of health, not a by-product of sexual agitation
  - Much of what we call intelligence is the result of individual eduction, opportunity and experience
  - Biologically, physical vitality at birth may be of greater value than intellectual pedigree
- - there is no humorist like history
+ - *There is no humorist like history*
  - The birth rate like war may determine the fate of theologies
 
 ** Race and History
@@ -77,8 +77,8 @@ Author: Will Durant
  - the conservative => resists change
  - the radical => proposes change
  - New ideas should be heard
- - New ideas should be compelled ot go through the mill of objection, opposition and contumely
- - Innovations must survive the trial heat before being allowed to enter the human race
+ - New ideas should be compelled to go through the mill of objection, opposition and contumely
+ - Innovations must survive the *trial heat* before being allowed to enter the human race
  - creative tensile strenght
  - stimulated development
 
@@ -274,7 +274,7 @@ Author: Will Durant
  - a continuity of production and exchange
  - There is no certainty that the future will repeat the past
  - Every year is an adventure
- - History repeats itself but only in the outline and in the large
+ - *History repeats itself but only in the outline and in the large*
  - Human nature changes with geological leisureliness
  - History repeats itself in the large
  - *The excitement of innovation will be forgotten in the unconcern of time*
@@ -310,7 +310,7 @@ Author: Will Durant
  - *There is no substantial change in man's nature during historic times*
  - *We repeatedly enlarge our instrumentalities without improving our purposes*
  - The replacement of chaos with order is the essence of art and civilization
- - History is so indifferently rich that a case for almost any conclusion from it can be made by a selection of instances
+ - *History is so indifferently rich that a case for almost any conclusion from it can be made by a selection of instances*
  - We merely transfered intolerance from religions to national, ideological or racial hostilities
  - There is a stealthy pressure in rejecting mankind or the universe as unworthy of our own approval
  - Progress is the increasing control of the environment by life
