@@ -3,6 +3,155 @@ Time and How to use it
 
 Author: Oliver Burkeman
 
+#+begin_quote
+It's the very last thing, isn't it, we feel grateful for: having happened. You know, 
+you needn't have happened. You needn't have happened. But you did happen.
+-- Douglas Harding
+#+end_quote
+
+#+begin_quote
+What makes it unbearable is your mistaken belief that it can be cured. -- Charlotte Joko Beck
+#+end_quote
+
+** Introduction: In the Long Run, We're all dead
+ - The average human lifespan is absurdly, terrifyingly and insultingly short.
+ - The brevity of life to be the defining problem of human existence.
+ - We have been granted the mental capacities to make almost infinitely ambitious plans, yet practically
+   no time at all to put them into action.
+ - We will all be dead by any minute - Thomas Nagel
+ - Time management is all life is.
+ - The pressure to fit ever-increasing quantities of activity into a stubbornly non-increasing quantity of daily time.
+ - A failure to make the best use of a small supply of time.
+ - *Time seems to speed up as you age*
+ - Our time and attention are so limited and therefore valuable
+ - Our relationship to our limited time has always been a difficult one.
+ - Time divided us, even more than it had before
+ - So many of us ar so bad at managing our limited time.
+ - Our efforts to make the most of our limited time don't simply fail but regularly seem to make things worse.
+ - For years now, we have been deluged with advice on living the fully optimised life.
+ - Time feels like an *unstoppable conveyor belt*, bringing us new tasks as fast as we can dispatch the one ones.
+ - Time is like an obstreperous toddler, the more you struggle to control it, to make it conform to your agenda,
+   the further it slips from you control.
+ - Even the relatively previliged among us rarely get round to doing the right things.
+ - busyness becomes an emblem of prestige
+ - the busyness of the better-off is contagious
+ - yearning for more meaning
+ - Our struggle to stay on top of everything may serve someone's interests
+ - The day will never arrive when you finally have everything under control
+ - *Productivity is a trap*
+ - Nobody in the history of humanity has ever achieved work-life balance, whatever that might be.
+ - Let's start by admitting defeat.
+ - Becoming more efficient just makes you more rushed.
+
+
+** Part I: Choosing to choose
+
+*** The Limit-Embracing life
+  - the real problem is not our limited time
+  - the real problem is that we have unwittingly inherited and feel pressured to live by, a troublesome set of ideas
+    about how to use our limited time, all of which are pretty much guaranteed to make things worse.
+  - a troublesome sort of ideas
+
+**** Time Before Timetables
+  - Our modern way of thinking about time is so deeply entrenched that we forget it even is a way of thinking
+  - *There is no sense in raching towards some hypothetical moment of completion*
+  - Task orientation => The rhythms of life emerge organically from the tasks themselves, rather than from being lived
+    up against an abstract timeline.
+  - We still occasionally encounter islands of deep time today
+  - living in deep time
+
+**** The End of Eternity
+  - A threshold has been crossed.
+  - Before, time was just the medium in which life unfolded
+  - hypercompetitive economic climate
+  - most judicious use of your time
+  - *The manner most of us were brought up: to prioritise future benefits over current enjoyments*
+
+**** Confessions of a Productivity Geek
+  - the dictatorship of the clock
+  - The trouble with attempting to master your time, is that time ends up mastering you
+  - Experience 'deep time' - that sense of timeless time which depends on forgetting abstract yard stick and plunging back 
+    into the vividness of reality instead
+  - Rather than face our limitations, we engage in avoidance strategies, in an effort to carry on feeling limitless
+  - Once you become convinced that something you have been attempting is impossible, it's a lot harder to keep on beating yourself for failing.
+  - Most of us invest a lot of energy, one way or another in trying to avoid fully experiencing the reality in which we find ourselves.
+  - What life was really demanding from me might involve surrendering the craving for mastery and diving into the unknown instead.
+  - The details differ from person to person, but the kernel is the same.
+  - Fear was part of the deal
+  - This life with all its flaws and inescapable vulnerabilities its extreme brevity and our limited influence over how it unfolds is the only one
+    we will get a shot at.
+  - We mentally fight against the way things are
+  - constrained by reality
+  - *Tough choices are inevitable*
+  - Our troubled relationship with time arises largely from the same effort to avoid the painful constraints of reality
+  - *Denying reality never works*
+  - It's painful to confront how limited your time is.
+  - It's also painful to accept your limited control over the time you get.
+  - We fill  our minds with busyness and distraction to numb ourselves emotionally
+  - We push ourselves harder, chasing fantasies of the perfect work-life balance
+  - *Hard choices are unavoidable. What matters is learning to make them consciously*
+  - Deciding what to focus on and what to neglect.
+  - facing the way things truly are
+  - a limit-embracing attitude
+    
+**** An Icy Blast of Reality
+  - At the very least, you can stop beating yourself up for failing
+  - *You teach best what you most need to learn*
+  - Missing out on something - indeed on almost everything is basically guaranteed.
+  - *Eigenzeist - the time inherent to a process itself*
+  - *What matters is learning to make hard choices consciously*
+  - Stand firm in the face FOMO - Fear of Missing Out
+  - *Missing out is what makes our choices meaningful in the first place*
+  - Time pressure comes largely from sources outside ourselves
+  - However privileged or unfortunate your specific situation, fully facing the reality of it can only help.
+  - You can face the facts
+  - You are no longer befogged and bewildered by a false and misleading illusion about your life.
+  - You can stop buying into the delusion
+  - The unfashionable but powerful notion of letting time use you approaching life as a matter of responding to the
+    needs of your place and your moment in history
+  - *Fulfillment might lie in embracing, rather than denying.*
+
+*** The Efficiency Trap
+
+*** Facing Finitude
+
+*** Becoming a Better Procrastinator
+
+*** The Watermelon Problem
+
+*** The Intimate Interrupter
+
+** Part II: Beyond Control
+
+*** We Never Really have time
+
+*** You are Here
+
+*** Rediscovering Rest
+
+*** The Impatience spiral
+
+*** Staying on the Bus
+
+*** The Loneliness of the Digital Nomad
+
+*** Cosmic Insignificance Therapy
+
+*** The Human Disease
+
+** 10 tools for Embracing your finitude
+ - Adopt a fixed volume approach to productivity
+ - Serialize, serialize, serialize
+ - Decide in advance what to fail at
+ - Focus on what you have already completed, not just what is left to complete
+ - Consolidate your caring
+ - Embrace boring and single purpose technology
+ - Seek out novelty in the mundane
+ - Be a researcher in relationships
+ - Cultivate instantaneous generosity
+ - Practice doing nothing
+
+
 - Life is a succession of transient experiences, valuable in themselves, which you will miss if you are completely focusing on the
 	destination to which you hope they might be leading.
 - Hard choices are unavoidable
