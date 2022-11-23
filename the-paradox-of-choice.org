@@ -83,15 +83,59 @@ Author: Barry Schwartz
 *** Satisfice More and Maximize Less
 
 *** Think About the Opportunity Costs of Opportunity Costs
+  - When making a decision, it's usually a good idea to think about the alternatives we will pass up when
+		choosing our most-preferred option.
+	- Ignoring these "opportunity costs" can lead us to overestimate how good the best option is.
+	- There is no obvious absolute standard that we can appeal to, so some amount of reflection
+		on opportunity costs is probably essential.
+	- You'll encounter plenty of new things anyway.
+	- *You'll stumble onto improvements on your habitual choices without going looking for them.*
 
 *** Make Your Decisions Nonreversible
+  - *What we don't realize is that the very option of being allowed to change our minds seems
+		to increase the chances that we will change our minds.*
+	- When we can change our minds about decisions, we are less satisifed with them.
+	- When a decision is final, we engage in a variety of pyschological processes that
+		enhance our feelings about the choice we made relative to the alternatives.
 
-*** Practice and "Attitude of Gratitude"
+	- If a decision is reversible, we don't engage these processes to the same degree.
+
+	- *The power of nonreversible decisions comes through most clearly when we think about our most important choices.
+		
+	- Agonizing over and wondering whether you could have done better is a prescription for misery.
+
+*** Practice an "Attitude of Gratitude"
+  - Our evaluation of our choices is profoundly affected by what we compare them with,
+		including comparisons with alternatives that exist only in our imaginations.
+	- The same experience can have both delightful and disappointing aspects.
+	- *Gratitude does not come naturally to most of us most of the time.*
+	- When life is not too good, we think a lot about how it could be better.
+	- When life is going well, we tend not to think much about how it could be worse.
+	- *Habits of thought die hard*
 
 *** Regret Less
+  - The sting of Regret (either actual or potential) colors many decisions and sometimes
+		influences us to avoid making decisions at all.
+	- *Our experience of life would be infinitely happier if we could let go of regret*
+	- Although regret is often appropriate and instructive, when it becomes so pronounced that it
+		poisons or even prevents decisions, we should make an effort to minimize it.
+	- We can mitigate regret by:
+		- Adopting the standards of a satisficer rather than a maximizer
+		- Reducing the number of options we consider before making a decision
+		- Practicing gratitude for what is good in a decision rather focusing on our
+			disappointments with what is bad
 
 *** Anticipate Adaptation
   - *We adapt to almost everything we experience with any regularity.*
+	- We can't prevent adaptation
+	- Learning to be satisfied as pleasures turn into mere comforts will ease disappointment
+		with adaptation when it occurs.
+	- To be better prepared for, and less disappointed by adaptation:
+		- Acknowledge that the thrill won't be quite the same two months after you own it.
+		- Spend less time looking for the perfect thing (maximizing), so that you won't have
+			huge search costs to be amortized against the satisfaction you derive from what you actually chose
+		- Remind yourself of how good things actually are instead of focusing on how they're
+			less good than they were at first
 
 *** Control Expectations
   - Our evaluation of experience is substantially influenced by how it compares with our expectations.
