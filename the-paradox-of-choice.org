@@ -2,6 +2,32 @@
 Author: Barry Schwartz
 
 ** The Paradox of choice - a roadmap
+  - Negaitve liberty: freedom from constraint, freedom from being told what to do by others
+  - Positive liberty: freedom to the availability of opportunities to be the author of your life and to make it meaningful and significant
+  - Negative liberty => freedom from
+  - Positive liberty => freedom to
+  - *Not all choices enhances freedom*
+  - impair freedom
+  - Many people are feeling less and less satisfied even as their freedom of choice expands
+  - Instead of being fetishistic about freedom of choice, we should ask ourselves whether it nourishes us deprives us
+    whether it makes us mobile or hems us in
+    whether it enhances self-respect or diminishes it
+  - Freedom of choice => core value
+  - We do ourselves no favor when we equate liberty too directly with choice, as if we necessarily increase freedom by increasing the no of options available.
+  - Liberty !== Choice
+  - We make the most of our freedoms by learning to make good choices about the things that matter,
+    while at the same time unburdening ourselves from too much concern about the things that don't
+  - The range of chioces people face everyday has increased in recent years
+  - How we choose and how difficult and demanding it is to make wise choices
+  - Maximizers => individuals determined to make only the best choices
+  - How and why choice can make us suffer
+  - *Increased opportunities for choice actually make people not happier*
+  - Added options do not make people better off
+  - adaptation, regret, missed opportunities, raised expectations - feelings of inadequacy in comparison with others
+  - Increased choice may actually contribute to the recent epidemic of clinical depression
+  - A series of recommendation for taking advantage of what is positive and avoiding what is negative in our modern freedom of choice
+  - The important lessons to be learned are not so obvious and counterintuitive
+
  - We would be better off
    - if we embraced certain voluntary constraints on our freedom of choice, instead of rebelling against them
    - seeking what was "good enough" instead of seeking the best
@@ -11,31 +37,40 @@ Author: Barry Schwartz
  - Conventional wisdom is wrong at least when it comes to what satisfies us in the decisions we make.
 
 ** New Choices
- - Negaitve liberty: freedom from constraint, freedom from being told what to do by others
- - Positive liberty: freedom to the availability of opportunities to be the author of your life and to make it meaningful and significant
- - Negative liberty => freedom from
- - Positive liberty => freedom to
- - *Not all choices enhances freedom*
- - impair freedom
- - Many people are feeling less and less satisfied even as their freedom of choice expands
- - Instead of being fetishistic about freedom of choice, we should ask ourselves whether it nourishes us deprives us
-   whether it makes us mobile or hems us in
-   whether it enhances self-respect or diminishes it
- - Freedom of choice => core value
- - We do ourselves no favor when we equate liberty too directly with choice, as if we necessarily increase freedom by increasing the no of options available.
- - Liberty !== Choice
- - We make the most of our freedoms by learning to make good choices about the things that matter,
-   while at the same time unburdening ourselves from too much concern about the things that don't
- - The range of chioces people face everyday has increased in recent years
- - How we choose and how difficult and demanding it is to make wise choices
- - Maximizers => individuals determined to make only the best choices
- - How and why choice can make us suffer
- - *Increased opportunities for choice actually make people not happier*
- - Added options do not make people better off
- - adaptation, regret, missed opportunities, raised expectations - feelings of inadequacy in comparison with others
- - Increased choice may actually contribute to the recent epidemic of clinical depression
- - A series of recommendation for taking advantage of what is positive and avoiding what is negative in our modern freedom of choice
- - The important lessons to be learned are not so obvious and counterintuitive
+
+*** Choosing Utilities
+
+*** Choosing Health Insurance
+
+*** Choosing Retirement Plans
+
+*** Choosing Medical Care
+
+*** Choosing Beauty
+
+*** Choosing How to work
+
+*** Choosing How to Love
+
+*** Choosing How to Pray
+
+*** Choosing Who to Be
+
+*** What It Means to Choose
+  - *Everything in life is a choice*
+  - Every second of every day, we are choosing, and there are always alternatives.
+  - Existence, at least human existence is defined by the choices people make.
+  - We face more choices and more decisions today than every before.
+  - There is little psychological reality to this freedom of choice.
+  - The burden of having every activity be a matter of deliberate and conscious choice would be too much for any of us to bear.
+  - The transformation of choice in modern life is that choice in many facets of life has gone from implicit and often psychologically unreal to 
+    explicit and psychologically very real.
+  - We now face a demand to make choices that is unparalleled in human history.
+  - We probably would be deeply resentful fi someone tried to take our freedom of choice away in any part of life that we really cared about and 
+    really knew something about.
+  - If it were up to us to choose whether or not to have choice, we would opt for choice almost every time.
+  - *The cumulative effect of the added choices is causing substantial distress*
+
 
 ** Deciding and Choosing
 
@@ -81,6 +116,16 @@ Author: Barry Schwartz
 *** Be a Chooser, Not a Picker
 
 *** Satisfice More and Maximize Less
+  - Learning to accept good enough will simplify decision making and increase satisfaction
+  - Admittedly, there are often times when it is difficult to embrace "good enough"
+  - Nonetheless, everybody satisfices in at least some areas of life, because even for the most fastidious,
+    it's impossible to be a maximizer about everything.
+  - The trick is to learn to embrace and appreciate satisficing, to cultivate it in more and more aspects
+    of life, rather than merely being resigned to it.
+  - Knowing what's good enough requires knowing yourself and what you care about. So
+    - Think about occasions in life when you settle, comfortably, for "good enough";
+    - Scrutinize how you choose in those areas
+    - Then apply that strategy more broadly
 
 *** Think About the Opportunity Costs of Opportunity Costs
   - When making a decision, it's usually a good idea to think about the alternatives we will pass up when
