@@ -37,8 +37,6 @@ Author: Carlo Rovelli
  - Space and gravitational field are the same thing
  - The reward is sheer beauty and new eyes with which to see the world
 
-** 
-
 ** Quanta
  - The fine structure of nature is more subtle than it appears
  - General relativity is a simple and coherent vision of gravity, space and time
@@ -164,7 +162,7 @@ Author: Carlo Rovelli
  - We follow leads in order to better describe the world
  - We not only learn, but we also learn to gradually change our conceptual framework and
 	 to adapt it to what we learn
- - Myths nourish scince and science nourishes myth
+ - Myths nourish science and science nourishes myth
  - But the value of knowledge remains
  - Our knowledge consequently reflects the world
  - All things are continuously interacting with each other
