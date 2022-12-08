@@ -206,12 +206,36 @@ Author: Dietrich Dorner
 	- *The effectiveness of a measure almost always depends  on the context within which the measure is pursued.*
 	- |right degree of abstraction ------------ abstraction spectrum ---------------- overgeneralization|
 	- similarity matching - tendency to respond to similarities more than to differences
+  - Before we apply an abstract concept to a concrete situation, we should submit it to strategic scrutiny to
+    decide whether it is appropriate to the context
+  - Strategy is a system of makeshifts. It is more than a science
+  - Strategy is bringing knowledge to bear on practical life, the further elaboration of an original guiding idea
+    under constantly changing circumstances.
+  - A wise decision will always depend on the given constellation of conditions.
+  - Everything is in flux, and we must adapt accordingly
 
 *** "It's the Environment" 
 
 *** Prime Numbers and Tourist Traffic or Moltke and Forest Fires
 
 *** The Pale Cast of Thought
+  - A sensible and effective measure in one set of circumstances can become a dangerous course of action when conditions change
+  - We must keep track of constantly changing conditions and never trust any image we form of a situation as permanent.
+  - Before we make a generalization, we should consider whether we have enough evidence to do so.
+  - *To the ignorant, the world works simple*
+  - We realize how much we still don't know, and we feel a strong desire to learn more.
+  - *The more we know, the more clearly we realize what we don't know*
+  - New info muddies the picture
+  - *In reality we rarely have complete information*
+  - Once we finally reach a decision we are relieved to have the uncertainty of decision making behind us.
+  - an inverse relationship between information gathering and readiness to act.
+  - clear focus and clear shift in focus
+  - *The excess information bred uncertainty*
+  - We simply stop playing a game that makes us more and more uncertain and anxious and less and less capable of.
+  - *Horizontal flight*: pulling back into a small, cozy corner of reality where we feel at home
+  - *Vertical flight*: kicking ourselves free of recalcitrant reality altogether and constructing a more cooperative image of that reality
+  - We combat our uncertainty either by acting hastily on the basis of minimal information or by gathering excessive information
+    which inhibits action and may even increase our uncertainty.
 
 ** Time Sequences
 
