@@ -236,10 +236,25 @@ Author: Dietrich Dorner
   - *Vertical flight*: kicking ourselves free of recalcitrant reality altogether and constructing a more cooperative image of that reality
   - We combat our uncertainty either by acting hastily on the basis of minimal information or by gathering excessive information
     which inhibits action and may even increase our uncertainty.
+  - 2 factors come together in extrapolations from the moment:
+    - limited focus on a notable feature of the present
+    - extension of the perceived trend in more or less linear and monotone fashion
 
 ** Time Sequences
+ - We live and act in a 4 dimensional (4D) system : 3 dimensions of space + 1 dimension of time
+ - The dimension of time moves in one direction, toward the future
+ - We rarely have trouble dealing with configurations in space
 
 *** Time and Space
+  - A time configuration is available for examination only in retrospect
+  - *Life forces us to understand patterns in time*
+  - Space configurations can be perceived in their entirety while time configurations cannot
+  - We often overlook time configurations and treat successive steps in a temporal development as individual events
+  - We are constantly presented with whole spatial configurations, we readily think in such terms
+  - Even when we think in terms of time configurations, our intuition is very limited
+  - We seem to rely on only a few mechanisms of prognostication to gain insight into the future
+  - Fixation on the characteristics of the moment brings with it the danger that too much significance is ascribed to present circumstances.
+  - Fixation on linear future development may prevent us from anticipating changes in direction and pace.
 
 *** Lilypads, Grains of Rice and AIDS
 
