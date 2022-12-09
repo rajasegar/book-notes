@@ -34,3 +34,4 @@ This is a collection of my book notes
 - [[/metaphors-we-live-by.org][Metaphors We Live By]]
 - [[/the-paradox-of-choice.org][The Paradox of Choice]]
 - [[/the-craftsman.org][The Craftsman]]
+- [[/living-within-limits.org][Living within Limits]]
