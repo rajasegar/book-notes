@@ -35,3 +35,4 @@ This is a collection of my book notes
 - [[/the-paradox-of-choice.org][The Paradox of Choice]]
 - [[/the-craftsman.org][The Craftsman]]
 - [[/living-within-limits.org][Living within Limits]]
+- [[/thinking-in-systems.org][Thinking in Systems]]
