@@ -5,9 +5,54 @@ Author: Donella H.Meadows
 - When done right, systems thinking overarches history as well
 - natural systems thinkers
 - All books are biased and incomplete
-- A basic ability to understand and to deal with complex systems 
+- A basic ability to understand and to deal with complex systems
+- *Listen to the Universe!*
+- *Let's face it! The universe is messy*
+- Getting models out into the light of the day, making them as rigorous as possible,
+  testing them against the evidence, and being willing to scuttle them if they are no longer
+  supported is nothing more than practising the scientific method.
+- the rationality
+- the systematic patterns of thought
+- Duality:
+  - We know a tremendous amount about how the world works, but not nearly enough.
+  - Our knowledge is amazing; our ignorance is even more so
+  - We can improve our understanding but we can't make it perfect.
+- Once we see the relationship between structure and behaviour, we can begin to understand how systems work
 
 ** Part One: System structure and behavior
+
+*** Introduction: The System Lens
+  - Managers do not solve problems, they manage messes.
+  - The system may be buffetted, constricted, triggered or driven by outside forces.
+  - better behavior patterns
+  - Systems thinking is a way of thinking that gives us the freedom to identify root causes of problems and see new opportunities
+  - A system is a set of things interconnected in such a way that they produce their own pattern of behavior over time.
+  - *The system to a large extent causes it's own behavior*
+  - part of a larger set of influences and societal issues
+  - deeply unsettling
+  - a resistance to and a recognition of systems principles
+  - feedback delays
+  - competitive exclusion principle:
+    - If a reinforcing feedback loop rewards the winner of a competition with the means to win further competitions,
+      the result will be the elimination of all but a few competitors
+  - *A diverse system with multiple pathways and redundancies is more stable and less vulnerable to external shock
+    than a uniform system with little diversity*
+  - out there vs in here
+  - It's almost irresistible to blame something or someone else to shift responsibility away from ourselves
+  - We must do things, or atleast see things and think about things in a different way.
+  - Systems happen all at once
+  - reductionist unholistic way
+  - Feedback loop => the basic operating unit of a system
+  - the tragedy of the commons
+  - eroding goals
+  - intrinsically systems problems
+  - *Archetypes* => common structures that produce characteristic behaviors
+  - *The systems thinking lens allows  us to reclaim four intuition about whole systems.*
+  - We can learn how to look for leverage points for change
+  - Archetypes are responsible for some of the most transigent and potentially dangerous problems
+  - Archetypes can also be transformed, with a little systems understanding, to produce much more desirable behaviors
+  - Each way of seeing allows our knowledge of the wondrous world in which we live to become a little more complete
+  - The behavior of a system cannot be known just by knowing the elements of which the system is made
 
 *** The Basics
 
