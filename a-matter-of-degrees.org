@@ -4,7 +4,7 @@ Author: Geno Segre
 What temperature reveals about the past and future of our species, planet and universe
 
 ** Introduction: The Ruler, The Clock and the Thermometer
-- New ideas expand our horizons
+- *New ideas expand our horizons*
 - Metrology - study of measurement
 - Temperature was necessarily part of the narrative, not a peripheral marker
 
@@ -105,3 +105,6 @@ What temperature reveals about the past and future of our species, planet and un
 *** Chandra's Journey
 
 *** Into the Future
+  - We are just specs on a continuum
+	- We are made to pursue virtue and knowledge
+

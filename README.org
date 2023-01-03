@@ -36,3 +36,5 @@ This is a collection of my book notes
 - [[/the-craftsman.org][The Craftsman]]
 - [[/living-within-limits.org][Living within Limits]]
 - [[/thinking-in-systems.org][Thinking in Systems]]
+- [[/high-output-management.org][High Output Management]]
+- [[/nomad-century.org][Nomad Century]]
