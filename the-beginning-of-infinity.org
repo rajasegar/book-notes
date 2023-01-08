@@ -545,6 +545,55 @@ Explanations that transform the world
 
 
 ** Choices
+   - There is no such thing as mathematical inspiration
+   - Science judge evidence with the criterion of good explanation
+   - It would be wrong for science to adopt the democratic principle
+   - Our knowledge of mathematics is not infallible
+   - That which cannot be done perfectly must be done in a manner as near perfection as can be.
+   - *No dictator axiom*: The rule must not simply designate the views of one particular person to be the prefereces of
+     the group regardless of what others want
+   - There is no such thing as the will of the people
+   - *If exactness cannot, from the nature of things, be attained then the nearest practicable approach 
+      to exactness ought to be made.*
+   - Whenever one patches up a decision-making system in one way, it becomes paradoxical in another
+   - Rational decision making consists not of weighing evidence, but of explaining it,
+     in the course of explaining the world.
+   - At the heart of decision making is the creation of new options, and the abandonment
+     or modification of existing ones.
+   - *To choose an option, is to choose its explanation*
+   - The process that adjudicates between the different explanations would have to satisfy certain constraints
+     if it were to be rational.
+   - *Decision making is problem solving*
+   - *To choose an option rationally is to choose the associated explanation*
+   - Without the inspiration phase nothing is ever solved and there is nothing to choose between
+   - A good explanation is being hard to vary at all without losing its explanatory power is hard
+     to mix with a rival explanation
+   - *Mixing two explanations to create a better explanation requires an additional act of creativity*
+   - Social-choice theory is itself based on false assumptions about what thinking and deciding consist of.
+   - *Good explanations are discrete, separated from each other by bad explanations*
+   - *A logial contradiction is nonsense*
+   - If your conception of justice conflicts  with the demands of logic or rationality then it is unjust.
+   - *An impossible wish is ultimately uninteresting as well.*
+   - If your conception of rationality conflicts with a mathematical theorem then your conception of 
+     rationality is irrational
+   - Conditions of fairness -> misconceptions
+   - Rational analysis:
+     - removal of bad policies and rules
+     - creation of new options
+   - Society is not a zero-sum game
+   - We need something better to wish for
+   - *What is necessary for progress is to exclude ideas that fail to survive criticism*
+   - Promoting the creation of new ideas is necessary for progress
+   - insignificant in comparison with the greater effectiveness
+   - Even democracy itself is unworkable under some circumstances
+   - *Solutions create new problems*
+   - A successful truth-seeking system works its way towards broad consensus or near-unanimity
+   - Good policies are hard to vary
+   - Conflicting policies are discrete and cannot be arbitrarily mixed.
+   - Most important element of decision making => creation of new options
+   - It is a mistake to conceive of choice and decision making as a process of selecting from existing
+     options according to a fixed formula.
+
 
 
 ** Why are Flowers Beautiful?
