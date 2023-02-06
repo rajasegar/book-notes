@@ -1,7 +1,7 @@
-* Book Notes
+# Book Notes
 This is a collection of my book notes
 
-** Table of Contents
+## Table of Contents
 - [[/only-the-paranoid-survive.md][Only the Paranoid Survive]]
 - [[/the-checklist-manifesto.md][The Checklist Manifesto]]
 - [[/attitude-is-everything.md][Attitude is everything]]
@@ -38,3 +38,4 @@ This is a collection of my book notes
 - [[/thinking-in-systems.org][Thinking in Systems]]
 - [[/high-output-management.org][High Output Management]]
 - [[/nomad-century.org][Nomad Century]]
+- [Slouching towards Utopia](/slouching-towards-utopia.md)
