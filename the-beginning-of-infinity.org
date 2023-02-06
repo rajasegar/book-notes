@@ -545,20 +545,323 @@ Explanations that transform the world
 
 
 ** Choices
+   - There is no such thing as mathematical inspiration
+   - Science judge evidence with the criterion of good explanation
+   - It would be wrong for science to adopt the democratic principle
+   - Our knowledge of mathematics is not infallible
+   - That which cannot be done perfectly must be done in a manner as near perfection as can be.
+   - *No dictator axiom*: The rule must not simply designate the views of one particular person to be the prefereces of
+     the group regardless of what others want
+   - There is no such thing as the will of the people
+   - *If exactness cannot, from the nature of things, be attained then the nearest practicable approach 
+      to exactness ought to be made.*
+   - Whenever one patches up a decision-making system in one way, it becomes paradoxical in another
+   - Rational decision making consists not of weighing evidence, but of explaining it,
+     in the course of explaining the world.
+   - At the heart of decision making is the creation of new options, and the abandonment
+     or modification of existing ones.
+   - *To choose an option, is to choose its explanation*
+   - The process that adjudicates between the different explanations would have to satisfy certain constraints
+     if it were to be rational.
+   - *Decision making is problem solving*
+   - *To choose an option rationally is to choose the associated explanation*
+   - Without the inspiration phase nothing is ever solved and there is nothing to choose between
+   - A good explanation is being hard to vary at all without losing its explanatory power is hard
+     to mix with a rival explanation
+   - *Mixing two explanations to create a better explanation requires an additional act of creativity*
+   - Social-choice theory is itself based on false assumptions about what thinking and deciding consist of.
+   - *Good explanations are discrete, separated from each other by bad explanations*
+   - *A logial contradiction is nonsense*
+   - If your conception of justice conflicts  with the demands of logic or rationality then it is unjust.
+   - *An impossible wish is ultimately uninteresting as well.*
+   - If your conception of rationality conflicts with a mathematical theorem then your conception of 
+     rationality is irrational
+   - Conditions of fairness -> misconceptions
+   - Rational analysis:
+     - removal of bad policies and rules
+     - creation of new options
+   - Society is not a zero-sum game
+   - We need something better to wish for
+   - *What is necessary for progress is to exclude ideas that fail to survive criticism*
+   - Promoting the creation of new ideas is necessary for progress
+   - insignificant in comparison with the greater effectiveness
+   - Even democracy itself is unworkable under some circumstances
+   - *Solutions create new problems*
+   - A successful truth-seeking system works its way towards broad consensus or near-unanimity
+   - Good policies are hard to vary
+   - Conflicting policies are discrete and cannot be arbitrarily mixed.
+   - Most important element of decision making => creation of new options
+   - It is a mistake to conceive of choice and decision making as a process of selecting from existing
+     options according to a fixed formula.
+
 
 
 ** Why are Flowers Beautiful?
+ - Scientific theories are hard to vary because they correspond closely with an objective truth, 
+   which is independent of our culture, preferences and biological make-up
+ - Prevailing view => there is nothing objective about artistic standards
+ - Facts can be used to criticize aesthetic theories
+ - Facts can be used to criticize moral theories
+ - Scientific discovery depends on a commitment to certain moral values, it also entails the appreciation of certain
+   forms of beauty
+ - *Deep truth is often beautiful*
+ - *Experience may also provide artistic problems*
+ - *Elegance is the beauty in explanations*
+ - *Elegance is a useful heuristic when searching for fundamental truths*
+ - Our genes predispose us what to like
+ - Attractiveness can be functional, and is a down-to-earth scientifically measurable quantity
+ - One possible instrumental purpose of beauty is attraction
+ - People can learn to see many things as beautiful or ugly
+ - *There is such thing as objective scientific truth*
+ - When analyzed in sufficient detail, everything is mechanical.
+ - The laws of physics are sovereign
+ - New art is unpredictable, like new scientific discoveries
+ - Art does not consist of repetition
+ - *In human tasks there can be genuine novelty*
+ - *The idea of creativity is still rather confused by various misconceptions.*
+ - *Empiricism miscasts science as an automatic, non-creative process*
+ - Attraction is not inborn
+ - Prettiness is no accidental side-effect but is what they specifically evolved to have
+ - We do all have a shared genetic heritage going back to  our common ancestor and before
+ - Humans seem to have an inborn liking to symmetry
+ - Humans appreciate objective beauty
+ - *We are universal explainers and can create knownledge about anything*
+ - The amount of information in a human mind is more than that in the genome of any species and
+   overwhelmingly more than the genetic information unique to one person.
+ - *It is only in the objective direction that we can expect to make unlimited progress.*
+ - Artistic values are not subordinate to , or derived from anything else
+ - Expression is conveying something that is already there.
+ - Objective progress is art is about creating something new.
+ - *Real progess is difficult  and involves many errors for every success*
+ - *Elegance is a heuristic guide to truth*
+ - The beginning of infinity  is the need to create objective knowledge in order to allow different people to communicate.
+ - *Beauty is objective*
+ - When we understand better what elegance really is, perhaps we shall find new and better ways to seek truth using elegance and beauty
+ - Prior shared knowledge is insufficient to provide hard-to-forge signals
+ - convergent criticsim of beauty solve the problem of creating hard-to-forge signals
 
 
 ** The Evolution of Culture
+   - Culture is a set of ideas that cause their holders to behave alike in some ways
+   - All ideas have some inexplicit component
+   - Inexplicit ideas are hard to convey accurately
+   - Memes => ideas that are replicators
+   - Long lived memes => exceptional ideas that have been accurately replicated many times in succession
+   - The overwhelming majority of ideas disappear within a lifetime or less
+   - *The biosphere is a grim place*
+   - *Arguments by analogy are fallacies*
+   - Human beings are *causal agents* with the ability to make moral choices & to create new knowledge for themselves.
+   - Genes and memes are about as different as can be at the level of mechanisms and of outomes
+   - *We do not know how creativity works*
+   - Creatvity is itself an evolutionary process within individual brains
+   - All memes contain knowledge (often inexplicit) of how to cause their own replication
+   - Genes are copied indiscriminately
+   - In all cases, the DNA duplication process is automatic
+   - Memes implicity contain into that is not known to the holders
+   - If a meme is not enacted, it will not be copied
+   - Each meme has to be expressed  as behavior every time it is replicated
+   - Memes - 2 different physical forms = memories in a brain and behavior
+   - Lamarckism => behaviors that had been modified by circumstances would be inherited
+   - Children are gullible
+   - To be a meme, an idea has to contain quite sophisticated knowledge
+   - Memes are selfish
+   - A human brain is itself an arena of intense variation, selection and competition
+   - irrational political ideologies or dangerous fads
+   - Meme replication itself involved evolution, within individual brains
+   - A substantial propositions of all evolution on our planet to date has occured in human brains
+   - The whole of biological evolution was but a preface to the main story of the evolution of memes
+   - People think and try to improve upon their ideas - which entails changing them
+   - Static societies: societies changing on a timescale unnoticed by the inhabitants
+   - In a static society, the beginning of infinity never happens
+   - It is infeasible to specify every aspect of acceptable behavior with perfect precision.
+   - NO society could remain static solely by suppressing new ideas once they have been created
+   - The primary method of preventing change is always to disable the source of new ideas, namely human creativity
+   - The long-lived memes of a static society implicitly posesses knowledge of the human condition and use
+     it mercilessly to evade the defences and exploit  the weakness of the human minds that they enslave
+   - *human creativity* - the source of new ideas
+   - Organisms are the tools of genes
+   - Individuals are used by memes to achieve their purpose of spreading themselves through the population
+   - A static society involves a relentless struggle to prevent knowledge from growing
+   - A static society is indeed in constant danger of being harmed or destroyed by a newly arriving dysfunctional meme
+   - Static societies do tend to settle issues by violence and they do tend sacrifice the welfare of individuals for the good of society
+   - Oppression is what it takes to keep a society static
+   - The sustained, exponential growth of knowledge has unmistakable effects
+   - *Creating knowledge is itself a natural human need and desire*
+   - Static socities cannot exist without effectively extinguishing  the growth of knowledge, they cannot allow their members much opportunity to pursue happiness.
+   - The ideas with the best chance of surviving through many generations of change are truths with react and deep truths.
+   - A true, deep idea has an objective reason to be considered useful by people with diverse purposes over long periods.
+   - In the absence of criticism, true ideas no longer have that advantage and can deteriorate or to be superseded.
+   - Memes - rational and anti-rational (older, static society kind)
+   - People are fallible
+   - A rational meme's natural home is a dynamic society
+   - The tradition of criticism is optimistically directed at problem solving
+   - Nature had been understood in unprecedented depth and of the methods of science and reasearch by which this had been achieved.
+   - Ideas are now fairly open to criticism and experimentation and to choice and change
+   - The degree to which a person's life was controlled by duty, obedience to authority, piety, faith and so on was 
+     the very measure by which people judged themselves and others.
+   - We are still to a significant degree the slaves of antirational memes
+   - Rational self image is itself a recent development of our society
+   - values => reason, freedom of thought and the inherent value of individual human beings
+   - objectively trivial and inconsequentially choices about style
+   - Keeping a dynamic society stable requires a great deal of knowledge
+   - Antirational memes suppress criticism selectively and cause only fine-tuned damage.
+   - Without a critical discriminating approach to what they are learning most of them are effectively replicating
+     the memes of science and reason into their minds
+   - Ideas are built from previous ideas by a process of variation and selection, which constitutes evolution
+   - Part of our behavior is caused by autonomous entities whose content we do not know.
+   - *We are fallible, but through conjecture, criticism and seeking good explanations we may correct some of our errors.*
+   - static society thinking
+   - Popper's criterion
+   - The sustained creation of knowledge has never worked before
+   - Primitive societies
+   - Western civilaztion is an unstable transitional period between stable static societies and a stable dynamic society.
+   - Anti-rational memes => need people to avoid thinking critically about their choices
+   - Rational memes => need people to think as critically as possible
+   - WE can be badly mistaken in any of our ideas, even about ourselves and even when we feel stronglyy that we are right.
+   - Primitive societies are unimaginably unpleasant to live in.
 
 
 ** The Evolution of Creativity
+   - Creativity is the only one that can produce scientific or mathematical knowledge, art or philosophy
+   - Human choice is a product of creativity
+   - The unique effects of creativity dominate our experience of the world.
+   - The creativity that humans use to improve ideas is what pre-eminently set us apart from other species.
+   - *There is not upper limit to the value of ideas*
+   - Memes can be improved much faster by creativity than by random trial and error
+   - *Creativity is the capacity to create an endless stream of innovation*
+   - Once creativity and meme transmission are both present they greatly enhance each other's evolutionary value
+   - All evolution was always in the direction of faithfullness
+   - Innovations sometimes have reach
+   - A static society has no choice but to reward that sort of conspicousness
+   - There is a great deal of knowledge in even the simplest of human memes
+   - Practical innovations were originally so rare
+   - Theory has to come first. Theory has to be conjectured, not derived
+   - Scientific observations is impossible without pre-existing knowledge about what to look at, what to look for,
+     how to look and how to interpret what one sees
+   - One needs to know the ideas before one can initate the behavior
+   - It is impossible to speak in such a way that you cannot be misunderstood
+   - WE certainly do no learn what is 'reasonable' means by hearing its meaning stated.
+   - We do not explicity know the rules by which we behave
+   - People need inexplicit knowledge to understand laws and other explicit statements , not vice versa
+   - *To a human observer each different way of putting the idea would convey additional knowledge*
+   - Imitation is not at the heart of human meme replication
+   - the general human objective of explaining the world
+   - Creating explanations is second nature to us
+   - Humans use conjecture, criticism and experiment to creat good explanations of the meaning of things
+   - If we end up behaving like other people, it is because we rediscovered the same idea.
+   - What replicates human memes is creativity
+   - Creativity was used to acquire existing knowledge, not to create new knowledge. But the mechanism
+     to do both things is identical.
+   - Making comes before matching
+   - The active production of a new trial structure comes before its exposure to eliminating tests.
+   - WE do not discover new facts or new effects by copying them or from inferring them inductively from observation
+   - Memes are not derived from anything
+   - *No idea can be represented entirely explicitly*
+   - The pattern of creative conjecture, criticism and testing generates inexplicit as well as explicit ideas.
+   - Impercetible errors cannot be suppressed.
+   - It requires creativity to thrive in a static society.
+   - Creativity is a property of software
+   - The human brains evolved in order to replicate memes
+   - The creativity program is a combination of genes and memes
+   - No-human level mental achievements would be possible without human-type memes
+   - meme machine => human brain
+   - Creativity is necessary and sufficient for human meme replication
+   - *The beginning of creativity is the beginning of infinity*
+   - Our creativity evolved in order to increase the amount of knowledge what we could use
+   - Knowledge was growing much too slowly  for the more creative individuals to have had any selective advantage
+   - Complex memes do not mandate specific bodily action, but rules
+   - reassignment of creativity
+   - Creativity is evolved for the specific function of replicating memes unchanged
+   - Ape memes => expensive in terms of the time and effort required to replicate
+   - Human memes => efficiently transmitted and universal in their expressive power
 
 
 ** Unsustainable
+   - Our civilaztion is unique in history for its capacity to make progress
+   - The suppression of change is seldom what human beings need
+   - *Since problems are solvable, all disasters are caused by poor resource management*
+   - It is knowledge alone that converts landscapes into resources
+   - Humans alone are the authors of explanantory knowledge
+   - Since the beginning of civilization and before, both the principal opportunities for progress and the principle obstacles
+     to progress have consisted of ideas alone.
+   - No human situations is free of new problems and static societies are inherently unstable in the face of new problems
+   - They all had problems that they failed to solve
+   - *If we stop solving problems, we are doomed.*
+   - What does it take to solve problems?
+   - The prophetic mode of thinking no matter how plausible it seems prospectively is fallacious and inherently biased.
+   - conceptions of people:
+     - pessimisitic => People are wasters
+     - optimistic => People are problem solvers
+   - There is no scientific method that provides only true theories
+   - Stasis is itself unsustainable
+   - There is no resource management strategy that can prevent disasters
+   - There is no political system that provides only good leaders and good policies
+   - The idea that the future can be scientifically planned => Disaster
+   - All triumphs are temporary
+   - Only progress is sustainable
+   - Prevention and delaying tactics can be no more than a minor part of a viable strategy for the future
+   - In reality there is no such thing as sustainable lifestyle
+   - Survival will depend on being able to cope when prevention and delaying tactics have failed.
+   - We need the capacity to deal with unforeseen, unforeseeable failures
+   - The future of human responses to climate to depend heavily on how successful, people are at creating
+     new knowledge to address the problems that arise.
+   - Time and again, the unpredictable factor of new human ideas both good and bad, would make the scientific prediction useless
+   - We cannot know the future discoveries that will make some of our present actions seem wise, some counter-productive and some irrelevant
+   - An ounce of prevention equals a pound of cure
+   - No precautions can avoid problems that we do not yet foresee.
+   - Trying to rely on the sheer good luck of avoiding had outcomes indefinitely would simply guarantee that we would eventually fail without
+     the means of recovery
+   - the prevailing ethic and aspiration
+   - Choose to embark on an open-ended journey of creation and exploration whose every step is unsustainable until it is redeemed by the next.
+   - History is the history of ideas, not of the mechanical effects of biogeography.
+   - Strategies to prevent foreseeable disasters are bound to fail eventually and cannot even address the unforeseeable.
 
 
 ** The Beginning
+   - The earth has become smaller both relative to the universe and relative to the scale of human action
+   - The very concept of a law of nature is not cast in stone
+   - The most fundamental discoveries have always and will always not only consist of new explanations, but use 
+     new modes of explanation.
+   - The future is not yet imaginable
+   - *We shall never reach anything like an unproblematic state.*
+   - Nearly there: dismal version and cheerful version
+   - Almost no one is creative in fields in which they are pessimistic
+   - The desirable future is one where we progress from misconception to ever better (less mistaken) misconception
+   - *Science claims neither infallibility or finality.*
+   - *The growth of knowledge is a continual transition from problems to better problems.*
+   - In our *infinite ignorance*, we all are equal
+   - *Infinite ignorance is a necessary condition for there to be infinite potential for knowledge.*
+   - There is objective truth to be found
+   - *Finality or infallibility cannot be found anywhere*
+   - Ambiguity:
+     - Ambiguity of multiple true meanings
+     - Ambiguity of deliberate vagueness
+   - *Our knowledge is tiny and our ignorance vast*
+   - Today there is no such excuse for denying that some of our problems are fundamental
+   - the ancient tensions between the discrete and the continuous
+   - Omega-point universes - the universe that would last forever because they would be thinking faster and faster
+   - Eventually physically possible will eventually be revealed.
+   - All our predictions is implicitly including the proviso unless the creation of new knowledge intervenes
+   - The concept of the singularity as a sort of discontinuity is a mistake.
+   - Knowledge will continue to grow exponentially or even faster and that is astounding enough
+   - the infinite potential of explanatory knowledge
+   - A bubble of sense within endless senselessness does not make sense.
+   - Wondering -> conjecture -> speculation
+   - WE have lit only a few candles here and there
+   - People are of fundamental significance
+   - We already see that we do not live in a senseless world
+   - The laws of physics make sense: the world is explicable
+   - There are higher levels of emergence and higher levels of explanation
+   - Ideas of tremendous reach are possible
+   - Problems have solutions
+   - Every speculation begins with a problem
+   - Many people have an aversion to infinity of various kinds
+   - *What lies ahead of us is in any case infinity*
+   - There is only one way of thinking that is capable of making progress or of surviving in the 
+     long run and that is the way of seeking good explanations through creativity and criticism
+   - To attempt to predict anything beyond the relevant horizon is futile
+   - To attempt to predict anything beyond the relevant horizon is prophecy
+   - Wondering what is beyond the relavant horizon is not futile
+   - *Problems are inevitable because our knowledge will always be infinitely far from complete.*
 
 
