@@ -110,111 +110,111 @@ Author: Oliver Burkeman
     the most meaningful life you can, in whatever situation you are in.
 
 ### The Efficiency Trap
-    - We rarely stop to consider things so rationally, through, because that would mean confronting
-      the painful truth of our limitations
-    - Technically, it is irrational to feel troubled by an overwhelming todolist
-    - Sisyphus's Inbox
-    - There's no reason to believe you'll ever feel on top of things, or make time for everything that matters,
-      simply by getting more done
-    - It's that the underlying assumption is unwarranted
-    - The path of embracing your limits
-    - *What matters is subjective*
-    - *Parkinson's Law*: Work expands so as to fill the time available for its completion
-    - Email:
-      - input side: essentially infinite
-      - output side: strictly finite
-    - Rendering yourself more efficient won't generally result in the feeling of having enough time
-    - The goal-post shifting effect
-    - *Efficiency trap*: the demands will increase to offset any benefits
-    - We are often obliged to find ways to cram more into the same amount of time, even if we end up feeling busier as a result.
-    - *Focus on doing a few things that count*
-    - The only route to psychological freedom is to let go of the limit-denying fantasy of getting it all done
-      and instead focus on doing a few things that count
-    - *Existential overwhelm*: The modern world provides an inexhaustible supply of things that seem worth doing,
-      and unabridgeable gap between what you would ideally like to do and what you actually do
-    - what you would ideally like to do vs what you actually do
-    - *People try to quell their anxieties by cramming their lives with experience*
-    - Stuffing your life with pleasurable activities so often proves less satisfying than you'd expect.
-    - *The world has an effectively infinite number of experiences to offer.*
-    - The technologies we use to try to "get on top of everything" always fails us, in the end,
-      because they increase the size of the "everything" of which we are trying to get on top.
-    - Stop clearing the decks
-    - Ironic result => You end up with more to do
-    - *The more efficient you get, the more you become a limitless reservoir for other people's expectations.*
-    - In reality your time is finite
-    - Doing anything requires sacrifice
-    - The sacrifice of all the other things you could have been doing with that stretch of time
-    - Never had to clear the hurdle of being judged more important than something else
-    - The important ones got postponed - either forever or until an imminent deadline forced me to complete them, 
-      to a mediocre standard and in a stressful rush.
-    - One can waste years this way, systematically postponing precisely the things one cares about the most.
-    - Focus instead on what's truly of greatest consequence
-    - You will no longer be operating under the illusion of one day making time for everything.
-    - You get to focus on fully enjoying the tiny slice of experinces you actually do have time for.
-    - A willingness to resist such urges
-    - Life gets subtly worse
+- We rarely stop to consider things so rationally, through, because that would mean confronting
+  the painful truth of our limitations
+- Technically, it is irrational to feel troubled by an overwhelming todolist
+- Sisyphus's Inbox
+- There's no reason to believe you'll ever feel on top of things, or make time for everything that matters,
+  simply by getting more done
+- It's that the underlying assumption is unwarranted
+- The path of embracing your limits
+- *What matters is subjective*
+- *Parkinson's Law*: Work expands so as to fill the time available for its completion
+- Email:
+  - input side: essentially infinite
+  - output side: strictly finite
+- Rendering yourself more efficient won't generally result in the feeling of having enough time
+- The goal-post shifting effect
+- *Efficiency trap*: the demands will increase to offset any benefits
+- We are often obliged to find ways to cram more into the same amount of time, even if we end up feeling busier as a result.
+- *Focus on doing a few things that count*
+- The only route to psychological freedom is to let go of the limit-denying fantasy of getting it all done
+  and instead focus on doing a few things that count
+- *Existential overwhelm*: The modern world provides an inexhaustible supply of things that seem worth doing,
+  and unabridgeable gap between what you would ideally like to do and what you actually do
+- what you would ideally like to do vs what you actually do
+- *People try to quell their anxieties by cramming their lives with experience*
+- Stuffing your life with pleasurable activities so often proves less satisfying than you'd expect.
+- *The world has an effectively infinite number of experiences to offer.*
+- The technologies we use to try to "get on top of everything" always fails us, in the end,
+  because they increase the size of the "everything" of which we are trying to get on top.
+- Stop clearing the decks
+- Ironic result => You end up with more to do
+- *The more efficient you get, the more you become a limitless reservoir for other people's expectations.*
+- In reality your time is finite
+- Doing anything requires sacrifice
+- The sacrifice of all the other things you could have been doing with that stretch of time
+- Never had to clear the hurdle of being judged more important than something else
+- The important ones got postponed - either forever or until an imminent deadline forced me to complete them, 
+  to a mediocre standard and in a stressful rush.
+- One can waste years this way, systematically postponing precisely the things one cares about the most.
+- Focus instead on what's truly of greatest consequence
+- You will no longer be operating under the illusion of one day making time for everything.
+- You get to focus on fully enjoying the tiny slice of experinces you actually do have time for.
+- A willingness to resist such urges
+- Life gets subtly worse
 
 #### The Pitfalls of Convenience
-    - In attempting to eliminate only the tedious experiences, we accidentally end up eliminating things we
-      didn't realize we valued until they were gone.
-    - Smoothness is a dubious virtue
-    - *It's often the unsmoothed textures of life that make it liveable*
-    - Convenience colonizes everyday life
-    - Convenience culture reduces us into imagining that we might find room for everything important
-      by eliminating only life's tedious tasks.
-    - The undodgeable reality of a finite human life is that you are going to have to choose
+- In attempting to eliminate only the tedious experiences, we accidentally end up eliminating things we
+  didn't realize we valued until they were gone.
+- Smoothness is a dubious virtue
+- *It's often the unsmoothed textures of life that make it liveable*
+- Convenience colonizes everyday life
+- Convenience culture reduces us into imagining that we might find room for everything important
+  by eliminating only life's tedious tasks.
+- The undodgeable reality of a finite human life is that you are going to have to choose
 
 
 ### Facing Finitude
-    - You can't delve far into the question of what it means to be a finite human being, with finite time on the planet.
-    - The most fundamental thing we fail to appreciate about the world: Being and Time
-    - Every moment of human existence is completely shot through with the fact of our "finitude"
-    - Our being is totally, utterly bound up with our finite time
-    - We are a limited amount of time
-    - A decision to do any given thing will automatically mean sacrificing an infinite number of potential alternative paths.
-    - *Any finite life is therefore a matter of ceaselessly waving goodbye to possibility.*
-    - *Finitude defines our life*
-    - The only real question about all this finitude is whether we're willing to confront it or not.
-    - Living a truly authentic life is facing up to the fact.
-    - We must live out our lives, to whatever extent we can, in clear-eyed acknowledgement of our limitations,
-      in the undeluded mode of existence.
-    - *Life is not a dress rehearsal. Every choice requires myriad sacrifices*
-    - It is only by facing our finitude that we can step into a truly authentic relationship with life.
-    - Eternity would be deathly dull.
-    - By only learning how to die, we only learn how to live.
-    - It's by consciously confronting the certainty of death, and what follows from the certainty of death, that
-      we finally becomes truly present for our lives.
-    - 
+- You can't delve far into the question of what it means to be a finite human being, with finite time on the planet.
+- The most fundamental thing we fail to appreciate about the world: Being and Time
+- Every moment of human existence is completely shot through with the fact of our "finitude"
+- Our being is totally, utterly bound up with our finite time
+- We are a limited amount of time
+- A decision to do any given thing will automatically mean sacrificing an infinite number of potential alternative paths.
+- **Any finite life is therefore a matter of ceaselessly waving goodbye to possibility.**
+- *Finitude defines our life*
+- The only real question about all this finitude is whether we're willing to confront it or not.
+- Living a truly authentic life is facing up to the fact.
+- We must live out our lives, to whatever extent we can, in clear-eyed acknowledgement of our limitations,
+  in the undeluded mode of existence.
+- *Life is not a dress rehearsal. Every choice requires myriad sacrifices*
+- It is only by facing our finitude that we can step into a truly authentic relationship with life.
+- Eternity would be deathly dull.
+- By only learning how to die, we only learn how to live.
+- It's by consciously confronting the certainty of death, and what follows from the certainty of death, that
+  we finally becomes truly present for our lives.
+- 
 
 #### Thrown into Time
 
 #### Getting Real
-     - Things certainly do get realer when you deeply grasp the fact that you're going to die and that therefore
-       your time is severely limited.
-     - From an everyday standpoint, the fact that life is finite feels like a terrible insult, a sort of personal affront.
+- Things certainly do get realer when you deeply grasp the fact that you're going to die and that therefore
+ your time is severely limited.
+- From an everyday standpoint, the fact that life is finite feels like a terrible insult, a sort of personal affront.
 
 #### Everything is borrowed time
-     - Why assume that an infinite supply of time is the default, and mortality the outrageous violation?
-     - a vital bit of perspective
-     - Matters are liable to look very different indeed.
-     - *Being alive is just happenstance, and not one more day of it is guaranteed.*
-     - The crucial and basic question of choosing what to do with your limited time.
-     - It's a fact of life, that as a finite human, you are always making hard choices
-     - Each moment of decision becomes an opportunity to select from an enticing menu of possibilities
-     - it stops making sense to pity yourself for having been cheated of all the other options
-     - *Your whole life is borrowed time*
-     - You can embrace the fact that you are forgoing certain pleasures or neglecting certain obligations.
-     - *Joy of Missing Out (JOMO)* - The exhilaration that sometimes arises when you grasp this truth about finitude.
+- Why assume that an infinite supply of time is the default, and mortality the outrageous violation?
+- a vital bit of perspective
+- Matters are liable to look very different indeed.
+- *Being alive is just happenstance, and not one more day of it is guaranteed.*
+- The crucial and basic question of choosing what to do with your limited time.
+- It's a fact of life, that as a finite human, you are always making hard choices
+- Each moment of decision becomes an opportunity to select from an enticing menu of possibilities
+- it stops making sense to pity yourself for having been cheated of all the other options
+- *Your whole life is borrowed time*
+- You can embrace the fact that you are forgoing certain pleasures or neglecting certain obligations.
+- *Joy of Missing Out (JOMO)* - The exhilaration that sometimes arises when you grasp this truth about finitude.
 
 
 ### Becoming a Better Procrastinator
-    - We need to learn to get better at procrastinating
-    - *Procrastination of some kind is inevitable*
-    - The core challenge of managing our limited time is not about how to get everything done, but to how to 
-      decide most wisely what not to do.
-    - *Good procrastination*: Accepts the fact that you can't get everything done, then decides as wisely as possible
-      what tasks to focus on and what to neglect
-    - *Bad procrastination*: finds yourself paralyzed precisely because you can't bear the thought of confronting your limitations
+- We need to learn to get better at procrastinating
+- *Procrastination of some kind is inevitable*
+- The core challenge of managing our limited time is not about how to get everything done, but to how to 
+  decide most wisely what not to do.
+- *Good procrastination*: Accepts the fact that you can't get everything done, then decides as wisely as possible
+  what tasks to focus on and what to neglect
+- *Bad procrastination*: finds yourself paralyzed precisely because you can't bear the thought of confronting your limitations
 
 #### The Art of Creative Neglect
 
@@ -259,7 +259,7 @@ Author: Oliver Burkeman
 
 
 - Life is a succession of transient experiences, valuable in themselves, which you will miss if you are completely focusing on the
-	destination to which you hope they might be leading.
+  destination to which you hope they might be leading.
 - Hard choices are unavoidable
 - Tough choices are inevitable
 - Seek out novelty in the mundane
