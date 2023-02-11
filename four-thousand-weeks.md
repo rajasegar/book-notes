@@ -3,15 +3,11 @@ Time and How to use it
 
 Author: Oliver Burkeman
 
-#+begin_quote
-It's the very last thing, isn't it, we feel grateful for: having happened. You know, 
-you needn't have happened. You needn't have happened. But you did happen.
--- Douglas Harding
-#+end_quote
+> It's the very last thing, isn't it, we feel grateful for: having happened. You know, 
+> you needn't have happened. You needn't have happened. But you did happen.
+> -- Douglas Harding
 
-#+begin_quote
-What makes it unbearable is your mistaken belief that it can be cured. -- Charlotte Joko Beck
-#+end_quote
+> What makes it unbearable is your mistaken belief that it can be cured. -- Charlotte Joko Beck
 
 ## Introduction: In the Long Run, We're all dead
  - The average human lifespan is absurdly, terrifyingly and insultingly short.
@@ -67,7 +63,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
   - most judicious use of your time
   - *The manner most of us were brought up: to prioritise future benefits over current enjoyments*
 
-**** Confessions of a Productivity Geek
+#### Confessions of a Productivity Geek
   - the dictatorship of the clock
   - The trouble with attempting to master your time, is that time ends up mastering you
   - Experience 'deep time' - that sense of timeless time which depends on forgetting abstract yard stick and plunging back 
@@ -94,7 +90,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
   - facing the way things truly are
   - a limit-embracing attitude
     
-**** An Icy Blast of Reality
+#### An Icy Blast of Reality
   - At the very least, you can stop beating yourself up for failing
   - *You teach best what you most need to learn*
   - Missing out on something - indeed on almost everything is basically guaranteed.
@@ -113,7 +109,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
   - Whereas once you deeply grasp that they are impossible, you'll be newly empowered to resist them, and to focus instead  on building
     the most meaningful life you can, in whatever situation you are in.
 
-*** The Efficiency Trap
+### The Efficiency Trap
     - We rarely stop to consider things so rationally, through, because that would mean confronting
       the painful truth of our limitations
     - Technically, it is irrational to feel troubled by an overwhelming todolist
@@ -157,7 +153,8 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
     - You get to focus on fully enjoying the tiny slice of experinces you actually do have time for.
     - A willingness to resist such urges
     - Life gets subtly worse
-**** The Pitfalls of Convenience
+
+#### The Pitfalls of Convenience
     - In attempting to eliminate only the tedious experiences, we accidentally end up eliminating things we
       didn't realize we valued until they were gone.
     - Smoothness is a dubious virtue
@@ -168,7 +165,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
     - The undodgeable reality of a finite human life is that you are going to have to choose
 
 
-*** Facing Finitude
+### Facing Finitude
     - You can't delve far into the question of what it means to be a finite human being, with finite time on the planet.
     - The most fundamental thing we fail to appreciate about the world: Being and Time
     - Every moment of human existence is completely shot through with the fact of our "finitude"
@@ -189,14 +186,14 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
       we finally becomes truly present for our lives.
     - 
 
-**** Thrown into Time
+#### Thrown into Time
 
-**** Getting Real
+#### Getting Real
      - Things certainly do get realer when you deeply grasp the fact that you're going to die and that therefore
        your time is severely limited.
      - From an everyday standpoint, the fact that life is finite feels like a terrible insult, a sort of personal affront.
 
-**** Everything is borrowed time
+#### Everything is borrowed time
      - Why assume that an infinite supply of time is the default, and mortality the outrageous violation?
      - a vital bit of perspective
      - Matters are liable to look very different indeed.
@@ -210,7 +207,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
      - *Joy of Missing Out (JOMO)* - The exhilaration that sometimes arises when you grasp this truth about finitude.
 
 
-*** Becoming a Better Procrastinator
+### Becoming a Better Procrastinator
     - We need to learn to get better at procrastinating
     - *Procrastination of some kind is inevitable*
     - The core challenge of managing our limited time is not about how to get everything done, but to how to 
@@ -219,33 +216,32 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
       what tasks to focus on and what to neglect
     - *Bad procrastination*: finds yourself paralyzed precisely because you can't bear the thought of confronting your limitations
 
-**** The Art of Creative Neglect
+#### The Art of Creative Neglect
 
-**** Perfection and Paralysis
+#### Perfection and Paralysis
 
-**** The Inevitability of Settling
+#### The Inevitability of Settling
 
-**** 
 
-*** The Watermelon Problem
+### The Watermelon Problem
 
-*** The Intimate Interrupter
+### The Intimate Interrupter
 
-** Part II: Beyond Control
+## Part II: Beyond Control
 
-*** We Never Really have time
+### We Never Really have time
 
-*** You are Here
+### You are Here
 
-*** Rediscovering Rest
+### Rediscovering Rest
 
-*** The Impatience spiral
+### The Impatience spiral
 
-*** Staying on the Bus
+### Staying on the Bus
 
-*** The Loneliness of the Digital Nomad
+### The Loneliness of the Digital Nomad
 
-*** Cosmic Insignificance Therapy
+### Cosmic Insignificance Therapy
 
 ### The Human Disease
 
