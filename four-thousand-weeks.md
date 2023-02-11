@@ -1,4 +1,4 @@
-* Four thousand weeks
+# Four thousand weeks
 Time and How to use it
 
 Author: Oliver Burkeman
@@ -13,7 +13,7 @@ you needn't have happened. You needn't have happened. But you did happen.
 What makes it unbearable is your mistaken belief that it can be cured. -- Charlotte Joko Beck
 #+end_quote
 
-** Introduction: In the Long Run, We're all dead
+## Introduction: In the Long Run, We're all dead
  - The average human lifespan is absurdly, terrifyingly and insultingly short.
  - The brevity of life to be the defining problem of human existence.
  - We have been granted the mental capacities to make almost infinitely ambitious plans, yet practically
@@ -44,15 +44,15 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
  - Becoming more efficient just makes you more rushed.
 
 
-** Part I: Choosing to choose
+## Part I: Choosing to choose
 
-*** The Limit-Embracing life
+### The Limit-Embracing life
   - the real problem is not our limited time
   - the real problem is that we have unwittingly inherited and feel pressured to live by, a troublesome set of ideas
     about how to use our limited time, all of which are pretty much guaranteed to make things worse.
   - a troublesome sort of ideas
 
-**** Time Before Timetables
+#### Time Before Timetables
   - Our modern way of thinking about time is so deeply entrenched that we forget it even is a way of thinking
   - *There is no sense in raching towards some hypothetical moment of completion*
   - Task orientation => The rhythms of life emerge organically from the tasks themselves, rather than from being lived
@@ -60,7 +60,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
   - We still occasionally encounter islands of deep time today
   - living in deep time
 
-**** The End of Eternity
+#### The End of Eternity
   - A threshold has been crossed.
   - Before, time was just the medium in which life unfolded
   - hypercompetitive economic climate
@@ -247,9 +247,9 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
 
 *** Cosmic Insignificance Therapy
 
-*** The Human Disease
+### The Human Disease
 
-** 10 tools for Embracing your finitude
+### 10 tools for Embracing your finitude
  - Adopt a fixed volume approach to productivity
  - Serialize, serialize, serialize
  - Decide in advance what to fail at
@@ -272,7 +272,7 @@ What makes it unbearable is your mistaken belief that it can be cured. -- Charlo
 - Limit your work in progress
 - Resist the allure of middling priorities
 
-** 3 rules of thumb especially useful for harnessing the power of patience as a creative force
+## 3 rules of thumb especially useful for harnessing the power of patience as a creative force
  - Develop a taste for having problems
  - Embrace radical incrementalism
  - Originality lies on the far side of unoriginality
