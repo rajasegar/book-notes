@@ -39,3 +39,5 @@ This is a collection of my book notes
 - [[/high-output-management.org][High Output Management]]
 - [[/nomad-century.org][Nomad Century]]
 - [Slouching towards Utopia](/slouching-towards-utopia.md)
+- [Everything is figureoutable](/everything-is-figureoutable.md)
+
