@@ -215,6 +215,9 @@ Author: Oliver Burkeman
 - *Good procrastination*: Accepts the fact that you can't get everything done, then decides as wisely as possible
   what tasks to focus on and what to neglect
 - *Bad procrastination*: finds yourself paralyzed precisely because you can't bear the thought of confronting your limitations
+- The point is not to eradicate procrastination, but to choose more wisely what you're goint to procrastinate on, in order to focus on what matters
+- The real measure of any time management technique  is whether or not it helps you neglect the right things.
+- The critical question is not how to differentiate between activities that matter and those that don't, but what to do when far too many things feel atleast somewhat important
 
 #### The Art of Creative Neglect
 
