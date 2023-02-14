@@ -218,6 +218,7 @@ Author: Oliver Burkeman
 - The point is not to eradicate procrastination, but to choose more wisely what you're goint to procrastinate on, in order to focus on what matters
 - The real measure of any time management technique  is whether or not it helps you neglect the right things.
 - The critical question is not how to differentiate between activities that matter and those that don't, but what to do when far too many things feel atleast somewhat important
+**- **Pay yourself first when it comes to time**
 
 #### The Art of Creative Neglect
 
@@ -298,4 +299,5 @@ and thus to sustain your productivity over an entire career.
 
 - The distinctive work begins at all only for those who can muster the patience to immerse themselves in the earlier stage -
 the trial-and-error phase of copying others, learning new skills and accumulating experience.
+
 
