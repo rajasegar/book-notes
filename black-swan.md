@@ -70,6 +70,43 @@ Nassim Nicholas Taleb
   - **the illusion of understanding** or how everyone thinks he knows what is going on in a world that is more complicated (or random) than they realize
   - **the retrospective distortion** : or how we can assess matters only after the fact, as if they were a rearview mirror
   - **the overvaluation of factual information** and the handicap of authoritative and learned people, particularly when they create categories - when they Platonify
+- History is opaque
+- the pathology of thinking that the world in which we live is more understandable, more explainable and therefore more predictable  than it actually is
+- Our minds are wonderful explanation machines and generally incapable of accepting the idea of unpredictability
+
+#### History does not crawl, it jumps
+- Retrospective plausibility causes a discounting of the rarity and conceivability of the event.
+- We are just a great machine for looking backward
+
+#### Dear Diary, on history running backward
+- Humans are great at self-delusion
+- It is not just knowledge but information that can be of dubious value
+
+#### Education in a taxi cab 
+- Platonicity - the desire to cut reality into crisp shapes
+-  the mental contagion
+- Categorizing is necessary for humans, but it becomes pathological when the category is seen as definitive
+- the Platonic Fold - is where our representation of reality ceases to apply - but we do not know it
+- epistemology - the philosophy of knowledge
+- psychological buffer
+- The problem lay not in the nature of events, but in the way we perceived them
+- mental blindspot
+
 ### Chapter 2: Yegenia's Black Swan
+- the confirmatory reinforcement of what we call "experience"
+
 ### Chapter 3: The Speculator and the Prostitude
+- Extremistan => the Black-swan generating province
+- Mediocristan => the tame, quiet and uneventful province
+- scalable - production of concepts and ideas
+- less scalable - noncreative technical grind
+- Evolution is scalable
+- Type 1 randomness - Matters in Mediocristan
+- Type 2 randomness - Matters in Extremistan
+
 ### Chapter 4: One thousand and one days, or How not to be a sucker
+- There are traps built into any kind of knowledge gained from observation
+- We will incur a reversion of belief
+- We worry too late
+- Clearly you cannot manufacture more info than the past can deliver.
+- The positive Black Swans take time to show their effect while negative ones happen very rapidly
