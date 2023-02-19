@@ -110,3 +110,53 @@ Nassim Nicholas Taleb
 - We worry too late
 - Clearly you cannot manufacture more info than the past can deliver.
 - The positive Black Swans take time to show their effect while negative ones happen very rapidly
+- It's easier and much faster to destroy than to build
+- Asymmetry in timescales explains the difficulty in reversing time
+- Systematically doubt everything => Pyrrhonian Skeptics
+- fideism => the idea of relying on faith, not reason
+- Erudition signals genuine intellectual curiosity
+- The central difficulty of generalizing from available information or of learning from the past, the known and the seen.
+- terminal difficulty
+- **The error of confirmation**: We focus on preselected segments of the seen and generalize from it to the unseen
+- **Narrative fallacy**: We fool ourselves with stories that cater to our Platonic thirst for distinct patterns
+- **Distortion of silent evidence**: What we see is not necessarily all that is there. History hides Black Swans from us and gives usa mistaken idea about the odds of these events.
+
+### Chapter 5: Confirmation Shmonfirmation
+- Contrary to conventional wisdom, our body of knowledge does not increase from a series of confirmatory observations
+- We are not immune to trivial logical errors
+- Complicated equations do not tend to cohabit happily with clarity of mind
+- **Our inferential machinery is not made for a complicated environment**
+- Our statistical intuitions have not evolved for a habitat in which these subtleties can make a big difference.
+- **We tend to use different mental machinery in different situations**
+- Our brain lacks a central all-purpose computer that starts with logical rules and applies them equally to all possible situations
+- simple kind of inferential confusion
+- disconfirming evidence
+- **Naive empiricism** => We have a natural tendency to look for instances that confirm our story and our vision of the world.
+- It is misleading to build a general rule from observed facts
+- We can get closer to the truth by negative instances not by verification.
+- couterevidence
+- semiskeptics
+- **You know what is wrong with a lot more conviction than you know what is right.**
+- The problem of naive generalization does not plague us everywhere.
+- We are endowed with specific and elaborate inductive instincts showing us the way.
+- We come equipped with mental machinery that causes us to selectively generalize from experience
+- We may have learned things wrong from our ancestors.
+- We probably inherited the instincts adequate for survival.
+-
+### Chatper 6: Narrative Fallacy
+- We like stories, we like to summarize and we like to simplify i.e., to reduce the dimension of matters.
+- **Problem of induction** => What lies outside our information set
+- **Narrative fallacy** => What lies inside our information set
+- Our vulnerability to overinterpretation of our predilection for compact stories over raw truths
+- It severely distorts our mental representation of the world.
+- We are stupid to Systematically try to explain skills.
+- Our limited ability to look at sequences of facts without weaving an explanation into them.
+- Causation trap
+- forcing a logical link, an arrow of relationship
+- The novelty fades and your thinking returns as usual
+- **Explanations bind facts together**
+- Narrativity comes from an ingrained biological need to reduce dimensionality
+- It takes considerable effort to see facts while withholding judgement and resisting explanations.
+- backfit and post hoc explanations
+- It is impossible for our brain to see anything in raw form without some interpretation
+- **We are better at explaining than understanding**
