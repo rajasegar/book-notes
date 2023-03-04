@@ -220,3 +220,13 @@ Nassim Nicholas Taleb
 - You can control people without having to offent their sensitivity
 - You set the yardstick yourself.
 
+## Giacomo Casnova's unfailing luck: The problem of silent evidence
+- Silent evidence pervades everything connected to the notion of history
+- History is any succession of events seen with the effect of posteriority
+- The difference between what you see and what is there
+- Bias => a systematic error consistently showing a more positive or negative effect from the phenomenon
+- **Silent evidence is what events use to conceal their own randomness (Black Swan type)**
+- It is the rigor coming from the combination of skepticism and empiricism that's hard to come by
+- There is no point reading too much into success stories because we do not see the full picture.
+- just the beneficiary of disproportionate luck
+
