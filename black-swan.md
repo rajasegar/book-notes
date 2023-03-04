@@ -160,3 +160,63 @@ Nassim Nicholas Taleb
 - backfit and post hoc explanations
 - It is impossible for our brain to see anything in raw form without some interpretation
 - **We are better at explaining than understanding**
+- Our propensity to impose meaning and concepts blocks our awareness of the details making up the concept 
+- Perception of causation has a biological foundation
+- We tend to use knowledge as therapy
+- **We have a hunger for rules,because we need to reduce the dimension of matters so they can get into our heads**
+- Memory is more of a self-serving dynamic revision machine
+- We will tend to more easily remember those facts from our past that fit a narrative.
+- change the story at every subsequent rememberance
+- **We invent some of our memories**
+- Mere absence of nonsense may not be sufficient to make something true
+- perceptual distortions
+- One could interpret any sentence in an infinity of ways
+- Narrativity causes us to see past events as more predictable, more expected and less random than they actually were
+- It was bound to take place and it seems futile to agonize over it.
+- **We harbor a crippling dislike for the abstract**
+- People tend to fool themselves with their self-narrative
+- We should check more thoroughly whether the story provides consequential distortions of reality
+- Casting doubt on the visibility of the immediate cause
+- salience effect
+- **We can be myopic and shortermist**
+- We learn from repetition - at the expense of events that have not happened before
+- fundamental uncertainty
+- Lack of understanding of abstract matters affects us.
+- The very nature of randomness lies in its abstraction
+- We are effectively not skilled at intuitively gauging the impact of the improbable
+- One death is a tragedy, a million is a statistic.
+- Statistics stay silent in us.
+- Heuristics or shortcuts can lead us into some severe mistakes
+- heuristics => the study of shortcuts
+- Most of our mistakes in reasoning come from using System 1 when we are in fact thinking that we are using System 2
+- We react without thinking and introspection
+- dispassionate observations of our experiences
+- We do worry about Black Swans, just the wrong ones
+- Being empirical is a just mindset that favors a certain class of knowledge over the others.
+- The way to avoid the ills of narrative fallacy is to favor:
+  - experimentation over story-telling
+  - experience over history
+  - clinical knowledge over theories
+
+## Living in the Antechamber of hope
+- We live in a society where the reward mechanism is based on the illusion of the regular.
+- Our hormonal reward system also needs tangible and steady results
+- The world has changed too fast for our genetic makeup
+- We are alienated from our environment
+- We are social animals; other people is hell
+- Our intuitions are not cut for linearities
+- Our emotional apparatus is designed for linear causality.
+- Modern reality rarely gives us the privilege of a satisfying, linear and positive progression.
+- **The world is more nonlinear than we think**
+- Non-linear relationships are ubiquitous in life
+- Our highest currency is respect
+- It does not pay to shoot for a large win
+- Our shallowness can sometimes work for us.
+- Owing to the shallowness of our intuitions, we formulate our risk assessments too quickly
+- It is indeed a property of Extremistan to look less risky, in the short run, that it really is
+- the personal and intellectual stamina
+- Humans will believe anything you say provided you do not exhibit the smallest shadow of diffidence
+- It is much easier to signal self-confidence if you are exceedingly polite and friendly
+- You can control people without having to offent their sensitivity
+- You set the yardstick yourself.
+
