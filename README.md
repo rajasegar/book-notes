@@ -41,4 +41,6 @@ This is a collection of my book notes
 - [Slouching towards Utopia](/slouching-towards-utopia.md)
 - [Everything is figureoutable](/everything-is-figureoutable.md)
 - [Antifragile](/antifragile.md)
+- [Writing Solid Code](/writing-solid-code.org)
+- [The Culture Code](/the-culture-code.org)
 

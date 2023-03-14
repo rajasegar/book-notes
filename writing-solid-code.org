@@ -1,0 +1,18 @@
+* Writing Solid code
+
+** A Hypothetical Compiler
+
+** Assert Yourself
+
+** Fortify your subsystems
+
+
+** Step through your code
+
+** Candy Machine Interfaces
+
+** Risky Business
+
+** Treacheries of the Trade
+
+** The Rest is Attitude
