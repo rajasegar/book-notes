@@ -1,4 +1,20 @@
 * Writing Solid code
+- the growing complexity of software
+- The key to writing bug-free code is to become more aware of how bugs come about
+  *How could I have prevented this bug?*
+  *How could I automatically detected this bug?*
+  cultivate awareness
+  Bugs caused by:
+   - bad function arguments
+     accidental use of undefined behaviour
+     mistaken assumptions by other programmers
+     impossible conditions that nevertheless somehow show up
+  Ridding your code of bugs
+  Integrity checks can also be used to eliminate rare behavior
+  use unambiguous data types
+  avoid parasitic functions
+  Without the proper attitude and a set of good programming habits, writing bug-free code will be much harder than it needs to be.
+  
 
 ** A Hypothetical Compiler
 
