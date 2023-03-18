@@ -1,4 +1,7 @@
 * Writing Solid code
+  Author: Steve Maguire
+
+
 - the growing complexity of software
 - The key to writing bug-free code is to become more aware of how bugs come about
 - *How could I have prevented this bug?*
@@ -95,6 +98,23 @@
 
 
 ** Step through your code
+   - Code doesn't break spontaneously - something has to change for code to start breaking
+   - probably be a waste of time
+*** Gain Confidence in Your Code
+   - The best way to catch bugs is to look for them the moment you write or change code.
+   - Error handling code often has bugs in it because it is so rarely tested.
+   - *Don't wait until you have a bug to step through your code*
+
+*** A Fork in the Code
+    - What about Sweeping changes?
+    - Try hard to localize your changes
+    - You cannot make sweeping changes without introducing any bugs
+    - *Step through every code path*
+    - simulating failures usually take much less time
+    - 
+*** Data Flow, the Lifeblood of Code
+    - *As you step through code, focus on data flow*
+    - Stepping through code helps to achieve the goal of catching bugs at the earliest possible moment.
 
 ** Candy Machine Interfaces
 
