@@ -1,26 +1,97 @@
 * Writing Solid code
 - the growing complexity of software
 - The key to writing bug-free code is to become more aware of how bugs come about
-  *How could I have prevented this bug?*
-  *How could I automatically detected this bug?*
-  cultivate awareness
-  Bugs caused by:
-   - bad function arguments
-     accidental use of undefined behaviour
-     mistaken assumptions by other programmers
-     impossible conditions that nevertheless somehow show up
-  Ridding your code of bugs
-  Integrity checks can also be used to eliminate rare behavior
-  use unambiguous data types
-  avoid parasitic functions
-  Without the proper attitude and a set of good programming habits, writing bug-free code will be much harder than it needs to be.
-  
+- *How could I have prevented this bug?*
+- *How could I automatically detected this bug?*
+- cultivate awareness
+- Bugs caused by:
+  - bad function arguments
+  - accidental use of undefined behaviour
+  - mistaken assumptions by other programmers
+  - impossible conditions that nevertheless somehow show up
+- Ridding your code of bugs
+- Integrity checks can also be used to eliminate rare behavior
+- use unambiguous data types
+- avoid parasitic functions
+- Without the proper attitude and a set of good programming habits, writing bug-free code will be much harder than it needs to be.
+- Having a good set of habits and attitudes is possibly the most important requirement for consistently writing bug-free code
+- Regularly clean up code
+- *Don't allow unnecessary flexibility in functions*
+- Don't welcome every free feature
 
 ** A Hypothetical Compiler
+ - Enable all optional compiler warnings
+ - Use lint to catch bugs that your compiler may miss
+ - If you have unit tests, use them
+ - The best way to eliminate bugs in your code is to find them as early  and as easily as possible.
+ - Look for ways to catch bugs automatically with minimal effort.
+ - Strive to reduce the amount of programmer skill neessary to catch bugs.
+ - Optional compiler or lint warnings don't require any programmer skills to catch bugs.
 
 ** Assert Yourself
+ - The compiler would catch just a small percentage of bugs
+*** A Tale of Two Versions
+*** Introducing Assert
+*** "Undefined" means "Steer Clear"
+*** The Code that cried Danger
+*** Are you making assumptions again
+*** Can the impossible happen?
+*** The Silent Treatment
+*** Two Algorithms are better than one
+*** Stop bugs at the starting line
+    - How can I automatically catch this bug at the earliest possible moment?
+    - If you want to consistently write bug free code, you must grab the reins and take charge
+    - You want to catch bugs at automatically at the earliest possible moment and without relying on the skills of others.
+    - Use your best judgment
+ - Maintain both ship and debug versions of your programs
+ - Use assertions to validate function arguments
+ - Strip undefined behaviour from your code, or use assertions to catch illegal uses of undefined behavior
+ - Don't waste people's time. Document unclear assumptions
+ - Either remove implicit assumptions, or assert that they are valid.
+ - Use assertions to detect impossible conditions
+ - Don't hide bugs , when you program defensively
+ - Use a second algorithm to validate your results.
+ - Don't wait for bugs to happen, use startup checks.
+*** Assertions are forever
 
 ** Fortify your subsystems
+    - gates, entry points
+    - A subsystem hides its implementation details
+    - Assertions are worthwhile, but you have to execute them if they are to report problems.
+*** Now you see it, now you dont'
+    - The key to exposing bugs is to eliminate random behavior wherever you find it.
+    - You don't want to hide bugs
+    - Use every opportunity, however remote, to automatically catch bugs
+    - *Eliminate random behavior. Force bugs to be reproducible*
+*** Shred your Garbage
+    - Add debugging code to minimize the amount of random behavior
+    - Add whatever debug code you feel is necessary to strengthen your app
+    - *Design your garbage so that it's not misused*
+*** Movers and Shakers
+    - You don't want anything to happen rarely.
+    - *If something happens rarely, force it to happen often*
+    - There is no better way to catch bugs in code than to execute it and you want to execute ship code as much as possible
+*** Keep a Journal to jog your memory
+    - *Keep debug information to allow stronger error checking*
+*** Don't wait for Bugs to Call
+    - The Uncertainty Principle and other specters
+    - *Create thorough subsystem checks and use them often*
+*** It's Obvious Once you see it
+    - Some choices are better than others
+    - arbitrary choice
+    - *Design your tests carefully. Nothing should be arbitrary*
+*** There's no need to know
+    - *Strive to implement transparent integrity checks*
+    - The best tests are transparent, they work regardless of whether the programmer is aware of them.
+*** You Don't Ship the Debug Version
+    - An Historical Note
+    - *Don't apply ship version constraints to the debug version. Trade size and speed for error detection*
+*** Find Bugs Now, or Find Them Later
+    - Without the need for luch or skill
+    - Think twice before throwing out a validation test because it would be too slow or use too much memory
+    - The best tests are those that require no knowledge of their existence
+    - *Add assertions and validation checks to catch hard-to-spot and common bugs
+    - How can I thoroughly validate this implementation?
 
 
 ** Step through your code
