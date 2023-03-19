@@ -127,8 +127,77 @@
    - A trivial difference in design can either cause bugs or prevent them
    - It is not enough that your functions be bug-free; they must also be safe to use.
    - a precise series of improbable events takes place and leads to disaster
+   - *Make it hard to ignore error conditions*
+   - *Don't bury error codes in return values*
+*** Just a Little Extra Thought
+    - *Always looks for, and eliminate flaws in your interfaces*
+*** The One-Function Memory Manager
+    - fairly arcane and behavior
+    - To be fair, programmers don't usually sit down and think.
+    - *Don't write multipurpose functions*
+    - *Write separate functions to allow stronger argument valiation*
+*** Wishy-Washy Inputs
+    - Explicitness can be invaluable to maintenance programmers who have to read and understand code they didn't write
+    - explicit inputs; explicit outputs
+    - By silently accepting oddball values, you hide bugs rather than find them.
+    - Keep the defensive code for robustness, but disallow the questionable inputs.
+    - *Don't be wishy-washy*
+    - *Define explicit function arguments*
+*** Don't fail me now
+    - *Write functions that, given valid inputs cannot fail*
+*** Read between the lines
+    - *Avoid using magic numbers in code*
+    - *Make the code intelligibe at the point of call*
+    - *Avoid boolean arguments*
+*** Warn people of the hazards
+    - *Write comments that emphasize potential hazards*
+*** The Devil is in the Details
+    - Hazards should be eliminated, not merely documented
+    - Desinging bug-resistant interfaces is not difficult, but it does take some extra thought
+      and a willingness to abandon ingrained coding habits.
+    - *Make everything as clear and as obvious as possible*
+    - Make it hard for programmers to unwittingly ignore details
+    - Design but-resistant interfaces
+
+    - 
 
 ** Risky Business
+   - Programmers ignore risk
+*** How LONG Is a long?
+    - blind to the problems
+    - well founded belief
+    - Using portable data types
+    - *Use well-defined data types*
+*** Doth Your Data Run Over?
+    - How obvious is the problem when you look at the code?
+    - a hard bug to spot
+    - Look at the data flow in a debugger
+    - *Alwasy ask, "Can this variable or expression over-or underflow?"*
+*** Close Counts only in Horseshoes
+    - *Implement your designs as accurately as possible*
+    - *Being kinda close is being kinda buggy*
+*** Functions just "Doing their thing"
+    - Strive to make every function perform it's task exactly one time
+    - *You can break the rules, just be sure you have good reasons to*
+    - Many times an if statement is the result of a sloppy implementation or design
+    - *Implement the task just once*
+*** No ifs, &&s or BUTS
+    - *Get rid of extraneous if statements*
+*** The ?: operator is an if statment too
+    - *Avoid using nested ?: operators*
+*** Rid your code of redundancy
+    - *Handle your special cases just once*
+*** High Risk, no return
+    - For some programmers, the idea of tossing aside any possible efficiency gain seems almost criminal
+    - It's not important that every line of code be optimally efficient. What is important is the overall effect
+    - Systematically reduce risk by using safer designs
+    - personal list of risky idioms to avoid
+    - *Avoid risky language idioms*
+    - Don't overestimate the cost
+    - Worrying about local efficiency is rarely worthwhile
+*** Inconsistency, The Gremlin of Code
+    - *Don't needleslly mix operator types*
+    - *If you mix operator types, use parentheses to isolate those operators*
 
 ** Treacheries of the Trade
 
