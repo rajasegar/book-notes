@@ -115,8 +115,18 @@
 *** Data Flow, the Lifeblood of Code
     - *As you step through code, focus on data flow*
     - Stepping through code helps to achieve the goal of catching bugs at the earliest possible moment.
+    - Why Didn't the Compiler issue a warning?
+
+*** Are you missing something?
+    - Turn off optimizations
+    - *Source level debuggers can hide execution details. Step through critical code at the instruction level.*
+*** Try it - you will like it
+    - Bugs don't grow in code spontaneously; they are the result of a programmer's writing new code or changing existing code
 
 ** Candy Machine Interfaces
+   - A trivial difference in design can either cause bugs or prevent them
+   - It is not enough that your functions be bug-free; they must also be safe to use.
+   - a precise series of improbable events takes place and leads to disaster
 
 ** Risky Business
 

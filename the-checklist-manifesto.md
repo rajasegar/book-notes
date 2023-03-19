@@ -46,9 +46,9 @@ Some things we want to do are simply beyond our capacity
 
 
 
-- Mental flaws are flaws of 
+- Mental flaws are flaws of
 	- memory
-	- attention 
+	- attention
 	- thoroughness
 
 
