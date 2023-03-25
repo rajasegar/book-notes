@@ -296,4 +296,46 @@
   - More often than not, none of the things you're supposed to "try" is the proper course to pursue
   - *Don't keep "trying" solutions until you find one that works. Take the time to find the correct solution.*
   - ill-defined side-effects of code
-    
+  - If you find yourself testing possible solutions to a problem, stop yourself, pull out your manuals and read.
+  - *Don't try, read*
+*** The Sacred Schedule
+  - *Write and test code in small chunks*
+  - With rare exceptions, programmers who test code as they go have fewer bugs.
+  - *Always test your code, even if that means your schedule will slip.*
+*** What's in a Name?
+  - Programmers should write and test each feature before moving on to the next
+  - Testers cannot test your code bettern than you can
+*** Duplication of Effort?
+  - Unit tests => to verify that the subsystems interact properly
+  - Programmers focus on code
+  - Testers focus on features
+  - *Don't rely on the testing group to find your bugs*
+*** Testers Wear White Hats
+  - *Don't blame testers for finding your bugs*
+  - You should never expect testers to find bugs in your code
+  - A bug may be minor, that it exists is serious.
+  - *There are no silly bugs*
+  - Silly bugs may be the side effects of serious problems
+*** Establish Your priorities
+  - Programming without a clear set of priorities is like going on a trip without knowing your destination
+  - Walk through every code path, microscopically verifying all new code the moment it is written
+  - Avoid the efficiency tricks
+  - The code or the product?
+  - *Establish your priorities and stick to them*
+  - Gee, I Don't know
+*** You Don't Get What You Don't Ask for
+  - *Does this belief help or hinder my ability to write bug-free code?
+  - Programmers with clear priorities know exactly why they chose a specific implementation and will rattle off the reasons if you ask
+  - Bugs don't create themselves, nor do they fix themselves
+  - It's easier to fix the symptom you've tracked down, but you should always make the effort to find the true cause
+  - Remember that being flexible is not the same as being easy to use.
+  - oddball implementation
+
+** Where Do You Go From Here?
+  - Nobody's list of guidelines will protect you from bugs
+  - It's possible to write bug-free programs
+  - You can come very close to writing bug-free programs, much close than the current norm, you just have to decide to do it.
+  - It takes effort to keep bugs out of your code.
+  - *Never allow the same bug to bite you twice*
+  - *Reality*: You will never completely eliminate bugs, but you can increase the time between occurrences by constantly striving 
+    to abolish every class of bug you encounter
