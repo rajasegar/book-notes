@@ -1,0 +1,113 @@
+* Debugging
+The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
+
+Author: David J. Agans
+
+** Introduction
+
+** The Rules
+
+** Understand the System
+
+*** Remember
+  - Read the manual
+  - Read everything in depth
+  - Know the fundamentals
+  - Know the roadmap
+  - Understand your tools
+  - Look up the details
+
+** Make it Fail
+
+*** Remember
+  - Do it again
+  - Start at the beginning
+  - Stimulate the failure
+  - But don't simulate the failure
+  - Find the uncontrolled condition that makes it intermittent
+  - Record everything and find the signature of intermittent bugs
+  - Don't trust statistics too much
+  - Know that "that" can happen
+  - Never throw away a debugging tool
+
+** Quit Thinking and Look
+
+*** Remember
+  - See the failure
+  - See the details
+  - Build instrumentation in
+  - Add instrumentation on
+  - Don't be afraid to dive in
+  - Watch out for Heisenberg
+  - Guess only to focus the search
+
+** Divide and Conquer
+
+*** Remember
+  - Narrow the search with successive approximation
+  - Get the range
+  - Determine which side of the bug you are on
+  - Use easy-to-spot test patterns
+  - Start with the bad
+  - Fix the bugs you know about
+  - Fix the noise first
+
+** Change One Thing at a Time
+
+*** Remember
+  - Isolate the key factor
+  - Grab the brass bar with both hands
+  - Change one test at a time
+  - Compare it with a good one
+  - Determine what you changed since the last time it worked
+
+** Keep an Audit Trail
+
+*** Remember
+  - Write down what you did, in what order, and what happened
+  - Understand that any detail could be the important one
+  - Correlate events
+  - Understand that audit trails for design are also good for testing
+  - Write it down!
+
+** Check the plug
+
+*** Remember
+  - Question your assumptions
+  - Start at the beginning
+  - Test the tool
+
+** Get a Fresh View
+
+*** Remember
+  - Ask for fresh insights
+  - Tap expertise
+  - Listen to the voice of experience
+  - Know that help is all around you
+  - Don't be proud
+  - Report symptoms, not theories
+  - Realize that you don't have to be sure
+
+** If you didn't fix it, it ain't fixed
+
+*** Remember
+  - Check that it's really fixed
+  - Check that it's really your fix that fixed it
+  - Know that it never just goes away by itself
+  - Fix the cause
+  - Fix the process
+
+** All the Rules in One Story
+
+** Easy Exercies for The Reader
+
+** The View from the HelpDesk
+
+** The Bottom Line
+
+*** Remember
+  The rules are "golden" meaning that they are:
+  - *Universal* - You can apply them on any debugging situation on any system
+  - *Fundamental* - They provide the framework for, and guide the choice of, the specific tools and techniques that apply to your system
+  - *Essential* - You can't debug effectively without following all of them
+  - *Easy to remember*

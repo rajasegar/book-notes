@@ -43,4 +43,5 @@ This is a collection of my book notes
 - [Antifragile](/antifragile.md)
 - [Writing Solid Code](/writing-solid-code.org)
 - [The Culture Code](/the-culture-code.org)
+- [Debugging](/debugging.org)
 
