@@ -198,7 +198,102 @@
 *** Inconsistency, The Gremlin of Code
     - *Don't needleslly mix operator types*
     - *If you mix operator types, use parentheses to isolate those operators*
+    - Don't just be right - be obviously right so that nobody has to look it up
+    - Don't Look it up
+*** Don't associate with failures
+    - *Avoid calling functions that return errors*
+    - data-space vs code-space
+    - Your job is to weight data-space against code-space and decide which is more important in each case you run across
+*** Slap on the risk
+    - Be faithful to your designs
+    - The easiest way to introduce subtle bugs is to cheat on the implementation
+    - *Programming is risky business*
+    - The extra risk is rarely worth the trade-off
+    - One of the golden rules in programming: *Never lose the user's data*
 
 ** Treacheries of the Trade
+   - For some reason programmers resist writing code that is obvious and boring
+   - Is it robust?
+   - Is it solid?
+   - A Thief with a key is still a thief
+   - *Don't reference memory that you don't own*
+*** A Thief with a key is still a thief
+   - The Privileges of data
+   - implied read and write privilege
+   - *Don't reference memory that you have freed*
+*** Take Only What you Need
+   - Don't use output memory as workspace buffers
+*** Keep Private things to yourself
+   - It is not enough that functions work correctly; they must also prevent programmers from making obvious mistakes.
+   - A Global problem
+   - You risk introducing a bug
+   - *Don't pass data in static (or global) memory*
+*** Functional Leeches
+   - either clever or gross
+   - *Assertions keep programmers honest*
+   - slimy implementation
+   - *Don't write parasitic functions*
+*** The Old Paint-Stirrer trick
+   - convenient and guaranteed to work
+   - *Don't abuse your programming language*
+   - Standards change
+   - fail to recognize
+   - programmer's attitude
+   - *Tight C does not guarantee efficient machine code*
+*** No Hoity-Toity Programming
+   - It's possible for efficient code to span multiple lines
+   - Some programmers actually strive to write obscure code, thinking that it's impressive when it is merely unclear
+   - You are not doing anybody a favor if you write correct, small code that nobody can understand
+   - The amount of code your write is directly proportional to how well you understand the internal workings of the product
+   - the other end of the spectrum
+   - If you make your code easy to understand, novices should be able to maintain it without introducing bugs
+   - Who does Maintenance Programming
+   - *Write code for the "average" programmer*
+*** Waste that bag of tricks
+   - Maintainable code by definition => easy to understand and modify without introducing bugs
+   - subtle side-effects
+   - 2 audiences of programmers:
+     - customers
+     - maintenance programmers
+   - Listen to your gut
+   - *Write boring code*
+   - *Keep those maintenance programmers in mind as you code*
+   - shortcut fraught with dangers
+   - Don't write code the way lawyers write contracts
+   - If an average programmer can't read and understand your code, it's too complicated; use simpler language
+   - *Avoid unnecessary overhead*
 
 ** The Rest is Attitude
+  - The other necessary ingredient is a set of good habits and attitudes
+  - bug-free code
+  - buggy attitudes
+  - If you have "buggy" attitudes or coding habits that cause bugs, you're going to have a tough time writing bug-free code.
+*** For my Next Trick, Disappearing Bugs
+  - *Bugs don't just "go away"*
+  - Too Much Effort?
+*** A Fix in Time Saves Nine
+  - *Don't fix bugs later, fix them now*
+*** Bug Doctor to the Rescue
+  - *You can learn through your own hard experience, or you can learn from the costly mistakes of others*
+  - All programmers seem to clean up code to some degree
+  - *Fix the cause, not the symptom*
+*** Are you a Code meddler?
+  - If you see code that's obviously wrong or clearly unnecessary you should proceed with utmost caution
+  - *Don't clean up code unless the clean-up is critical to the product's success*
+*** Put "Cool" Features into cold storage
+  - Don't write (or change) code if you don't have to
+  - *Don't implement nonstrategic features*
+*** There are no free lunches
+  - Any noncritical feature is a potential source of bugs
+  - not spent much time thinking about the true costs involved
+  - *There are no free features*
+*** Flexibility Breeds bugs
+  - Strip unnecessary flexibility from your designs
+  - You should keep a wary eye open for unduly flexible features
+  - *Don't allow unnecessary flexibility*
+  - Ported code is new code
+*** "Try" is a four-letter word
+  - More often than not, none of the things you're supposed to "try" is the proper course to pursue
+  - *Don't keep "trying" solutions until you find one that works. Take the time to find the correct solution.*
+  - ill-defined side-effects of code
+    
