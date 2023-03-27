@@ -44,4 +44,5 @@ This is a collection of my book notes
 - [Writing Solid Code](/writing-solid-code.org)
 - [The Culture Code](/the-culture-code.org)
 - [Debugging](/debugging.org)
+- [The Fabric of Reality](the-fabric-of-reality.org)
 
