@@ -12,7 +12,7 @@ Author: Edward L. Deci with Richard Flaste
 - learning
   - rote memorization
   - conceptual understanding
-    
+
 - intrinsic motivation
   - richer experience
   - better conceptual understanding

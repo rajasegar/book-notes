@@ -55,6 +55,42 @@ Author: Donella H.Meadows
   - The behavior of a system cannot be known just by knowing the elements of which the system is made
 
 *** The Basics
+ - system:
+   - elements
+   - interconnections
+   - function or purpose
+ - coherently organized
+ - You can't see the forest for the trees
+ - It's easier to learn about a system's elements than about its connections.
+ - Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate.
+ - Purposes are deducted from behavior, not from rhetoric or stated goals.
+ - Systems can be nested within systems.
+ - One of the most frustrating aspects of a system is that the purposes and subunits may add up to an overall
+   behavior tha no one wants.
+ - Keeping sub-progress and overall system purposes in harmony is an essential function of successful systems.
+ - *Changing interconnections in a system can change it dramatically*
+ - Changes in function for purpose can also be drastic
+ - an unsystematic question
+ - A change in purpose changes a system profoundly, even if every element and interconnections remain the same.
+ - *The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system's behavior.
+ - Storing information means increasing the complexity of the mechanism.
+ - Stocks change over time through the actions of a flow.
+ - *All models, whether mental models or mathematical models are simplifications of the real world*
+ - A stock can be increased by decreasing it outflow rate as well as by increasing its inflow rate.
+   There's more than one way to fill a bathtub.
+ - A stock takes time to change, because flows take time to flow.
+ - People often underestimates the inherent momentum of a stock.
+ - Changes in stocks se the pace of the dynamics of systems.
+ - *Stocks generally change slowly, even when the flows into or out of them change suddenly.
+   Therefore stocks act as delays or buffers or shock absorbers in systems.
+ - You can use the opportunities presented by a system's momentum to guide it toward a good outcome.
+ - *Stocks allow inflows and outflows to be decoupled and to be independent and temporarily out of balance with each other.*
+ - Everything we do as individuals, as an industry or as a society is done in the context of an information-feedback system
+ - ebbs and flows
+ - successes and problems
+ - *System thinkers see the world as a collection of feedback processes*
+**** How the System Runs itself - Feedback
+- First hint of the existence of a feedback loop => the consistent behavior pattern over a long period of time.
 
 *** A Brief Visit to the Systems Zoo
 
