@@ -6,6 +6,17 @@ Author: Andy Grove
  - *Let chaos reign, then reign in chaos*
  - Know-how managers => posess skill and expertise
  - Traditional Managers =>
+ - The idea of a limiting step
+ - Rules of the new environment:
+   - Everything happens faster
+   - Anything that can be done, will be done, if not by you, then by someone else
+ - Idea behind MBO: If you dont' know where you are going, you will not get there
+ - A successful MBO system needs to answer only two questions:
+   - Where do I want to go? => Objectives
+   - How do I pace myself to see if I am getting there? => Key Results (Milestones)
+ - Your decision making depends finally on how well you comprehend the facts & issues
+ - As we become more consistent, we should also remember that the value of an administrative procedure
+   is contained not in formal statements but in the real thinking that led to its establishment
 
 ** The Breakfast Factory
 
