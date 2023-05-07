@@ -37,7 +37,6 @@ This is a collection of my book notes
 - [The Paradox of Choice](/the-paradox-of-choice.md)
 - [The Prophet](/the-prophet.org)
 - [The Rational Optimist](/the-rational-optimist.md)
-- [The Rational Optimist](/the-rational-optimist.md)
 - [The Subtle Art of not giving a F*ck](/subtle-art-of-not-giving-f*ck.md)
 - [The Theory of Everything](/theory-of-everything.md)
 - [Thinking in Systems](/thinking-in-systems.org)
