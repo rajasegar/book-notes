@@ -204,7 +204,7 @@ Author: Dietrich Dorner
 		of abstraction or is an overgeneralization
 	- deconditionalized concept - concept removed from the context of conditions bearing on it
 	- *The effectiveness of a measure almost always depends  on the context within which the measure is pursued.*
-	- |right degree of abstraction ------------ abstraction spectrum ---------------- overgeneralization|
+	- |<--right degree of abstraction ------------------- abstraction spectrum --------------------- overgeneralization-->|
 	- similarity matching - tendency to respond to similarities more than to differences
   - Before we apply an abstract concept to a concrete situation, we should submit it to strategic scrutiny to
     decide whether it is appropriate to the context
@@ -214,7 +214,7 @@ Author: Dietrich Dorner
   - A wise decision will always depend on the given constellation of conditions.
   - Everything is in flux, and we must adapt accordingly
 
-*** "It's the Environment" 
+*** "It's the Environment"
 
 *** Prime Numbers and Tourist Traffic or Moltke and Forest Fires
 
@@ -309,11 +309,155 @@ Author: Dietrich Dorner
 *** The Moths of Kuera
 
 ** Planning
-
 *** Go Make Yourself a Plan
-
+- *Essence of planning:* to think through the consequences of certain actions and see whether those actions will bring us closer to our desired goal.
+- individual links in planning:
+  - condition element
+  - action element
+  - result element
+- forward planning => natural => act forward
+- reverse planning => unnatural
+- Theoretically, planning is a simple matter
+- *A complete investigation of an entire problem sector is utterly impossible*
+- problem sector => a sector of reality
+- We can plan completely only rarely and in relatively uninteresting areas.
+- common focusing procedure => Hill climbing
+- Because the vastness of the problem sectors prohibits us from investigating them completely, we must narrow our focus.
+- We must not succumb to methodism, choosing an action only because it has worked before
+- Long association of a particular item with a particular function makes it difficult for us to imagine that item's  serving any other purpose
+- *We often do not realize we are captives of our old ideas and are by no means considering all the available possibilites*
+- *The most important method for expanding a problem sector is thinking by analogy*
+- *Planning is a process of narrowing our problem sector*.
+- Time limits may force us to develop only crude plans or may curtail planning altogether
+- There are instances in which we should not overplan or even plan at all, regardless of the amount of time.
+- Redundancy of potential command => Many individuals who are all capable of carrying out leadership tasks within
+  the context of the general directives.
+- a tendency to resort to centralized regimes in stressful situations
+- We can make plans that are too crude and plans that are too detailed. The trick is to plan
+  with an appropriate degree of detail.
+- Complete planning should be tempered by the concept of nonplanning
+- Planning can increase our insecurity rather than reduce it.
+- *The difficulty of finding the correct scale for planning accounts for many failure.*
+- More uncertain => greater tendency to overplan
+- Looking closely at a problem often increases our insecurity
+- Our diversionary planning process lets us off the hook for the time being and spares us the possibility of failure.
+- *Overly detailed planning can have dire consequences*
+- If we believe we have anticipated and prepared for all eventualities things can still go wrong.
+- Planning unit:
+  - condition
+  - action
+  - result
+- *If we expect the unexpected , we are better equipped to cope with it.*
+- Crude planning is, of course, just as dangerous as overly detailed planning.
+- *What we do have to avoid is reducing and simplifying reality until we are able to fit it into a predetermined formal patterns.*
+- Expect the unexpected
+- Planning is much easier if we ignore the condition element and assume that our action is generally applicable.
+- *We human beings tend to think in the abstract anyway.*
+- We can describe our plans much more easily, but our description may conceal problems.
+- In war everything is simple, but it's the simple things that are difficult.
+- Discounting the conditions under which we will carry out our actions simplifies planning but not acting.
 *** Rumpelstilskin
-
-*** Learn by Making Mistakes? Not Necessarily!
+- Plans often fail because the planners have not factored in all the irksome little conditions or "frictions" that
+  have to be dealt with if the plan is to succeed.
+- The plan may be simple, but carrying it out is the hard part.
+- Saw the route but not the obstacles
+- It is when we have the big picture firmly in mind that we are most prone to forget about details
+- Not taking frictions into account is a trap that experts are particularly apt to fall into.
+- We would never accomplish anything if much of what we do were not preprogrammed.
+- Oversimplifications, progressively corrected in subsequent development are the most potent or
+  indeed the only means toward conceptual mastery of nature.
+- *Experience does not always make us smart. Experience can also make us dumb.*
+- The effects of methodism can have a significant impact.
+- *Methodism*: the unthinking application of a sequnce of actions we have once learned.
+- We are most inclined to deconditionalize a form of action and use it over and over again if it has
+  proved successful for us or others.
+- an infinite mass of minor events
+- In many complex situations considering a few characteristic features of the situation and developing
+  an appropriate course of action in the light of them is not the essential point.
+- We will be all the more inclined to overestimate their efficacy.
+- the common propensity for deconditionalized planning
+- The bad problem solvers used "absolute" concepts that do not admit of other possibilities or circumstances
+- The good problem solvers favored expressions that take circumstances and exceptions into account
+- *Good problem solvers* => qualified expressions
+- *Bad problem solvers* => unqualified expressions
+- Even negative results provide us a chance to apply correctives and in that way help us improve our future behavior
+- The differences are blatant
+- When we obtain un unexpected result, we can ask ourselves whether we began with false premises or whether we had an
+  incorrect or incomplete picture of reality
+- Good planners => attempt to analyze and to find reasons
+- Bad planners => use dogmatism and assertions instead of analysis
+- Studying the consequences of our measures gives us excellent opportunities for correcting our incorrect
+  behavioral tendencies and assumptions about reality
+- *Sometimes decisiveness grows out of a conviction that we know what to do*
+*** Learn by making Mistakes? Not Necessarily!
+- Unexpected results should give us pause
+- Why our image of reality is so far off the mark?
+- Did we form incorrect hypotheses?
+- People look for and find ways to avoid confronting the negative consequences
+- As a general principle, behavior should be ballistic
+  Because our grasp of reality can only be partial, we have to be able to adjust the course
+  of our actions after we have launched them
+- Analysing the consequences of our behavior is crucial for making these ex post facto adjustments
+- If we never look at the consequences of our behavior, we can always maintain the illusion of our competence
+- Ballistic behavior has the great advantage of relieving us of all accountability
+- the treatment, consideration and disregarding of conditions in planning
+- Activity may foster an illusion of competence
+- *Ends justify means*
+- less attention to overarching moral standards
+- We can protect and maintain our competence by an immunizing marginal conditionalizing of our measures.
+- marvelous method  for dispelling all doubts about our competence
 
 ** So Now what we do?
+- inadequacies of human thought
+- people fail to :
+  - formulate goals in concrete terms
+  - recognise when goals contradict
+  - set clear priorities
+- determine the main psychological reasons for these inadequacies
+- *We humans are quite deft at many tasks*
+- The need to economize, to save time and effort, underlies many of the failings in our thought process
+- *economize* - to save time and effort
+- Our tendency to economize prompts us to omit certain steps in the thought process or to simplify them,
+  as much as possible plays a major role when we deal with complex situations.
+- *We will simply refuse to look at the consequences of our actions*
+- *We don't think about problems we don't have*
+- We must think about problems we may not have at the moment but that may emerge as side effects of our actions
+- *We are captives of the moment*
+- *Operative intelligence* : the knowledge that individuals have about the use of their intellectual capabilities and skills
+- Local rules to a large extent dictated by specific circumstances
+- *The ability to deal with problems in the most appropriate way is the hall mark of wisdom rather than genius*
+- Simple methods can improve our ability to think
+- *We should reflect on our own thinking but with some guidance.*
+- *The ability to talk about something does not necessarily reflect an ability to deal with it in reality.*
+- *We have few opportunities to learn from our mistakes*
+- Simulated scenarios are an excellent teaching device
+- What we did yesterday is lost in the obscurity of the past, and what we ought to do tomorrow is in utter darkness.
+- *We must learn to cope with side effects*
+- *We must learn to think in terms of systems*
+- Mistakes are essential to cognition
+- Systemic thinking cannot be regarded as a single unit, as particular, isolated capability.
+- Systemic thinking is a bundle of capabilities to apply our normal thought process, common sense to the circumstances
+  of a given situation
+- In the real world, expanses of time and space hide our mistakes from us.
+- What matters is not, the development of exotic mental capabilities
+- What matters is not full utilization of the neglected right half of the brain,
+  not the liberation of some mysterious creative potential and not
+  the mobilization of that fallow 90% of our mental capacity.
+- *The only thing that matters most* => the development of our common sense
+**** Learnings
+- We can learn that it is essential to state goals clearly. We all know we should do that, but we rarely encounter the necessity
+- We can learn that we cannot always realize all our goals at once, because different goals may contradict one another. We
+  must often compromise between different goals.
+- We can learn that we have to establish priorities but that we cannot clint to the same priorities forever. We may have to change them
+- We can learn that in dealing with a given configuration that we should form a model of the system. We must
+  anticipate side effects and long-term repercussions and not just let them roll over us.
+- We can learn how to adapt information gathering to the needs of the task at hand, neither going into excessive detail nor stopping too short.
+- We can learn the consequences of excessive abstraction
+- We can learn the consequences of hastily ascribing all events in a certain field  to one central cause.
+- We can learn when to continue gathering information and when to stop.
+- We can learn that we tend toward "horizontal" or "vertical" evasion and that the tendency can be controlled.
+- We can learn that we sometimes act simply because we want to prove ourselves that we can act.
+- We can learn the dangers of knee-jerk "methodism".
+- We can learn that it is essential to analyze our errors and draw conclusions from them for reorganizing our thinking and behavior.
+
+
