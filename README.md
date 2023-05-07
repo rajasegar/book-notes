@@ -42,6 +42,6 @@ This is a collection of my book notes
 - [Thinking in Systems](/thinking-in-systems.org)
 - [Tuesdays-with-Morrie](/tuesdays-with-morrie.md)
 - [What are you doing with your life?](/what-are-you-doing-with-your-life.md)
-- [Why We Do What We Do](/why-we-do-what-we-do.org)
+- [Why We Do What We Do](/why-we-do-what-we-do.md)
 - [Writing Solid Code](/writing-solid-code.org)
 - [Zero-to-One](/zero-to-one.md)
