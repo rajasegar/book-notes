@@ -24,7 +24,7 @@ Author: David Deutsch
   - life
   - thought and
   - computation.
-- The four main strands of explanation which may constitude the first Theory of Everything are:
+- The four main strands of explanation which may constitute the first Theory of Everything are:
   - quantum physics
   - epistemology
   - the theory of computation
