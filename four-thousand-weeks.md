@@ -18,7 +18,7 @@ Author: Oliver Burkeman
  - Time management is all life is.
  - The pressure to fit ever-increasing quantities of activity into a stubbornly non-increasing quantity of daily time.
  - A failure to make the best use of a small supply of time.
- - *Time seems to speed up as you age*
+ - **Time seems to speed up as you age**
  - Our time and attention are so limited and therefore valuable
  - Our relationship to our limited time has always been a difficult one.
  - Time divided us, even more than it had before
@@ -218,7 +218,19 @@ Author: Oliver Burkeman
 - The point is not to eradicate procrastination, but to choose more wisely what you're goint to procrastinate on, in order to focus on what matters
 - The real measure of any time management technique  is whether or not it helps you neglect the right things.
 - The critical question is not how to differentiate between activities that matter and those that don't, but what to do when far too many things feel atleast somewhat important
-**- **Pay yourself first when it comes to time**
+- *Pay yourself first when it comes to time*
+- We are terrible at long-range planning
+- You get to preserve your sense of being in control of things, but at the cost of never finishing anything important
+- Limit your work-in-progress
+- Fix a hard upper limit on the no of things  that you can allow yourself to work on at any given time.
+- Banish the habit of keeping an ever proliferating number of half-finished projects on the back-burner
+- Your capacity for work is strictly finite
+- **Working on everything at once simply wasn't an option**
+- **Break down your projects into manageable chunks**
+- Resist the allure of middling priorities.
+- **Most of us need to get better at learning to say no **
+- 
+- 
 
 #### The Art of Creative Neglect
 
