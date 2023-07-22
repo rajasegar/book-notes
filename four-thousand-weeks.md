@@ -228,9 +228,22 @@ Author: Oliver Burkeman
 - **Working on everything at once simply wasn't an option**
 - **Break down your projects into manageable chunks**
 - Resist the allure of middling priorities.
-- **Most of us need to get better at learning to say no **
-- 
-- 
+- **Most of us need to get better at learning to say no**
+- It's all too easy to assume that this merely entails finding the courage to decline various tedious things
+  you never wanted to do in the first place
+- **Face the truth about your finitude and make your choices accordingly** 
+- You need to learn how to start saying no to things you don't want to do,
+  with the recognition that you have only one life
+- We fail to see or refuse to accept that any attempt to bring our ideas into
+  concrete reality must inevitably fall short of our dreams, no matter how
+  brilliantly we succeed in carrying things off.
+- **Reality has limitations and unpredictability**
+- Reality is a realm in which we don't have limitless control
+- If you're procrastinating on something because you are worried you 
+  won't  do a good enough job, you can relax.
+- Some people do commit outwardly to a relationship but hold back from
+  full emotional commitment on the inside
+
 
 #### The Art of Creative Neglect
 
