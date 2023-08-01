@@ -3,6 +3,8 @@ Author: Geno Segre
 
 What temperature reveals about the past and future of our species, planet and universe
 
+[[README.md][Readme]]
+
 ** Introduction: The Ruler, The Clock and the Thermometer
 - *New ideas expand our horizons*
 - Metrology - study of measurement
