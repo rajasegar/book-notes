@@ -46,3 +46,4 @@ This is a collection of my book notes
 - [Why We Do What We Do](/why-we-do-what-we-do.md)
 - [Writing Solid Code](/writing-solid-code.org)
 - [Zero-to-One](/zero-to-one.md)
+- [Microstress](/microstress.org)
