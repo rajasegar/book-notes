@@ -39,7 +39,7 @@ This is a collection of my book notes
 - [The Rational Optimist](/the-rational-optimist.md)
 - [The Subtle Art of not giving a F*ck](/subtle-art-of-not-giving-f*ck.md)
 - [The Theory of Everything](/theory-of-everything.md)
-- [Thinking in Numbers](/thinking-in-numbers.md)
+- [Thinking in Numbers](/thinking-in-numbers.org)
 - [Thinking in Systems](/thinking-in-systems.org)
 - [Tuesdays-with-Morrie](/tuesdays-with-morrie.md)
 - [What are you doing with your life?](/what-are-you-doing-with-your-life.md)

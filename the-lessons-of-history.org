@@ -20,6 +20,7 @@ Author: Will Durant
 
 ** History and the Earth
  - *Human history is a brief spot in space and its first lesson is modesty*
+ - *The first lesson of human history is modesty*
  - troublesome duplexity
  - *Man's ingenuity often overcomes geological handicaps*
  - Geography is the matrix of history, it's nourishing mother and disciplining home
@@ -179,7 +180,7 @@ Author: Will Durant
  - Competition compels the capitalist to exhaustive labor, and its products to every rising excellence
  - moral disintegration spread
  - Other factors equal, internal liberty varies inversely as external danger
- - *Human corrupitibility and incompetence make governmental control of industry impracticable*
+ - *Human corruptibility and incompetence make governmental control of industry impracticable*
  - a choice between private plunder or public graft
  - The fear of capitalism has compelled socialism to widen freedom
  - The fear of socialism has compelled capitalism to increase equality
