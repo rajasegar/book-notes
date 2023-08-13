@@ -65,18 +65,53 @@ Author: Daniel Tammet
  - not ignorance, but rather indecision
  - To say tha a student has no idea of a solution is untrue
  - Truth is, the learner does have ideas, too many infact , almost all of them bad.
- - *Mental haze* => having too many ideas
+ - *Mental haze* \rarr having too many ideas
  - Without the knowledge necessary to eliminate the mental haze, the learner finds
    himself confronted with an embarassment of wrong answers to helplessly pick from.
  - The growing body of knowledge is the process of error correction
- - Real value \to have the bullion of hard experience to back them up
+ - Real value \rightarrow have the bullion of hard experience to back them up
  - beautiful conclusion
  - There is no thing that half of it is nothing.
    
 
 ** Shakespeare's Zero
+ - the ultimate negation
+ - the idea of nothingness
+ - the new and the paradoxical no
+ - Zero 'signifies nothing' but instead 'holds a place and signifies for others'
+ - The bigger an empty room, the more the things that can be contained inside.
+ - *The greater an absence, the greater the potential presence*
+ - the paradoxical fullness of the empty figure of a zero
+   
 
 ** Shapes of Speech
+ - the atmosphere of intrigue and anticipation
+ - communes with nature
+ - the prizing of pattern over matter
+ - appetite for novelty
+ - the study of geometry into a liberal education
+ - an immaterial and intellectual manner
+ - timing was impeccable
+ - one carefully laid path of reasoning
+ - *The flash of certainty is an illusion*
+ - *The grasping of an absolute truth is an illusion*
+ - Rhetoric \rarr the art of speaking
+ - A mathematical proof is a rhetorical device for convincing someone else that a mathematical statement is true or valid.
+ - building blocks of our systems of thought
+ - Maths in real life is a form of social interaction where "proof" is a complex of the formal and the informal of calculations
+   causal comments, of convincing argument and appeals to the imagination and the intuition
+ - Establishing motive is an exercise in basic mathematical logic
+ - the history of intellectual progress
+ - *Axioms* \rArr statements that we accept as being self-evidently true
+ - definitions:
+   - concise
+   - basic
+   - unambiguous
+ - 2 ways of establishing a proposition:
+   - by trying to demonstrate it upon reason
+   - to pass it by the weight of pure authority
+ - Proposition \to Clarification \to Axiom \to Conclusion
+     
 
 ** On Big Numbers
 
