@@ -14,6 +14,7 @@ This is a collection of my book notes
 - [Genome](/genome.org)
 - [Good Strategy Bad Strategy](/good-strategy-bad-strategy.org)
 - [High Output Management](/high-output-management.org)
+- [How Big Things Get Done](/how-big-things-get-done.org)
 - [Influence](/influence.md)
 - [Living within Limits](/living-within-limits.org)
 - [Man's search for meaning](/mans-search-for-meaning.md)

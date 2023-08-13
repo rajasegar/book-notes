@@ -1,0 +1,65 @@
+* How Big Things Get Done
+Author: Bent Flyvbjerg, Dan Gardner
+
+** Introduction
+ - The universal drivers that make the difference between success and failure: psychology and power
+
+** Think Slow, Act Fast
+The record of big projects is even worse than it seems
+
+The record of big projects is even worse than it seems. But there is a solution: Speed up by slowing down.
+
+** The Commitment Fallacy
+You need to commit but not in the way you think
+
+** Think from Right to Left
+Start with the most basic question of all, why?
+
+** Pixar Planning
+Plan like Pixar and Frank Gehry do
+
+
+** Are you experienced?
+Experience is often misunderstood and marginalized
+
+** So you think your project is unique
+Think again, Your project is "one of those"
+
+** Can ignorance be your friend
+Planning ruins projects, some say, But is it true?
+
+** A single, determined organism
+Everyone must row in the same direction: toward delivery
+
+** What's your lego?
+Modularity is the key to building at world-transforming scale
+
+** Eleven heuristics for better project leadership
+ - Heuristics are fast and frugal rules of thumb used to simplify complex decisions
+ - Experts and laypeople alike use heuristics when making decisions under uncertainty.
+ - *Heuristics are mental shortcuts used to reduce complexity, making decisions manageable.*
+ - Heuristics are often tacit and need to be deliberately teased out before they can be shared verbally
+ - Phronesis
+ - Wise people work to refine and improve their heuristics throughout life.
+
+*** Hire a Masterbuilder
+
+*** Get your team right
+
+*** Asky "Why?"
+
+*** Build with Lego
+
+*** Think Slow, Act Fast
+
+*** Take the outside view
+
+*** Watch your downside
+
+*** Say no and walk away
+
+*** Make Friends and keep them friendly
+
+*** Build climite mitigation into your project
+
+*** Know that your biggest risk is you
