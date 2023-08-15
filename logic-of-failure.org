@@ -23,6 +23,7 @@ Author: Dietrich Dorner
  - *Failure does not strike like a bolt from the blue; it develops gradually according to its own logic*
 
 ** Some Examples
+
 *** The Lamentable fate of Tanaland
  - The explanations for success and failure lie instead in certain patterns of thought
  - We cannot do just one thing
@@ -389,6 +390,7 @@ Author: Dietrich Dorner
 - Studying the consequences of our measures gives us excellent opportunities for correcting our incorrect
   behavioral tendencies and assumptions about reality
 - *Sometimes decisiveness grows out of a conviction that we know what to do*
+
 *** Learn by making Mistakes? Not Necessarily!
 - Unexpected results should give us pause
 - Why our image of reality is so far off the mark?
@@ -444,6 +446,7 @@ Author: Dietrich Dorner
   not the liberation of some mysterious creative potential and not
   the mobilization of that fallow 90% of our mental capacity.
 - *The only thing that matters most* => the development of our common sense
+
 **** Learnings
 - We can learn that it is essential to state goals clearly. We all know we should do that, but we rarely encounter the necessity
 - We can learn that we cannot always realize all our goals at once, because different goals may contradict one another. We
