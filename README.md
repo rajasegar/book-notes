@@ -17,6 +17,7 @@ This is a collection of my book notes
 - [How Big Things Get Done](/how-big-things-get-done.org)
 - [Influence](/influence.md)
 - [Living within Limits](/living-within-limits.org)
+- [Look](/look.org)
 - [Man's search for meaning](/mans-search-for-meaning.md)
 - [Metaphors We Live By](/metaphors-we-live-by.org)
 - [Nomad Century](/nomad-century.org)
