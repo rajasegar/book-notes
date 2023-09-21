@@ -5,22 +5,22 @@ Author: Matt Ridley
 ** Preface
 - the unfolding story of human genome
 - We are living through the greatest intellectual moment in history
-- The human being is much more than his genes
+- The =human being= is much more than his genes
 - *We stand on the brink of great new answers but even more of great new questions*
 - tedious biochemical middle managers
 - Human beings accumulate about 100 mutations per generation.
 - Modern genetics is a formidable thicket of jargon
 
 ** Life
-- Human brain => porridgy contraption
+- ~Human brain~ => porridgy contraption
 - immense fascination
 - *The secret of life is indeed a thread*
 - *Life is a slippery thing to define*, but it consists of two very different skills
 	- the ability to replicate
 	- the ability to create order
 - *Living creatures drink orderliness from the environment*
-- Genes are coded recipes
-- Chromosomes contain the secret of life
+- /Genes are coded recipes/
+- Chromosomes contain the _secret_ of life
 - The secret of life has nothing to do with quantum states
 - DNA is the chemical manifestation of heredity
 - *All life is chemistry*. Atleat some life is chemistry
@@ -37,7 +37,7 @@ Author: Matt Ridley
 - There is a growing evidence that RNA cambe before proteins
 - error catastrope - rapid decay of the message in the genes
 - RNA is an unstable substance
-- The surface life on earth is but a veneer
+- *The surface life on earth is but a veneer*
 - LUCA - Last Universal Common Ancestor
 - Life has a physical history but not a genealogical one
 - The genes that ended up in all of us may therefore have come from lots of different species of creatures
