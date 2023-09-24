@@ -50,7 +50,7 @@ Author: Oliver Burkeman
 
 #### Time Before Timetables
   - Our modern way of thinking about time is so deeply entrenched that we forget it even is a way of thinking
-  - *There is no sense in raching towards some hypothetical moment of completion*
+  - *There is no sense in racing towards some hypothetical moment of completion*
   - Task orientation => The rhythms of life emerge organically from the tasks themselves, rather than from being lived
     up against an abstract timeline.
   - We still occasionally encounter islands of deep time today
