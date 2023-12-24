@@ -269,12 +269,75 @@ Author: Richard Rumelt
 - The basis for productive extensions often resides within complex pools of knowledge and know-how
 
 - One must reexamine  each aspect of product and process casting aside the comfortable assumption that everyone knows what they are doing.
+
+- Improvements come from reexamining the details of how work is done not just from constant controls or incentives
+
+- comfortable assumption => Everyone knows what they are doing
+- Build on your strengths
+- patterns of accumulating and extending technological resources
+
+- A brand's value comes from guaranteeing certain characteristics of the product
+
+- Engineering higher demand for the services of scarce resources is actually  the most basic of business stratagems
+
+- In a static setting, rivals will soon or later figure out how to duplicate much of your proprietary knowledge and how other specialized resources
+
+- Continuing streams of innovations in methods and products are more difficult to imitate when they are,
+  themselves based on streams of proprietary knowledge
   
 - 
 
 *** Using Dynamics
+- Natural asymmetry can form the basisi of an advantage
+- You exploit a wave of change by understanding the likely evolution of the landscape and then channelling  resources and innovation
+  toward positions that will become the high ground
+- Waves of change are largely exogenous
+- *To begin to see a wave of change, it helps to have some perspective*
+- Believing that today's changes are huge, dwarfing those in the past, reflects an ignorance of history
+- Historical perspective helps you make judgments about importance and significance
+- Seek to perceive and deal with a wave of change in its early stages of development
+- The challenge is not forecasting but understanding the past and the present
+- The evidence lies in plain sight, waiting for you to read its deeper meanings
+- second-order effect
+- You must dig beneath this surface reality to understand the forces underlying the main effect and develop a point
+  of view about the second-order and derivative changes that have been set in motion.
+- Change can mean opportunity
+- broken right through the scale barrier
+- the engg-intensive success
+- It was the skill embodied in the software that was so hard to duplicate
+- The unnerving sense of hidden subterranean forces at work
+- You must be able to dig beneath that surface and discover the fundamental forces at work
+- It seems obvious at hindsight
+- difficult proposition
+- Restating a general question in specific terms helped
+- *Design always involve a certain amount of time and error*
+- Good hardware and software engineers are both expensive 
+- Inflection points can disrupt whole industries
+- the power of using waves of change to advantages
+- There is no simple theory or framework for analysing waves of change
+- It is hard to show your skill as a sailor when there is no wind
+- Only the largest competitors can cover the fixed charges
+- the competitive terrain shifted dramatically
+- Highly regulated companies do no know their own costs
+- mental and accounting biases
+- Faster uptake of a durable product -> sooner saturation of the market
+- *Convergence didn't happen the way it was supposed to happend*
+  The very foundations they had stood upon were eaten away by waves of change
+- The incumbent firms resist a transition that threatens to undermine the complex skills and valuable positions
+  they have accumulated over time
+- Having a clear point of view about an industry's attrator state helps one ride the wave of change with more grace
+- An attractor state, provides a sense of direction for the future of evolution of an industry
+- incumbent inertia
+- an evolution in the direction of efficiency
+
+
+
 
 *** Inertia and Entropy
+- In business, inertia is an org's unwillingness or inability to adapt to changing circumstances
+- Entropy measures a physical system's degree of disorder
+- 2nd law of thermodynamics => entropy always increases in an isolated physical system
+- 
 
 *** Putting it together
 
