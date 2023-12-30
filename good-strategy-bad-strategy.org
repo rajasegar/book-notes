@@ -337,14 +337,102 @@ Author: Richard Rumelt
 - In business, inertia is an org's unwillingness or inability to adapt to changing circumstances
 - Entropy measures a physical system's degree of disorder
 - 2nd law of thermodynamics => entropy always increases in an isolated physical system
-- 
+- An organization of some size and age rests on layer upon layer of imparted knowledge and experience, encapsulated in routines
+- organizational inertia:
+  - inertia of routine
+  - cultural inertia
+  - inertia by proxy
+- intensely strategic challenge
+- *Being right doesn't always help the decision maker*
+- Inertia due to obsolete and inappropriate routines can be fixed
+- If senior leaders become convinced that new routines are essential, change can be quick
+- the work norms and mindsets
+- A good product-market strategy is useless if important competencies are absent and their development is blocked by long-established culture
+- Culture => elements of social behavior  and meaning that are stable and strongly resistant to change
+- blunt and vivid example
+- It is dangerous to think that organizational culture can be changed quickly or easily
+- Inertia by proxy disappears  when the organization decides that adapting to changed circumstances is more important than hanging onto old profit streams
+- *It is hard not to see entropy at work*
+- inert incumbent
+- competitive posture
+- The bread and butter of every consultant's business  is undoing entropy - cleaning up the debris and weeds that grow in every organizational garden
+- untangle layers of complexity
+- data driven management and transfer of best practices
+- Undoing the accumulated clutter and waste from years of of entropy at work
+- the value of competent management
+- no fuzziness, no confusion
+- *Without constant attention, the design decays*
+- Without active maintenance, the lines demarking products become blurred and coherence is lost.
+- vivid illustration of the power of entropy
+- Business leaders tend to see competition as a cleansing wind, blowing away waste and abuse
+- *The world is not that simple*
+- inertia:
+  - embedded obsolete routines
+  - frozen culture
+  - chain-link systems
+  
 
 *** Putting it together
+- kernel of good strategy:
+  - diagnosis
+  - guiding policy
+  - coherent action
+- jumped from nowhere to dominance
+- white-knuckle adrenaline rush
+- network externalities
+- a set of cohesive policies and actions
+- faster cycle -> best in class products
+- began to hit its stride
+- *Companies do not slide quietly into the darkness*
+- A change in technology will often set in motion a change in industry structure
+- *Growth is the outcome of a successfull strategy*
+- Attempts to  engineer growth are exercises in magical thinking
+- classic bad strategy
+- scarce competencies
+- strageic blunder
+- disruption from below
+- far from sure things
+    
 
 ** Thinking like a Strategist
-
+- Most useful shift in viewpoint => thinking about your own thinking
+- *A great deal of human thought is not intentional - it just happens*
+- A good scientist pushes to the edge of knowledge and then reaches beyond, forming a conjecture -
+  a hypthesis about how things work in the unknown territory
+- 
 *** The Science of Strategy
+- *Good Strategy is built on functional knowledge about what works, what doesn't and why?*
+- woven together in a working harmony
+- An engineer starts with complexity and crafts certainty
+- Asking for a strategy that is guaranteed to work is a dumb request
+- A good strategy is a hypothesis about what will work
+- *In a world of change and flux, more of the same is rarely the right answer*
+- In a changing world, a good strategy must have an entrepreneurial component
+- *Good strategy work is necessarily empirical and pragmatic*
+- Scientific empiricism => we believe our senses and the data our instruments report to our senses
+- An anomaly is a fact that doesn't fit received wisdom
+- The idea of refutation => with false beliefs  thrown aside, we shall be left with the truth
+- The idea of refutation is the centerpiece of scientific thinking
+- An anomaly marks an opportunity to learn something, perhaps something very valuable
+- In science, anomalies are the frontier, where the action is.
+- You see, but you do not observe
+- the ritual and romance
+- The anomalies are not in nature but in the mind of the acute observer
+- The anomalies are revealed by a comparision between the fats and refined expectations
+- History took a different course
+- Coffee was the daily fuel of the enlightenment
+- One of the most important resources a business can have is valuable privileged information
+- radical change
+- To expect to make money from a new business,the entrepreneur should know something that others do not,
+  or have control of a scarce and valuable resource
+- valuable privilege information => knowing something that others do not
+- A good scientist carefully studies the result of experiments
+- gradually localized
+- *Scientific induction*: process of learning (hypothesis, datt, anomaly, new hypothesis, data and so on)
+- Scientific induction is a critical element of every successful business
+- Incumbents had difficulty understanding
+- Integration is not always a good idea
+- mutual adjustment of multiple elements
 
 *** Using your head
-
 *** Keeping your head
