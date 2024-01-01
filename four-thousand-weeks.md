@@ -298,9 +298,9 @@ Author: Oliver Burkeman
 - Resist the allure of middling priorities
 
 ## 3 rules of thumb especially useful for harnessing the power of patience as a creative force
- - Develop a taste for having problems
- - Embrace radical incrementalism
- - Originality lies on the far side of unoriginality
+    - Develop a taste for having problems
+    - Embrace radical incrementalism
+    - Originality lies on the far side of unoriginality
 
 
 
