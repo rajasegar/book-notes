@@ -473,5 +473,69 @@ Author: Richard Rumelt
 - The kernel reminds us that a strategy is more than a localized insight
 - Facts on the ground -> Diagnosis -> Overall directive -> Action
 - Strategy also embodies an approach to overcoming some difficulty
-- 
+- Changes in some factors may radically alter the mix of efficacious strategies
+- In reasoning about natural data, people:
+  - tend to see patterns where there is only randomness
+  - tend to see causes rather than associations
+  - tend to ignore information that conflicts with a maintained theory
+- Shift your attention from what is being done to why it is being done
+- Most people take their initial insight and tweak it slightly
+- We are adept at recognizing and comprehending well-integrated human personalities
+- The creation of new higher quality alternatives requires that one try hard to destroy existing alternatives
+- exposing their fault lines and internal contradictions
+- *What you get from a person is a not a conceptual framework or theory,  but a viewpoint integrated into a personality*
+- Good strategies are usually corner solutions, they emphasize focus over compromise
+- *Humans have built-in software for understanding other humans*
+- Software that is more expert at recognizing and recalling personalities than at almost anything else
+- Good judgment is hard to define and harder still to acquire
+- *Judgment can be improved with practice*
+- Certainly some part of good judgment seems to be innate, connected with having a balanced character and an understanding of other people
+- having daily opportunities to learn, improve and recalibrate your judgment
+- 3 essential skills to guide your own thinking in strategy work:
+  - You must have a variety of tools to fight your  own myopia and for guiding your attention
+  - You must develop the ability to question your own judgement
+  - You must cultivate the habit of making and recording judgments so that you can improve
+
+
+
+
+
+
 *** Keeping your head
+- Good strategy -> independent assessment
+- Bad strategy -> follows the crowd
+- carefully crafted purpose
+- Economies of scale have always played a central role in strategy thinking
+- The concept of cost is tricky
+- Choices, not products have costs
+- the connection between industry structure and profit
+- the product is an undifferentiated commodity - terrible understanding
+- psychotic break in reasoning
+- the hard work of evaluating the logic of a business strategy
+- Sufficienly complex logical systems are incomplete
+- To break the circular logic one must look  at knowledge and principles that are more deeply rooted than current popular opinion
+- unwinding and deleveraging
+- Engineering overreach: where designers built systems whose failure modes and failure consequences exceeded their ability to comprehend or analyze
+- Many other man-made disasters was the result of intertwined errors in human judgment and behavior
+- The collapse is virtually certain but it is not signaled by a history of shakiness or vibration
+- *Inside view*: the tendency to ignore related pertinent data - to believe that this case is different
+- An important virtue of a good leader is putting the situation in perspective and having cool minded judgment
+- a bulwark against the tyrannies of oligarchy and collectivism
+- It takes long term real world stress testing  in a wide variety of conditions - to warrant the kind of confidence
+- New tools were claimed without sufficient evidence
+- Pride goes before destruction, a haughty spirit before a fall
+- financial luminaries
+- Social herding presses us to think that everything is ok because everyone else is saying so
+- echo-chamber chanting of the crowd
+- It's important to push back against these biases:
+  - social herding
+  - inside view
+- The inside view presses us to ignore the lessons of other times and other places
+- Pay attention to real world data
+- Learn lessons taught by history and other people
+- 5 intertwined errors in human judgment and behavior:
+  - engineering overreach
+  - smooth-sailing fallacy
+  - risk-seeking incentives
+  - social herding
+  - inside view
