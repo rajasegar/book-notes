@@ -302,6 +302,9 @@ Author: Oliver Burkeman
  - Embrace radical incrementalism
  - Originality lies on the far side of unoriginality
 
+
+
+
 - *Broken fantasy* => you might one day finally reach the state of having no problems whatsoever
 
 - The state of having no problems is obviously never going to arrive
