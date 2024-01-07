@@ -250,11 +250,48 @@ Author: Oliver Burkeman
 #### Perfection and Paralysis
 
 #### The Inevitability of Settling
+- JOMO => the recognition that the renunciation of alternatives is what makes their choice a meaningful one in the first place
+- When you can no longer turn back, anxiety falls away
+- Now there's only one direction to tracel: forward into the consequences of your choice
 
 
 ### The Watermelon Problem
+- What you pay attention to, will define, for you, what reality is
+- Attention just is life
+- A systematic inner failure to use one's time on what one claimed to value the most
+- Your experience of being alive consists of nothing other than the sum of everything to which you pay attention
+- In succumbing to diversions, they were squandering the very shift of existence
+- Attention is the beginning of devotion
+- Distraction and care are incompatible with each other
+- The only faculty you can use to see what's happening to your attention is your attention, the very thing that's alreay been commandeered
+- We are distracted from  distraction by distraction
+- Your finite time has been appropriated , without you realizing anything's amiss
+- Political crises demand political solutions
+- We have to understand distraction at the deepest level
+- The most insidious of the obstacles we face in our efforts to sue our finite lives well
+- **Much of the time we give into distraction willingly**
+- 
 
 ### The Intimate Interrupter
+- You are obliged to gice up your godlike fantasies and to experience your lack of power over things you are care about
+- The real problem had been not the activity itself but his internal resistance to experiencing it
+- We are motivated by the desire to try to flee something painful about our experiences of the present
+- When the difficult sensations are so hard to ignore that it take real effort to shift your attention elsewhere
+- You are eager the slightest excuse to turn away from what you are doing, in order to escape how disagreeable it feels to be doing it.
+- **Intimate Interrupter**: inner urge towards distraction - self within self
+- **We are rendered so uncomfortable by concentrating on things that matter**
+- **Boredom often arises without explanation**
+- Whenever we succumb to distraction, we are attempting to flee a painful encounter with our finitude
+- When you try to focus on something you deem important, you are forced to face your limits
+- **Boredom is an intense reaction to the deeply uncomfortable experience of confronting your limited control**
+- Boredom can feel so surprisingly, aggressively unpleasant
+- **Face your finitude**
+- You will have had to allow yourself to risk feeling claustrophobic, imprisoned, powerless and constrained by reality
+- The strategies generally recommended for defeating distraction rarely work or at least not for long
+- You will probably still find it unpleasantly constraining to focus on what matters
+- What we think of distractions are not the ultimated cause of our being distracted
+- 
+- 
 
 ## Part II: Beyond Control
 
