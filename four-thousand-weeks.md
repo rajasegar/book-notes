@@ -289,13 +289,58 @@ Author: Oliver Burkeman
 - You will have had to allow yourself to risk feeling claustrophobic, imprisoned, powerless and constrained by reality
 - The strategies generally recommended for defeating distraction rarely work or at least not for long
 - You will probably still find it unpleasantly constraining to focus on what matters
-- What we think of distractions are not the ultimated cause of our being distracted
-- 
-- 
+- What we think of distractions are not the ultimate cause of our being distracted
+- The most effective way to sap distraction of its power is to stop expecting things to be otherwise
+- Accept that this upleasantness is simply what it feels like for finite humans
+- Confront our limited control over how our lives unfold
+- There is a sense in which accepting the lack of any solution is the solution
+- **Acknowledge the inevitability of discomfort**
+- Turn more of your attention to the reality of your situation than to railing against it.
+- **You don't get to dictate the course of events**
+- The paradoxical reward for accepting reality's constraints is that they no longer feel so constraining
+- The entirety of human suffering can be boiled down to this effort  to resist paying full attention to the way things are going
+- We wish we felt more in control of the process
+- There is a very down-to-earth kind of liberation in grasping that there are certain truths about being a limited
+  human from which you will never be liberated.
 
 ## Part II: Beyond Control
+- **Hofstadter's Law**: Any task you are planning to tackle will always take longer than you expect, even when you take into account Hofstadter's Law
+- The standard advice about planning could actually make matters worse
+- The activities we try to plan fr somehow actively resist our efforst to make them conform to our plans
 
 ### We Never Really have time
+- **Reality seems to fight back**
+- The obsessive planner, essentially is demanding certain reassurances from the future
+- The future is not the sort of thing that can ever provide the reassurance
+- No matter how far ahead you plan, you never get to relax in the certainty that everything is going to go the way you would like
+- **The fontier of your uncertainty just gets pushed further and further towards the horizon**
+- Worry at the core is the repetitious experience of a mind attempting to generate a feeling of security about the future, failing than trying again and again
+- the importance of confronting, rather than avoiding the uncomfortable reality about how little time we have
+- The fuel behind worry is the internal demand to know in advance that things will turn out fine
+- **You can never be truly certain about the future**
+- And so your reach will always exceed your grasp
+- Our efforst to influence the future are not the problem, the problem is the need we feel from our  vantage point here in 
+  the present moment to be able to know that those efforst will prove successfull
+- Our expectations are forever running up against the stubborn reality that time is not our posession and can't be brought under our control
+- **The struggle for certainty is an intrinsically hopeless one**
+- It's a recipe for a life of unending stress to insist that your must be able to feel certain
+- **You can't know that things will turn out all right**
+- A surprising effective antidote to anxeity can be to simply realize that this demand for reassurance from the future is one that
+  will definitely never be satisfied.
+- If you peer back even further in time, it's an even more dizzying matter of coincidence piled upon coincidence
+- the mind boggling nunber of things
+- Despite our total lack of control over any of these occurrences, each of us made it through to this point in our lives
+- thanks to circumstances you never chose
+- **Do not rule over imaginary kingdoms of endlessly proliferating possibilities**
+- Take no thought for the morrow, for the morrow shall take thought  for the things of itself
+- I don't mind what happens
+- A life spent not minding what happens is one lived without the inner demand to know that the future will conform to your desires for it
+- Planning is an essential tool for constructing a meaningful life and for exercising  our responsibilities towards other people
+- **The real problem is that we take our plans for something they are not**
+- The future ofcouse is under no obligation to comply
+- **All a plan is a present-moment statement of intent**
+- Inevitably we become obsessed with using time well
+- It turns out to be perilously easy to over-invest  in this instrumental relationship to time
 
 ### You are Here
 
