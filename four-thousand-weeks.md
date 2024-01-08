@@ -343,6 +343,47 @@ Author: Oliver Burkeman
 - It turns out to be perilously easy to over-invest  in this instrumental relationship to time
 
 ### You are Here
+- **The unfortunate truth**: The more you focus on using time well, the more each day begins to feel like something you have to get through.
+- You find yourself living mentally in the future
+- We are all frequently guilty of something similar
+- We treat eveything we are doing, life itself, as valuable only inso far as it lays the groundwork for something else
+- We are treating the present solely as a path to some superior future state and so the present moment won't ever feel satisfying in itself
+- Modernity had corrupted the purity of parenthood
+- Obviously it matters to keep half an eye on the future
+- hypothetical future sense of security and peace of mind
+- A child's purpose is to be a child
+- **Nature does not disdain what only lives for a day. It pours the whole of itself in each moment.**
+- **Life's bounty is in its flow, Later is too late**
+- **Life is a succession of transient experiences**, valuable in themselves which you will miss if you are completely focused on 
+  the destination to which you hope they might be leading.
+- Indeed, there is a sense in which every moment of life is a last time
+- We approach our finite time in such a pereversely instrumental and future-focused way
+- Our lives, thanks to their finitude, are inevitably full of activities that we are doing for the very last time.
+- **We exist inside an economic system that is instrumentalist to its core**
+- Capitalism is a great machine for instrumentalising everything it encounters
+- Rich people in capitalist economies are often surprisingly miserable
+- a future state of happiness
+- have difficulty grasping a non-commoditized understanding of the meaning of time
+- We choose to treat time in this self-defeatingly instrumental way and we do so because it helps us maintain
+  the feeling of being in omnipotent control of our lives.
+- **The moment of truth is always now**
+- Life is nothing but a succession of present moments
+- **Throw yourself into life now**
+- Our fixation of purposiveness is ultimately motivated by the desire not to die
+- The purposive man is always tring to secure a spurious and delusive immortality for his actions by pushing his
+  interests in them forward into time
+- The purposive man get to imagine himself an omnipotent god, whose influence over reality extends infinitely off into the future
+- You are so fixated on trying to make the best use of your time
+- finding absorption in the most mundane of activities
+- The attempt to be here now feels not so much relaxing as rather strenuous
+- Trying to have the most intense possible present-moment experience is a surefire way to fail
+- The life of this moment has no outside
+- Living more fully in the present may be simply a matter of finally realizing you never had any other option but to be here now
+- To try to live in the moment implies that you are somehow separate from the moment and thus in a position to either succeed or fail at living in it
+- **Purposiveness**: using time well for future purposes
+- The attempt to  be here now is therefore still another instrumentalist attempt to use the present moment purely as a means to an end
+- We cannot get anything out of life
+- There is no outside where we can take life into
 
 ### Rediscovering Rest
 
