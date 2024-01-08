@@ -390,6 +390,40 @@ Author: Oliver Burkeman
 ### The Impatience spiral
 
 ### Staying on the Bus
+- In a world geared for hurry, the capacity to resist the urge to hurry is a way to gain purchase on the world
+- accustomed to a life of speed
+- You don't have much choice but to let the work in question takes its time
+- **The presence of problems in your life is not impediment to a meaningful existence, but the very substance of one**
+- ultra-competitive atmosphere
+- There is nothing passive or resigned about the kind of patience that arises from this effort to resist the urge to hurry
+- Grumpiness gives way to fatigue, then restless irritation
+- Time slows and sags
+- Grumpiness -> Fatigure -> Restless irritation
+- You finally give up attempting to escape the discomfort of time passing so slowly and the discomfort abates
+- of really getting stuck into life
+- The experience of patience is tangible, almost edible, as if it gives things a kind of chewiness - into which you can sink your teeth
+- Your reward for surrendering the fantasy of controlling the pace of reality is to achieve, at last, a real sense of purchase on that reality
+- Patience is not merely a more peaceful and present-oriented way to live but a concretely useful skill
+- transformative experience of surrendering to the speed of reality
+- If you are willing to endure the discomfort of not knowing, a solution will often present itself.
+- We are made so uneasy by the experience of allowing reality to unfold at its own speed that when we are faced with a problem, it feels
+  better to race towards a resolution
+- Once you give up on the unattainable goal of eradicating all your problems, it becomes possible to develop an appreciation for the 
+  fact that life is just a process of engaging with problem after problem
+- **Life is just a process of engaging with problem after problem**
+- Most of us treat the problems we encounter as doubly problematic
+- **Unspoken fantasy** => You might one day finally reach the state of having no problems whatsoever
+- The state of having no problems is never going to arrive
+- **There is nothing called an unproblematic state**
+- A life devoid of all problems would contain nothing worth doing and would therefore be meaningless
+- Critical aspect of radical incrementalist approach => be willing to stop when your daily time is up, 
+  even when you are bursting with energy and feel as though you could much more done.
+- Stopping helps strengthen the muscle of patience that will permit you to return to the project again, 
+  and thus to sustain your productivity over an entire career
+- **Stay on the bus, stay on the fucking bus**
+- The distinctive work begins at all only for those who can muster the patience to immerse themselves in the earlier stage - 
+  the trial-and-error phase of copying others learning new skills and accumulating experience
+- the kinds of meaningful and singular accomplishments that just take the time they take
 
 ### The Loneliness of the Digital Nomad
 
