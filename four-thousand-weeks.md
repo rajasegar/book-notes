@@ -386,8 +386,65 @@ Author: Oliver Burkeman
 - There is no outside where we can take life into
 
 ### Rediscovering Rest
+- eliminating the epidemic of overwork
+- The whole point of leisure is to enjoy leisure for its's own sake
+- The regrettable consequence of justifying leisure only in terms of it's usefulness for other things is that it begins to feel vaguely like a chore
+- leisure no longer feels very leisurely 
+- Leisure was life's center of gravity
+- Work was a sometimes inevitable interruption
+- Leisure became sharply delineated from work
+- instrumental attitude towards leisure
+- Rest that has no instrumental value feels wasteful
+- a deep-rooted inability to refrain from using time productively
+- We are not merely the victims of an economic system that denies us any opportunity for rest
+- We are also the kind of people who don't actually want to rest
+- Producitivity as a way to avoid confronting difficult emotions
+- being pathalogically unable to relax
+- We find it seriously unpleasant to pause in our efforts to get things done 
+- We get angry when we feel as though we are not being sufficiently productive
+- **Idleness aversion**: is one of the core ingredients of the modern soul
+- idleness aversion -   the inability rest
+- Idleness became an especially anxiety-inducing experience to be avoided at all costs
+- an imagined future state of perfection
+- the self flagellation of guilty sinners anxious to expunge the stain of laziness before it's too late
+- Rest for the sake of rest
+- Your days aren't progressing towards a future state of perfectly invulnerable happiness
+- We are the sum of all the moments of our lives
+- It's an absolutely well tailored to an equally absurd reality about humans
+- There might be nothing more you need to do in order to justify your exitence
+- It is fun to have funbut have to know how
+- the coherent, harmonious, somehow thicker experience of time that comes with being on the receiving  end of life
+- When everyone is following the rule too, they are inevitably harder to abide by
+- Nothing is more alien to the present age thant idleness
+- The other important thing we can do as individuals in order to enter the experience of genuine destination,
+  is simply to stop expecting it to feel good, at least in the first instance
+- It's virtually guaranteed that truly stopping to rest is initially going to provide some serious feelings of discomfort rather than of delight.
+- perhaps the most mundane of leisure activities
+- It's therefore inherently painful for humans to have objects of willing
+- Atelic activity => it's value is not derived from it's telos or ultimate aim
+- Midlife crisis is when many of us first become consciously aware that mortality is approaching
+- The result of living a project-driven life, crammed not with atelic activities but telic ones is a creeping sense of emptiness
+- When your relationship with time is almost entirely instrumental, the present moment starts to lose its meaning
+- Mortality makes it important to ignore the absurdity of living solely for the future
+- Where's the logic in constantly postponing fulfilment until some later point in time when soon enough you won't have any later left
+- The being and existence of objects of willing become an intolerable burden for it.
+- Human beings swings like a pendulum to and fro between pain and boredom
+- We might seek to imcorporate into our daily lives more things we do for their own sake alone
+- Some things are worth doing for themselves alone
+- Hobbies have acquired the embarrassing reputation in an era so committed to using time instrumentally
+- We are pursuing our telic lives ceaslessly in search of future fulfilment
+- genuinely do hobbies out of love
+- It's fine and preferable to be mediocre at them
+- Freedom to pursue the futile
+- The freedom to suck without caring is revelatory
+- **Results** are not everything
+- Results always come later and later is always too late
 
-### The Impatience spiral
+
+
+
+
+## The Impatience spiral
 
 ### Staying on the Bus
 - In a world geared for hurry, the capacity to resist the urge to hurry is a way to gain purchase on the world
