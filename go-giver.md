@@ -48,7 +48,7 @@ Author: Bob Burg and John David Mann
 - The secret to giving is making yourself open to receiving.
 - The secret to getting is giving.
 - Things are always a bit of the opposite of what they seem.
-- The glorious irony of creation that tucks its greatest truths carefully inside paradoxes.
+- **The glorious irony of creation is that it tucks it's greatest truths carefully inside paradoxes.**
 - The world treats you more or less the way you expect to be treated.
 - Success is the result of specific habits of action.
 - Being a giving person.

@@ -6,6 +6,7 @@ This is a collection of my book notes
 - [A Matter of Degrees](/a-matter-of-degrees.org)
 - [Antifragile](/antifragile.md)
 - [Attitude is everything](/attitude-is-everything.md)
+- [Better](/better.org)
 - [Debugging](/debugging.org)
 - [Deep Simplicity](/deep-simplicity.org)
 - [Everything is figureoutable](/everything-is-figureoutable.md)
