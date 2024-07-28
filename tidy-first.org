@@ -1,0 +1,18 @@
+* Tidy First
+A Personal exercise in Empirical Software Design
+Author: Kent Beck
+
+** Introduction
+Tidy First? describes:
+
+- When to tidy messy code before changing what it computes
+
+- How to tidy messy code safely and efficiently
+
+- How to stop tidying messy code
+
+- Why tidying works
+- Software design is an exercise in human relationships
+- Tidy first is the first step to take when faced with messy code
+- let’s understand and practice software design in ways that benefit our daily work
+  
