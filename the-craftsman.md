@@ -5,6 +5,26 @@ Author: Richard Sennett
 
 ## Craftsman
 
+- Craftsmanship is certainly from an ethical point o view ambiguous
+
+We human beings live in 2 dimensions:
+- In one we make things, in this condition we are amoral and absorbed in a task
+- We also harbor another higher way of life in which we stop producing and start
+  discussing and judging
+
+- People can learn about themselves through the things they make
+- We can do so simply by asking - though the answers are anything but simple
+- What the process of making concrete things reveals to us about ourselves
+- *Fundamental human limit* Language is not an adequate "mirror tool" for the physical movements of the human body
+- Failure can teach a fundamental modesty even if that virtue is gained at great pain
+- Only the rich can afford to be stupid; for others ability is a necessity not an option
+- Art plays a particular role in this life voyage atleast for artists.
+- The work of art become like a buoy at sea marking out the journey
+- There is an intelligent craftsman in most of us
+- Faith still makes sense
+- **The Good Craftsman is a poor salesman**
+- Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake
+
 ### The Troubled Craftsman
 
 #### The Modern Hephaestus: Ancient Weavers and Linux Programmers
@@ -64,6 +84,12 @@ Author: Richard Sennett
 ### Arousing Tools
 
 ### Resistance and Ambiguity
+- Resistance and ambiguity are instructive experiences
+
+#### Skills of working well with resistance:
+- Reconfiguring the problem into other terms
+- Readjusting one's behaviour if the problem lasts longer than expected
+- Identifying with the problem's most forgiving element
 
 ## Craftsmanship
 
