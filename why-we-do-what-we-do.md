@@ -95,7 +95,7 @@ Author: Edward L. Deci with Richard Flaste
   - Learning will be greater when prompted by intrinsic motivation rather than external controls
   - controlling limits vs autonomy supportive limits
 
-### Engaging the world with a sense of competence
+b### Engaging the world with a sense of competence
 
 ## THE ROLE OF INTERPERSONAL CONNECTEDNESS
 

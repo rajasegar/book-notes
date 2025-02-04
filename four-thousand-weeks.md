@@ -442,8 +442,6 @@ Author: Oliver Burkeman
 
 
 
-
-
 ## The Impatience spiral
 
 ### Staying on the Bus
