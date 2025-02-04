@@ -3,7 +3,51 @@ Author: Richard Sennett
 
 ## Prologue: Man as his own maker Pandora's Casket
 
-## Craftsman
+- The engineer or any maker of material things, is not master of his own house
+- Politics, standing above the physical labor, has to provide the guidance
+- People who make things usually don't understand what they are doing
+- It is human nature to believe anything that seems possible should therefore be tried
+- Terrible Paradox: Experts in fear of their own expertise
+- Treating technology as an enemy will only render humanity more helpless
+- The creator's works become the public's problem
+- A life without speech and without action i literally dead to the world
+- The fundamental fact of life is that nothing lasts
+- The good teacher imparts a satisfying explanation
+- The great teacher unsettles, bequeaths disquiet, invites argument
+- Homo faber - Man as maker
+- Animal laborans takes the work as an end in itself
+- Animal laborans => How?
+- Homo faber => Why?
+- Materialistic thinking is obscure
+- Engagement must start earlier, requires a fuller, better understanding of the process by which people go about producing things
+- Workplaces may not truly value the aspiration for quality
+- The craftsman often faces conflicting objective standards of excellence
+- Material culture matters
+- **The desire to do a job well for its own sake**
+
+## craftsman
+
+- Craftsmanship is certainly from an ethical point o view ambiguous
+
+
+We human beings live in 2 dimensions:
+- In one we make things, in this condition we are amoral and absorbed in a task
+- We also harbor another higher way of life in which we stop producing and start
+  discussing and judging
+
+
+- People can learn about themselves through the things they make
+- We can do so simply by asking - though the answers are anything but simple
+- What the process of making concrete things reveals to us about ourselves
+- *Fundamental human limit* Language is not an adequate "mirror tool" for the physical movements of the human body
+- Failure can teach a fundamental modesty even if that virtue is gained at great pain
+- Only the rich can afford to be stupid; for others ability is a necessity not an option
+- Art plays a particular role in this life voyage atleast for artists.
+- The work of art become like a buoy at sea marking out the journey
+- There is an intelligent craftsman in most of us
+- Faith still makes sense
+- **The Good Craftsman is a poor salesman**
+- Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake
 
 ### The Troubled Craftsman
 
@@ -64,6 +108,12 @@ Author: Richard Sennett
 ### Arousing Tools
 
 ### Resistance and Ambiguity
+- Resistance and ambiguity are instructive experiences
+
+#### Skills of working well with resistance:
+- Reconfiguring the problem into other terms
+- Readjusting one's behaviour if the problem lasts longer than expected
+- Identifying with the problem's most forgiving element
 
 ## Craftsmanship
 

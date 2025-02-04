@@ -1,0 +1,29 @@
+* Kill it with Fire: Manage Aging Computer Systems
+Author: Marianne Bellotti
+
+** Chapter 6: Coming in Midstream
+*** Mess: Institutional Failures
+- If a bad pattern is used in one part of a system,  it's everywhere in the system
+- More likely, the bad pattern you're seeing is a result of shifting norms around technical best practices.
+- “if you have a piece of software no one has put much thought into maintaining for a few years, there are going to be problems”
+- Once you have found a problem, the next step is to deteremine whether it is a pattern or just a mistake
+- Some problems do not reveal themselves easily and require actual human beings to solve them
+- Clarity about the problem is a key to solving it
+- Clarity about what matters is a key to making progress
+- It is always easy to do the right thing but it is difficult to do the right thing the first time
+- “The nice thing about patterns is that if you know their context, you can predict them”
+
+*** The Compounding Problem: No Owners
+
+*** Mess: Leadership has lost the room
+- Losing the room (sports term) => A coach has lost the respect of his or her players.
+  The Team instead of following orders and working togetherm struggles to self-organize
+- People are often too quick to equate morale issues with character flaws
+-
+**** The Compounding Problem: Self-Sabotaging Teams
+- Confidence comes before success. Success rarely creates confidence
+
+*** Solution: Murder Boards
+
+*** Stopping the bleed
+- Legacy modernization projects do not fail because one mistake was made or something wrong went once.

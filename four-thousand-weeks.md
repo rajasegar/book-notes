@@ -443,8 +443,49 @@ Author: Oliver Burkeman
 
 
 ## The Impatience spiral
+- We're almost certainly much more impatient than we used to be
+- Since the beginning of the modern era of acceleration, peopple have been responding not with satsifaction
+    at all the time save but with increasing agitation that they can't move things move faster still
+- We are unwilling to acknowledge our limitations when it comes to our time
+- We sufer when we adopt this sort of dictatorial attitude towards the rest of reality
+- The wise man is like a tree that bends instead of breaking in the wind  or water that flows arund obstacle in its path
+- Many of our efforts to force reality's pace is self-defeating
+  - Your only hope of exercising any real influence over the world is to work with the fact, instead of against
+  - our decereasing tolerance for delay
+  - We tend to feel as though its our right to have things move at the speed we desire
+  - **We make ourselves miserable**
+  - Chivvying the world to move faster is frequently counter-productive anyway
+  - ratcheting sense of discomfort, of wanting  to hasten the speed of reality
+  - Societal impatience: the wider culture's  rising expectations  about how quickly things ought to happen
+  - It's not much that we're too busy, or too distractible, but that we are unwilling to accept the truth
+  - Reading is the sort of activity that largely operates according to its own schedule
+  - **Reading something properly just takes the time it takes**
+  - far more aspects of reality
+  - were so accustomed to a life of constant motion and stimulation
+  - pulsing sense of urgency
+    - the vicious spiral that constitutes to the psychological core of an addiction
+    - Our modern disease of accelerated living is a condition as serious as alcoholism
+    - The faster we go, the clearer it becomes that will never succeed in getting ourselves or the rest of the world to move 
+    as fast as we feel is necessary
+    - It is no coincidence that another meaning  of the word rush is feeling of exhiliration
+    - **You know you must stop accelerating, yet it also feels as though you can't**
+    - Having abandoned the destructive  attempt to achieve the impossible, can get to work on what actually is possible
+    - reality confronting experience of recovery
+    - a bracing act of choice
+    - Second order change => a change in perspective that reframes everything
+    - second order change is not an incremental improvement
+    - **You surrender to the reality that things  just take the time they take** 
+    - You can't quiet your anxieties by working faster
+    - **You cultivate an appreciation for endurance, hanging in and putting the next foot forward**
+    - **Patience**: the least fashionable perhaps the most consequential of super powers
+    - As you dive into life as it really is, you breath a sigh of relief
+    - clear-eyed awareness of your limitations
+    - Give up demanding:
+      - instant resolution
+      - instant relief from discomfort and pain
+      - magical fixes
 
-### Staying on the Bus
+### STAYING on the Bus
 - In a world geared for hurry, the capacity to resist the urge to hurry is a way to gain purchase on the world
 - accustomed to a life of speed
 - You don't have much choice but to let the work in question takes its time
