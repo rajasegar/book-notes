@@ -1,0 +1,34 @@
+* Artificial Intelligence in Finance
+A Python Based Guide - Yves Hilpisch
+
+** Part 1: Machine Intelligence
+
+*** Artificial Intelligence
+
+**** Algorithms
+
+***** Types of Data
+
+****** Features data (input data)
+
+****** Labels data (output data)
+
+***** Types of Learning
+
+****** Supervised Learning
+
+****** Unsupervised Learning
+
+****** Reinforcement Learning
+
+***** Types of Tasks
+
+***** Types of Approaches
+
+** Part 2: Finance and Machine Learning
+
+** Part 3: Statistical Inefficiencies
+
+** Part 4: Algorithmic Trading
+
+** Part 5: Outlook
