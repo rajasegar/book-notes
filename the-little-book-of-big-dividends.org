@@ -31,10 +31,21 @@ Author: Charles B. Carlson
 - A stock's yield is determined by two things:
   - the dividend and
   - the stock price
+- *Find stocks with above-average appreciation potential and safe and growing dividends,*
+  *and buy them at attractive prices*
+- Dividend paying stocks are as attractive today as they have been in nearly three decades
+- The Importance of size and safety of dividends when considering dividend paying stocks
+- BSD (Big Safe Dividends) formula takes into account factors most critical to the safety and growth
+  potential of a company's dividend.
+- Finding attractive dividend-paying stocks is only one piece of the puzzle. Buying them is another piece.
+- *Inflation is the enemy of any investment program*
+- One way to help 
 
+** 
 ** The Check is in the Mail
 
 ** Supersize me , without the Heart burn
+- *Dividend yield is a pretty good proxy for investment yield*
 
 ** If Einstein was a Dividend Investor
 
