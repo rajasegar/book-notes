@@ -39,6 +39,7 @@ This is a collection of my book notes
 - [The Go-Giver](/go-giver.md)
 - [The Last Lecture](/last-lecture.org)
 - [The Lessons of History](/the-lessons-of-history.org)
+- [The Little Book of Big Dividends](/the-little-book-of-big-dividends.org)
 - [The Logic of Failure](/logic-of-failure.org)
 - [The Paradox of Choice](/the-paradox-of-choice.md)
 - [The Prophet](/the-prophet.org)
