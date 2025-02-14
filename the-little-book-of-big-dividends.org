@@ -54,6 +54,52 @@ Author: Charles B. Carlson
 ** It Pays to be Direct
 
 ** The Post Cards from the Hedge
+Beat Inflation - and the Stock Market with Dividend Growers
+- *No 1. public enemy for investors - inflation*
+- inflation - the loss of purchasing power
+- Inflation can be devastating for your nest egg
+- At an inflation rate of just 3 percent per year, $1 today will Be worth just 50 cents in less than 25 years.
+- It is easy to ignore the effects of inflation on future cash flows
+- How can income investors fight inflation? Own investments that pay higher income every year.
+- One way to hedge against inflation is to focus on stocks that are likely to boost their dividends on a regular basis. The math is simple, but compelling
+- The bottom line is that if your dividends can at least keep pace with inflation—and hopefully exceed the inflation rate—your real spending power can be maintained or increased over time.
+- Dividend growth may be the best friend of income investors, but it’s often overlooked because income investors focus on today (current yield) and not tomorrow (dividend growth).
+- *One way to hedge against inflation is to focus on stocks that are likely to boost their dividends on a regular basis.*
+- you’ll increase your chances of owning stocks with attractive capital-gains potential.
+- You don’t necessarily need big yields to generate big dividends.
+- In fact, in many cases the biggest dividends over time come from moderate yielders that grow their dividends regularly.
+- the way individuals typically frame buying decisions.
+- *Yield is a good proxy for risk*
+- When you move money to a higher-yielding investment, it’s likely you are moving to a higher-risk investment
+- Since dividends are paid with cash, they can’t be faked. They can’t be created through accounting magic; either you pay the dividend, or you don’t.
+- When a company makes a commitment to pay the dividend, it’s showing confidence that it will be able to continue to pay this commitment to shareholders
+- When a company increases its dividend, the firm is saying that it believes the company’s future is strong enough to support an increase in shareholder cash flows.
+- A dividend increase is not a perfect signal that the future is bright
+- Under most circumstances a company is not likely to raise its dividend without having a high degree of confidence that it can deliver
+- *Buying dividend growers is not just a good idea as an inflation hedge; it’s a good idea because dividend growers, as a group, outperform the market.*
+***** The Age Old Question: Risk vs Reward
+- 33 years is a fairly long period of time to recoup an investment.
+- Think of payback as a safety-net approach to stock investing. Obviously, nobody knows for sure how a stock is going to behave over time.
+- By calculating a payback period, you help establish an expected baseline performance, kind of a worst- case scenario, for getting your initial investment back.
+- Should you focus on stocks that have the quickest payback? Not necessarily. Ultimately, total return is what matters.
+- Still, using dividend payback is a worthwhile concept for framing the risk-return potential of two stocks. It’s also a useful tie-breaker when choosing between two investments.
+*** Use the Advanced BSD Formula to Find Growers
+- An excellent way to zero in on dividend growers is to use the Advanced BSD formula
+- Companies that have high BSD scores typically have excellent dividend-growth prospects.
+- Advanced BSD formula factors in the most important components of dividend growth:
+  - Profit Growth
+  - Cashflow Growth
+  - Payout ratio
+- Profits and cash flow ultimately determine the amount of dividends a company can pay
+- if profits and cash flow are rising, dividends should follow. The payout ratio shows the amount of flexibility a company has with its dividend
+- A payout ratio of 60 percent ($1 in dividends paid out for every $1.66 in profits) or below reflects a company that is more likely to maintain or boost its dividend than one already paying out most of its profits in dividends.
+*** Finish Strong
+- In racing parlance, current yield is only the starting line. And as everyone knows, *it’s not how you start a race, it’s how you finish*
+- Dividend growth hedges against inflation, accelerates your payback on invest- ment, and tends to point you toward stocks that beat the market
+**** Yield
+***** Hedge me if you can. Higher dividends are a great inflation hedge.
+***** Payback is a pitch for dividend growers. Dividend growth accelerates the payback on your investment.
+***** Put on your signal. Companies that increase their dividends signal their confidence in the future—a confidence that should manifest itself in market-beating returns
 
 ** LifeGuard on Duty
 
