@@ -43,11 +43,41 @@ Author: Charles B. Carlson
 
 ** 
 ** The Check is in the Mail
+Get paid to invest with dividends
+- *Roughly 40 percent of the stock market's long-run total returns comes from dividends*
+*** Why Dividends Matter
+- The dependability of dividends is a big reason why investors should consider dividends when buying stock
+*** To pay dividends or not to pay dividends
+*** No profits, No dividends
+*** What's my yield
+*** No Free Lunch
+*** Dating My Ex
+*** Capture the Dividend - Not!
+*** Dividends and Taxes
 
 ** Supersize me , without the Heart burn
 - *Dividend yield is a pretty good proxy for investment yield*
 
 ** If Einstein was a Dividend Investor
+The Little Formula That Finds the Biggest, Safest Dividends
+- Less is usually more when it comes to formulas, including those for investing.
+- The fewer moving parts in an investing methodology, the easier it is to implement and monitor.
+*** Basic BSD Formula for Stock Selection
+The basic formula starts with two simple premises:
+1. A company cannot pay dividends if it doesn't have the money to pay dividends
+2. You need to choose stocks that have attractive total-return potential, not just dividend returns.
+
+3. BSD formula looks at just two data points:
+   1. Payout ratio
+
+   2. Overall Quadrix score
+4. Payout Ratio: A stock's payout ratio measures how much of a company's profit is paid out in dividends.
+5. Obviously, if a company pays out more in dividends than profits, the dividend will not be sustained.
+6. If a company pays out a small portion of its profits in the form of dividends, there's cushion
+   for the divided to grow or at least be maintained, even if profits decline.
+7. *The payout ratio is perhaps the most powerful tool for getting a quick snapshot of a company's
+   *ability to maintain and grow its dividend*
+
 
 ** The World is Your Oyster
 
