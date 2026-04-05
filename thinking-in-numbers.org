@@ -65,7 +65,7 @@ Author: Daniel Tammet
  - not ignorance, but rather indecision
  - To say tha a student has no idea of a solution is untrue
  - Truth is, the learner does have ideas, too many infact , almost all of them bad.
- - *Mental haze* \rarr having too many ideas
+ - *Mental haze* \to having too many ideas
  - Without the knowledge necessary to eliminate the mental haze, the learner finds
    himself confronted with an embarassment of wrong answers to helplessly pick from.
  - The growing body of knowledge is the process of error correction
