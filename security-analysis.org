@@ -1,0 +1,24 @@
+* Security Analysis
+Author: Benjamin Graham and David L. Dodd
+
+** Survey & Approach
+
+*** The Essential Lessons
+
+**** The Scope and Limits of Security Analysis. The concept of intrinsic value
+
+**** Fundamental elements in the problem of analysis, quantitative and qualitative factors
+
+** Fixed Value investments
+
+** Senior Securities with Speculative features
+
+** Theory of Common Stock Investment, The Dividend Factor 
+
+** Analysis of the  Income Account, The Earnings factor in Common Stock Valuation
+
+** Balance sheet analysis, Implications of Asset Values
+
+** Additional Aspects of Security Analysis, Discrepancies between price and value
+
+** Global Value investing
